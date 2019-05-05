@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<templates>
+  <blocks>
+    <block type="text" id="cardTitle">
+      <location x="45" y="25" />
+      <text color="#000000" size="25" />
+      <border color="#FFFFFF" size="3" />
+      <wordwrap height="180" width="350" shrinktofit="False" />
+    </block>
+	   <block type="text" id="cardType">
+      <location x="45" y="115" />
+      <text color="#EEEEEE" size="18" />
+      <border color="#000000" size="2" />
+      <wordwrap height="120" width="204" shrinktofit="False" />
+    </block>
+	
+    <block type="text" id="cardText">
+      <location x="60" y="400" />
+      <text color="#000000" size="22" />
+      <border color="#FFFFFF" size="2" />
+      <wordwrap height="300" width="385" shrinktofit="False" />
+    </block>
+    <block type="text" id="cardPUR">
+      <location x="450" y="300" />
+      <text color="#000080" size="30" />
+      <border color="#FFFFFF" size="2" />
+    </block>
+    <block type="text" id="cardPowerRating">
+      <location x="45" y="225" />
+      <text color="#000080" size="20" />
+      <border color="#FFFFFF" size="2" />
+      <wordwrap height="120" width="350" shrinktofit="False" />
+    </block>
+    <block type="text" id="cardNumber">
+      <location x="450" y="665" />
+      <text color="#EEEEEE" size="18" />
+      <border color="#000000" size="2" />
+      <wordwrap height="120" width="204" shrinktofit="False" />
+    </block>
+ </blocks>
+
+  <template src="cards/red.png" default="True">
+    <matches>
+      <match name="Style" value="Red" />
+    </matches>
+    <textblocks>
+      <link block="cardTitle"><property name="Name" /></link>
+      <link block="cardText"><property name="Text" /></link>
+      <link block="cardNumber"><property name="Card Number" /></link>
+	  <link block="cardType"><property name="Type" /></link>
+    </textblocks>
+	</template> 
+	
+	  <template src="cards/saiyan.png" default="True">
+    <matches>
+      <match name="Style" value="Saiyan" />
+    </matches>
+    <textblocks>
+      <link block="cardTitle"><property name="Name" /></link>
+      <link block="cardText"><property name="Text" /></link>
+      <link block="cardNumber"><property name="Card Number" /></link>
+	  <link block="cardType"><property name="Type" /></link>
+    </textblocks>
+	</template> 
+	
+	  <template src="cards/black.png" default="True">
+    <matches>
+      <match name="Style" value="Black" />
+    </matches>
+    <textblocks>
+      <link block="cardTitle"><property name="Name" /></link>
+      <link block="cardText"><property name="Text" /></link>
+      <link block="cardNumber"><property name="Card Number" /></link>
+	  <link block="cardType"><property name="Type" /></link>
+    </textblocks>
+	</template> 
+	
+	  <template src="cards/blue.png" default="True">
+    <matches>
+      <match name="Style" value="Blue" />
+    </matches>
+    <textblocks>
+      <link block="cardTitle"><property name="Name" /></link>
+      <link block="cardText"><property name="Text" /></link>
+      <link block="cardNumber"><property name="Card Number" /></link>
+	  <link block="cardType"><property name="Type" /></link>
+    </textblocks>
+	</template> 
+	
+	  <template src="cards/orange.png" default="True">
+    <matches>
+      <match name="Style" value="Orange" />
+    </matches>
+    <textblocks>
+      <link block="cardTitle"><property name="Name" /></link>
+      <link block="cardText"><property name="Text" /></link>
+      <link block="cardNumber"><property name="Card Number" /></link>
+	  <link block="cardType"><property name="Type" /></link>
+    </textblocks>
+	</template> 
+	
+	  <template src="cards/namekian.png" default="True">
+    <matches>
+      <match name="Style" value="Namekian" />
+    </matches>
+    <textblocks>
+      <link block="cardTitle"><property name="Name" /></link>
+      <link block="cardText"><property name="Text" /></link>
+      <link block="cardPUR"><property name="PUR" /></link>
+      <link block="cardPowerRating"><property name="Power Rating" /></link>
+      <link block="cardNumber"><property name="Card Number" /></link>
+	  <link block="cardType"><property name="Type" /></link>
+    </textblocks>
+	</template> 
+	
+	  <template src="cards/dragonball.png" default="True">
+    <matches>
+      <match name="Type" value="Dragon Ball" />
+    </matches>
+    <textblocks>
+      <link block="cardTitle"><property name="Name" /></link>
+      <link block="cardText"><property name="Text" /></link>
+      <link block="cardNumber"><property name="Card Number" /></link>
+	  <link block="cardType"><property name="Type" /></link>
+    </textblocks>
+	</template> 
+	
+	  <template src="cards/villainally.png" default="True">
+    <matches>
+      <match name="Type" value="Ally - Villain" />
+    </matches>
+    <textblocks>
+      <link block="cardTitle"><property name="Name" /></link>
+      <link block="cardText"><property name="Text" /></link>
+      <link block="cardPUR"><property name="PUR" /></link>
+      <link block="cardPowerRating"><property name="Power Rating" /></link>
+      <link block="cardNumber"><property name="Card Number" /></link>
+	  <link block="cardType"><property name="Type" /></link>
+    </textblocks>
+	</template>
+	
+		  <template src="cards/villainMP.png" default="True">
+    <matches>
+      <match name="Type" value="Personality - Villain" />
+    </matches>
+    <textblocks>
+      <link block="cardTitle"><property name="Name" /></link>
+      <link block="cardText"><property name="Text" /></link>
+      <link block="cardPUR"><property name="PUR" /></link>
+      <link block="cardPowerRating"><property name="Power Rating" /></link>
+      <link block="cardNumber"><property name="Card Number" /></link>
+	  <link block="cardType"><property name="Type" /></link>
+    </textblocks>
+	</template>  
+	
+		  <template src="cards/heroally.png" default="True">
+    <matches>
+      <match name="Type" value="Hero - Ally" />
+    </matches>
+    <textblocks>
+      <link block="cardTitle"><property name="Name" /></link>
+      <link block="cardText"><property name="Text" /></link>
+      <link block="cardPUR"><property name="PUR" /></link>
+      <link block="cardPowerRating"><property name="Power Rating" /></link>
+      <link block="cardNumber"><property name="Card Number" /></link>
+	  <link block="cardType"><property name="Type" /></link>
+    </textblocks>
+	</template> 
+	
+		  <template src="cards/heroMP.png" default="True">
+    <matches>
+      <match name="Type" value="Personality - Hero" />
+    </matches>
+    <textblocks>
+      <link block="cardTitle"><property name="Name" /></link>
+      <link block="cardText"><property name="Text" /></link>
+      <link block="cardPUR"><property name="PUR" /></link>
+      <link block="cardPowerRating"><property name="Power Rating" /></link>
+      <link block="cardNumber"><property name="Card Number" /></link>
+	  <link block="cardType"><property name="Type" /></link>
+    </textblocks>
+	</template> 
+	
+	
+</templates>

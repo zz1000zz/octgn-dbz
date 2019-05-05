@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<game xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+      xmlns:xsd="http://www.w3.org/2001/XMLSchema" 
+      name="Dragon Ball Z Trading Card Game" 
+      id="383a6ac2-6e52-40a5-980f-fade09e4908b" 
+      octgnVersion="3.1.2.0" 
+      version="4.0.1.8"
+      markersize="20"
+      tags="Dragon Ball Z, DBZ, DBZ CCG, DBZ TCG, DBZ Card Game"
+      description="Dragon Ball Z Trading Card Game, by Panini America, Inc. Plugin provided by DBZTopTier.com"
+      setsurl="http://tcgtoptier.com"
+      gameurl="http://tcgtoptier.com"
+	  iconurl="http://tcgtoptier.com/images/box_art.jpg"
+      authors="Brandon Shollenberger, Jarrett McBride"
+	  scriptVersion="3.1.0.2">
+<scripts>
+<script src="scripts/actions.py" />
+<script src="scripts/generic.py" />
+<script src="scripts/constants.py" />
+<script src="scripts/engine.py" />
+<script src="scripts/events.py" />
+<script src="scripts/plugin.py" />
+<script src="scripts/util.py" />
+</scripts>
+<events>
+   <event name="OnTableLoaded" action="boardInit" />
+   <event name="OnGameStarted" action="gameInit" />
+   <event name="OnDeckLoaded" action="loadDeck" />
+   <event name="OnTurnPassed" action="autosave" />
+   <event name="OnPhasePassed" action="handlePhase" />
+</events>
+<fonts>
+</fonts>
+<proxygen definitionsrc="proxy/proxydef.xml">
+</proxygen>
+<phases>
+  <phase name="Draw Step" icon="groups/sideboard.png" />
+  <phase name="Planning Step" icon="groups/sideboard.png" />
+  <phase name="Declare Step" icon="groups/sideboard.png" />
+  <phase name="Entering Combat" icon="groups/sideboard.png" />
+  <phase name="Combat Step" icon="groups/sideboard.png" />
+  <phase name="Discard Step" icon="groups/sideboard.png" />
+  <phase name="Rejuvenation Step" icon="groups/sideboard.png" />
+</phases>
+<documents>
+      <document name="Turn Sequence/Attack Table" icon="documents/Manual.png" src="documents/reference.png" />
+</documents>
+<globalvariables>
+   <globalvariable name="automationEnabled" value="False" />
+   <globalvariable name="numLoadedDecks" value="0" />
+</globalvariables>
+<card back="Cards/back.png" front="Cards/front.png" width="63" height="88">
+	<property name="Style" type="String" />
+	<property name="Card Number" type="String"/>
+    <property name="Type" type="String" />
+	<property name="Endurance" type="Integer" />
+    <property name="Text" type="String" />
+	<property name="Traits" type="String" />
+	<property name="Limit per Deck" type="Integer" />
+	<property name="PUR" type="String" />
+	<property name="Power Rating" type="String" />
+    <property name="Rarity" type="String" />
+    <property name="Card Level" type="String" />
+</card>
+<table name="Table" visibility="undefined" ordered="False" width="500" height="380" background="Board/background.png" backgroundStyle="uniformToFill">
+   <groupaction menu="Clear all" shortcut="F4" execute="untapAll" />
+   <groupaction menu="Clear targets" shortcut="Esc" execute="clearAll" />
+   <groupaction menu="Roll a die" shortcut="Ctrl+R" execute="roll20" />
+   <groupaction menu="Flip a coin" shortcut="Ctrl+F" execute="flipCoin" />
+   <groupaction menu="Power up Personalities" shortcut="Ctrl+P" execute="powerUp" />
+   <!--groupaction menu="Show AT Value" shortcut="Ctrl+A" execute="lookupAttackTable" /-->
+   <cardaction menu="Use Card" default="True" execute="useCard"/>
+   <cardaction menu="Flip Up/Down" execute="flip" />
+   <cardaction menu="Discard" shortcut="Del" execute="discard" />
+   <cardaction menu="Add Power Stage" shortcut="F1" execute="addCounter" />
+   <cardaction menu="Lower Power Stage" shortcut="F2" execute="removeCounter" />
+	<cardaction menu="Set Power Stage" shortcut="F3" execute="setCounter" />
+   <groupaction menu="Move to Next phase." default="False" shortcut="Ctrl+Enter" execute="nextPhase" />
+   <groupactions menu="Game Setup Automation">
+      <groupaction menu="Enable Automation" shortcut="Ctrl+A" execute="enableSetupAutomation" />
+      <groupaction menu="Disable Automation" shortcut="Ctrl+Z" execute="disableSetupAutomation" />
+   </groupactions>
+   <groupactions menu="Announcements">
+      <groupaction menu="OK" default="False" execute="BUTTON_OK"  shortcut="Ctrl+1"/>
+      <groupaction menu="Wait!" default="False" execute="BUTTON_Wait" shortcut="Ctrl+2"/>
+      <groupaction menu="Actions?" default="False" execute="BUTTON_Actions" shortcut="Ctrl+3"/>
+      <groupaction menu="Pass." default="False" execute="declarePass" shortcut="Ctrl+Space"/>
+   </groupactions>
+   <groupactions menu="Saving Tools">
+		<groupaction menu="Save Game..." default="False" execute="saveTable" />
+		<groupaction menu="Load Game..." default="False" execute="loadTable" />
+		<groupaction menu="Autosave Mode On..." default="False" execute="autosaveOn" />
+		<groupaction menu="Autosave Mode Off..." default="False" execute="autosaveOff" />
+   </groupactions>
+</table>
+<player summary="Anger: {#Anger} / Hand: {#Hand}">
+   <globalvariable name="powerLevel" value="0" />
+   <globalvariable name="combatDeclared" value="False" />
+   <globalvariable name="maxHandSize" value="1" />
+	<counter name="Anger" icon="Counters/anger.png" default="0" />
+	<hand name="Hand" visibility="me" ordered="False" icon="groups/hand.png">
+	<cardaction menu="Play Card" default="True" execute="play" />
+   <cardaction menu="Discard" shortcut="Del" execute="discard" />
+	<groupaction menu="Random Discard" execute="randomDiscard" />
+	<groupaction menu="Show a Card at Random" default="False" execute="showatrandom"/>
+</hand>
+	<group name="Life Deck" visibility="none" icon="groups/library.png" shortcut="F5">
+    <groupaction menu="Draw" default="True" shortcut="Ctrl+D" execute="draw" />
+    <groupaction menu="Draw X..." shortcut="Ctrl+X" execute="drawMany" />
+    <groupaction menu="Draw from bottom" shortcut="Ctrl+Alt+D" execute="drawBottom" />
+    <groupaction menu="Shuffle" shortcut="Ctrl+S" execute="shuffle" />
+    </group>
+    <group name="Discard Pile" visibility="all" icon="groups/graveyard.png" shortcut="F6">
+    <groupaction menu="Banish top card" default="True" shortcut="Ctrl+B" execute="banishTop" />
+    <groupaction menu="Banish bottom card" default="True" shortcut="Ctrl+Shift+B" execute="banishBottom" />
+    <groupaction menu="Rejuvenate 1" default="True" shortcut="F5" execute="rejuvenateOne" />
+    <groupaction menu="Rejuvenate X..." default="True" shortcut="F6" execute="rejuvenateMany" />
+</group>
+    <group name="Removed from game" visibility="all" icon="groups/removed.png" collapsed="False" shortcut="F7"></group>
+	<group name="Starting" visibility="none" icon="groups/starting.png" collapsed="False" shortcut="F8"></group>
+</player>
+<shared>
+</shared>
+<deck>
+	<section name="Starting" group="Starting" />
+	<section name="Life Deck" group="Life Deck" />
+</deck>
+</game>

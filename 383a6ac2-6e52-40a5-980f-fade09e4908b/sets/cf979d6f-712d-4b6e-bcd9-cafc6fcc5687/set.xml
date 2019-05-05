@@ -1,0 +1,685 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" 
+     name="Movie Collection 2" 
+     id="cf979d6f-712d-4b6e-bcd9-cafc6fcc5687"
+     gameId="383a6ac2-6e52-40a5-980f-fade09e4908b" 
+     gameVersion="4.0.0.7" 
+     version="4.0.0.7"><cards>
+<card id="57a9cab0-aabd-4ba7-861f-e7909d7e84f9" name="Black Mist">
+<property name="Style" value="Black" />
+<property name="Card Number" value="R1" />
+<property name="Type" value="Setup" />
+<property name="Endurance" value="" />
+<property name="Text" value="(You may banish this card from your hand as an action to banish a Styled Event from your discard pile.  If you do, play a copy of that Event.)  POWER: Discard a card from your hand.  Return this card to your hand." />
+<property name="Traits" value="" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="" />
+<property name="Rarity" value="Rare" />
+<property name="Card Level" value="" />
+</card>
+<card id="63b61958-73c4-4592-aef1-c7f5005f82e2" name="Black Research">
+<property name="Style" value="Black" />
+<property name="Card Number" value="C2" />
+<property name="Type" value="Setup" />
+<property name="Endurance" value="1" />
+<property name="Text" value="(Villains only.  If this card is destroyed from your Life Deck you may place it into play.)  POWER: If the highest power level on your MP's Level 4 is 500,000 or less, destroy the top 3 cards of your opponent's Life Deck.  If your opponent controls no Setups, shuffle this into your Life Deck after use." />
+<property name="Traits" value="" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="" />
+<property name="Rarity" value="Common" />
+<property name="Card Level" value="" />
+</card>
+<card id="976436c1-23cc-4c89-972b-61fcc989eb20" name="Black Grudge Drill">
+<property name="Style" value="Black" />
+<property name="Card Number" value="U3" />
+<property name="Type" value="Drill" />
+<property name="Endurance" value="2" />
+<property name="Text" value="(if this card is discarded from your hand during combat, place it into play.)  CONTINUOUS POWER: Whenever you deal critical damage, you may choose a card in your opponent's discard pile and banish it.  INSTANT POWER: Use after you discard a card from your hand by a Mastery effect.  Draw a card." />
+<property name="Traits" value="" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="" />
+<property name="Rarity" value="Uncommon" />
+<property name="Card Level" value="" />
+</card>
+<card id="7489062a-7ac7-46c7-8648-63eb47191ce9" name="Black Mischief">
+<property name="Style" value="Black" />
+<property name="Card Number" value="U4" />
+<property name="Type" value="Event" />
+<property name="Endurance" value="3" />
+<property name="Text" value="(If this card is destroyed from your Life Deck by one of your effects, you may Rejuvenate it to choose a card in your discard pile and shuffle it into your Life Deck.)  POWER: Look at the top 5 cards of a player's Life Deck and put them back in any order.  Rejuvenate the top card of your opponent's Life Deck.  If it is not a Dragon Ball, banish it.  SAIYAN: Raise your anger 2 levels." />
+<property name="Traits" value="" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="" />
+<property name="Rarity" value="Uncommon" />
+<property name="Card Level" value="" />
+</card>
+<card id="aa3b611f-751c-46f3-80ef-21a232f549b1" name="Black Check">
+<property name="Style" value="Black" />
+<property name="Card Number" value="C5" />
+<property name="Type" value="Physical Combat" />
+<property name="Endurance" value="2" />
+<property name="Text" value="(If this card is discarded from your hand during combat, gain 3 stages and choose 3 cards in your opponent's discard pile and banish them.)  SHIELD POWER: Stops a physical attack.  Raise your anger 1 level.  Lower your opponent's anger 1 level." />
+<property name="Traits" value="" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="" />
+<property name="Rarity" value="Common" />
+<property name="Card Level" value="" />
+</card>
+<card id="52080ceb-e8c0-42ca-a5ef-026246182ea6" name="Blue Agility">
+<property name="Style" value="Blue" />
+<property name="Card Number" value="U6" />
+<property name="Type" value="Setup" />
+<property name="Endurance" value="" />
+<property name="Text" value="(You may only have one 'Blue Agility' attached.)  POWER: Attach to your MP.  Lower your opponent's anger 2 levels.  While attached, your physical attacks deal +1 stagte of damage and gain 'HIT: Lower your opponent's anger 1 level.'" />
+<property name="Traits" value="" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="" />
+<property name="Rarity" value="Uncommon" />
+<property name="Card Level" value="" />
+</card>
+<card id="b912ed47-dd25-4054-b3ab-a38b50e863d1" name="Blue Sword Mastery Drill">
+<property name="Style" value="Blue" />
+<property name="Card Number" value="U7" />
+<property name="Type" value="Drill" />
+<property name="Endurance" value="" />
+<property name="Text" value="(When this card enters playing during combat, if it is the first time a card titled 'Blue Sword Mastery Drill' has entered play this turn then you may search your discard pile for an attack with 'Sword' in the title and place it into your hand.)  CONTINUOUS POWER: Whenever you play a card with 'Sword' in the title, lower your opponent's anger 1 level." />
+<property name="Traits" value="" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="" />
+<property name="Rarity" value="Uncommon" />
+<property name="Card Level" value="" />
+</card>
+<card id="73724e0b-18f5-481b-ba4a-780dacfeb703" name="Blue Crushing Blow">
+<property name="Style" value="Blue" />
+<property name="Card Number" value="C8" />
+<property name="Type" value="Physical Combat" />
+<property name="Endurance" value="" />
+<property name="Text" value="Physical attack.  ALIEN: Lower your opponent's anger 2 levels.  DAMAGE: 5 life cards or 5 stages.  HIT: If you have used the Power of a Drill to perform an attack this combat, you may draw a card.  (Banish after use.)" />
+<property name="Traits" value="" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="" />
+<property name="Rarity" value="Common" />
+<property name="Card Level" value="" />
+</card>
+<card id="3e9a3de1-bb25-4fbb-8e9a-e75dc03289b3" name="Blue Sword Rush">
+<property name="Style" value="Blue" />
+<property name="Card Number" value="C9" />
+<property name="Type" value="Physical Combat" />
+<property name="Endurance" value="3" />
+<property name="Text" value="Physical attack.  Lower your opponent's anger 1 level.  Your Styled Setups this combat gain 'Shuffle into your Life Deck after use.'  DAMAGE: 5 stages." />
+<property name="Traits" value="" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="" />
+<property name="Rarity" value="Common" />
+<property name="Card Level" value="" />
+</card>
+<card id="99c93b53-b1ed-4b81-96d2-15e4c631ecee" name=" Blue Static Blast">
+<property name="Style" value="Blue" />
+<property name="Card Number" value="R10" />
+<property name="Type" value="Energy Combat" />
+<property name="Endurance" value="" />
+<property name="Text" value="Energy attack costing 2 stages.  Your opponent cannot use Endurance on your Styled attacks this combat.  DAMAGE: 5 life cards.  Hit: Lower your opponent's anger 2 levels." />
+<property name="Traits" value="" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="" />
+<property name="Rarity" value="Rare" />
+<property name="Card Level" value="" />
+</card>
+<card id="d2839602-1a63-4ce2-90d2-467faa26c401" name=" Namekian Determination">
+<property name="Style" value="Namekian" />
+<property name="Card Number" value="U11" />
+<property name="Type" value="Setup" />
+<property name="Endurance" value="2" />
+<property name="Text" value="(If this card is discarded from your hand by a card effect, play it instead.  INSTANT POWER: Use when a card effect would discard a card from your hand.  You may choose not to discard.  POWER: Gain 5 stages.  Rejuvenate 1.  (Banish after use.)" />
+<property name="Traits" value="" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="" />
+<property name="Rarity" value="Uncommon" />
+<property name="Card Level" value="" />
+</card>
+<card id="0f0b3968-7790-4ca3-b823-9029da9034e4" name=" Namekian Direct Strike">
+<property name="Style" value="Namekian" />
+<property name="Card Number" value="U12" />
+<property name="Type" value="Physical Combat" />
+<property name="Endurance" value="1" />
+<property name="Text" value="Physical attack.  Raise your anger 1 level.  Place a Styled card from your discard pile on top of your Life deck.  DAMAGE: AT +5 stages.  HIT: Rejuvenate 1.  (Banish after use.)" />
+<property name="Traits" value="" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="" />
+<property name="Rarity" value="Uncommon" />
+<property name="Card Level" value="" />
+</card>
+<card id="c961d7fd-2c69-412c-96e0-4ef994fe6651" name=" Namekian Duck">
+<property name="Style" value="Namekian" />
+<property name="Card Number" value="C13" />
+<property name="Type" value="Physical Combat" />
+<property name="Endurance" value="1" />
+<property name="Text" value="(If this card is discarded from your hand by a Mastery effect, gain 5 stage.)  SHIELD POWER: Stops a physical attack.  Raise your anger 1 level.  If the highest power level on your MP's Level 4 is 500,000 or less, shuffle this into your Life Deck after use." />
+<property name="Traits" value="" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="" />
+<property name="Rarity" value="Common" />
+<property name="Card Level" value="" />
+</card>
+<card id="821bb96c-885c-491b-a19c-059486f7c9ed" name=" Namekian Piercing Kick">
+<property name="Style" value="Namekian" />
+<property name="Card Number" value="R14" />
+<property name="Type" value="Physical Combat" />
+<property name="Endurance" value="" />
+<property name="Text" value="(If this card is discarded from your hand by a Mastery effect, you may banish it to use a critical damage effect.)  Physical Attack.  Choose a card in your opponent's discard pile and banish it.  DAMAGE: 4 stages.  HIT: If you have only 1 Trait, draw a card.  (Banish after use.)" />
+<property name="Traits" value="" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="" />
+<property name="Rarity" value="Rare" />
+<property name="Card Level" value="" />
+</card>
+<card id="b713f48f-973e-4840-a25e-b0eff508587b" name=" Namekian Power Ball">
+<property name="Style" value="Namekian" />
+<property name="Card Number" value="U15" />
+<property name="Type" value="Physical Combat" />
+<property name="Endurance" value="1" />
+<property name="Text" value="Energy attack costing 3 stages.  Damage from this attack is banished.  DAMAGE: 5 life cards.  HIT: Shuffle a Dragon Ball or Ally you control into its owner's Life Deck to destroy a Setup or Drill." />
+<property name="Traits" value="" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="" />
+<property name="Rarity" value="Uncommon" />
+<property name="Card Level" value="" />
+</card>
+<card id="28fce67b-e078-404d-b115-f6ded72f1090" name=" Orange Absorption Drill">
+<property name="Style" value="Orange" />
+<property name="Card Number" value="C16" />
+<property name="Type" value="Drill" />
+<property name="Endurance" value="1" />
+<property name="Text" value="CONTINUOUS POWER: After taking damage form a physical attack, your MP gains X stages.  X = the number of cards that attack dealt." />
+<property name="Traits" value="" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="" />
+<property name="Rarity" value="Common" />
+<property name="Card Level" value="" />
+</card>
+<card id="af930142-9669-4c3c-95ff-77fd60b2bcde" name=" Orange Energy Focus">
+<property name="Style" value="Orange" />
+<property name="Card Number" value="R17" />
+<property name="Type" value="Energy Combat" />
+<property name="Endurance" value="" />
+<property name="Text" value="(You may banish this card from your hand as an action to banish a Styled energy attack from your discard pile.  If you do, perform a copy of that attack.)  Energy attack.  Set your MP's power level to 0.  DAMAGE: 1 life card." />
+<property name="Traits" value="" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="" />
+<property name="Rarity" value="Rare" />
+<property name="Card Level" value="" />
+</card>
+<card id="2b84e2dc-0ece-473b-99c5-8dd7ee094f81" name=" Orange Counter Punch">
+<property name="Style" value="Orange" />
+<property name="Card Number" value="U18" />
+<property name="Type" value="Physical Combat" />
+<property name="Endurance" value="1" />
+<property name="Text" value="Physical attack.  Search your discard pile for a Styled attack card and Rejuvenate it.  DAMAGE: AT +3 stages.  HIT: rejuvenate the bottom 2 cards of your discard pile." />
+<property name="Traits" value="" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="" />
+<property name="Rarity" value="Uncommon" />
+<property name="Card Level" value="" />
+</card>
+<card id="9306da59-b4e5-49cc-9471-df42671a3a71" name=" Orange Palm Charge">
+<property name="Style" value="Orange" />
+<property name="Card Number" value="C19" />
+<property name="Type" value="Energy Combat" />
+<property name="Endurance" value="1" />
+<property name="Text" value="(You may only have one 'Orange Palm Charge' attached.)  Energy attack costing 1 stage.  Attach to your MP.  While attached, your Styled energy attacks cost -1 stage (to a minimum of 0) and deal +1 life card of damage.  DAMAGE: 4 life cards." />
+<property name="Traits" value="" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="" />
+<property name="Rarity" value="Common" />
+<property name="Card Level" value="" />
+</card>
+<card id="c1a8b689-fced-44c0-a6f8-702de3c873e9" name=" Orange Quick Toss">
+<property name="Style" value="Orange" />
+<property name="Card Number" value="U20" />
+<property name="Type" value="Physical Combat" />
+<property name="Endurance" value="1" />
+<property name="Text" value="Energy attack costing 1 stage.  Lower your opponent's anger 1 level.  EARTHLING: This attack stays in play to be used a second time this combat.  DAMAGE: 3 life cards.  HIT: Gain 2 stages.  (banish after use.)" />
+<property name="Traits" value="" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="" />
+<property name="Rarity" value="Uncommon" />
+<property name="Card Level" value="" />
+</card>
+<card id="07bcf864-d399-4283-946b-64c4fd7fc6a7" name=" Red Attitude Drill">
+<property name="Style" value="Red" />
+<property name="Card Number" value="U21" />
+<property name="Type" value="Drill" />
+<property name="Endurance" value="" />
+<property name="Text" value="INSTANT POWER: Use after your opponent lowers your anger.  Pay 3 stages to raise your anger X levels.  X = the amount of anger lowered.  POWER: Gain 3 stages.  ANDROID: Your attacks deal +1 life card of damage this combat.  Choose a Styled card in your discard pile and shuffle it into your Life Deck." />
+<property name="Traits" value="" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="" />
+<property name="Rarity" value="Uncommon" />
+<property name="Card Level" value="" />
+</card>
+<card id="f4555e0d-c204-469c-949a-9b7f43933dbc" name=" Red Counter">
+<property name="Style" value="Red" />
+<property name="Card Number" value="U22" />
+<property name="Type" value="Event" />
+<property name="Endurance" value="" />
+<property name="Text" value="SHIELD POWER: Stops a physical attack.  ALIEN: If you have only 1 Trait, you may banish a card from your hand to switch your discard pile for a Named attack card and place it into your hand (Banish after use.)" />
+<property name="Traits" value="" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="" />
+<property name="Rarity" value="Uncommon" />
+<property name="Card Level" value="" />
+</card>
+<card id="02b482d5-f297-4b2b-8b7d-9c35ff2ead7d" name=" Red Focus">
+<property name="Style" value="Red" />
+<property name="Card Number" value="R23" />
+<property name="Type" value="Event" />
+<property name="Endurance" value="" />
+<property name="Text" value="(You may banish this card from your hand as an action to banish a Named attack from your discard pile.  If you do, perform a copy of that attack.)  POWER: Raise your anger 1 level.  Lower your opponent's anger 1 level.  Set your MP's power level to 0." />
+<property name="Traits" value="" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="" />
+<property name="Rarity" value="Rare" />
+<property name="Card Level" value="" />
+</card>
+<card id="44ce733c-3aec-4723-a3e7-ff8db2ca60f5" name=" Red Celestial Strike">
+<property name="Style" value="Red" />
+<property name="Card Number" value="C24" />
+<property name="Type" value="Physical Combat" />
+<property name="Endurance" value="" />
+<property name="Text" value="Physical attack.  Raise your anger 1 level.  Destroy a Drill or Ally.  GOD: Lower your opponent's anger 2 levels.  DAMAGE: AT +1 stage." />
+<property name="Traits" value="" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="" />
+<property name="Rarity" value="Common" />
+<property name="Card Level" value="" />
+</card>
+<card id="1087e78e-aa4d-4320-8ec6-081df37299ba" name=" Red Expunge">
+<property name="Style" value="Red" />
+<property name="Card Number" value="C25" />
+<property name="Type" value="Energy Combat" />
+<property name="Endurance" value="" />
+<property name="Text" value="(If this card is banished by one of your effects, lower your opponent's anger 1 level.)  Energy attack costing 2 stages.  You may lower your anger 1 level.  If you do, lower your opponent's anger 2 levels.  DAMAGE: 5 life cards.  HIT: Lower your opponent's anger 2 levels." />
+<property name="Traits" value="" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="" />
+<property name="Rarity" value="Common" />
+<property name="Card Level" value="" />
+</card>
+<card id="72cc5f7f-11d3-4f4f-8f97-751040ccb8b2" name=" Saiyan Muck Drill">
+<property name="Style" value="Saiyan" />
+<property name="Card Number" value="U26" />
+<property name="Type" value="Drill" />
+<property name="Endurance" value="2" />
+<property name="Text" value="(When this Drill enters play, look at your opponent's hand.)  CONTINUOUS POWER: Your Styled attacks deal +1 life card of damage.  INSTANT POWER: Use after one of your effects destroys cards from your Life Deck.  Rejuvenate the bottom 2 cards of your discard pile and destroy the top 2 cards of your opponent's Life Deck." />
+<property name="Traits" value="" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="" />
+<property name="Rarity" value="Uncommon" />
+<property name="Card Level" value="" />
+</card>
+<card id="dbd121a3-8845-479d-abf1-332dab1fb58e" name=" Saiyan Bear Hug">
+<property name="Style" value="Saiyan" />
+<property name="Card Number" value="U27" />
+<property name="Type" value="Physical Combat" />
+<property name="Endurance" value="" />
+<property name="Text" value="(Villains only.  When this card is destroyed or banished from your LIfe Deck, raise your anger 1 level and Rejuvenate it.)  Physical attack.  If you have destroyed cards from a player's Life Deck this combat, use a critical damage effect.  Destroy the top card of your Deck to destroy the top card of your opponent's Life Deck.  DAMAGE: 4 life cards.  HIT: Raise your anger 1 level." />
+<property name="Traits" value="" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="" />
+<property name="Rarity" value="Uncommon" />
+<property name="Card Level" value="" />
+</card>
+<card id="7594229b-219d-4354-bb08-03b25c439fd7" name=" Saiyan Chop">
+<property name="Style" value="Saiyan" />
+<property name="Card Number" value="C28" />
+<property name="Type" value="Physical Combat" />
+<property name="Endurance" value="" />
+<property name="Text" value="Physical attack.  Shuffle the top X cards of your discard pile into your LIfe Deck.  X = your MP's level.  DAMAGE: AT +3 stages.  HIT: Your opponent cannot play non-Styled cards this combat.  (Banish after use.)" />
+<property name="Traits" value="" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="" />
+<property name="Rarity" value="Common" />
+<property name="Card Level" value="" />
+</card>
+<card id="5f0ce056-1777-42a8-9c46-eddf0dddea10" name=" Saiyan Tandem Strike">
+<property name="Style" value="Saiyan" />
+<property name="Card Number" value="R29" />
+<property name="Type" value="Physical Combat" />
+<property name="Endurance" value="1" />
+<property name="Text" value="PHysical attack.  EARTHLING: You may destroy the top card of your Life Deck to gain 5 stages.  DAMAGE: AT +3 stages.  HIT: Search your Life Deck for a Styled Drill and play it.  (Banish after use.)" />
+<property name="Traits" value="" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="" />
+<property name="Rarity" value="Rare" />
+<property name="Card Level" value="" />
+</card>
+<card id="7b5d6aea-3292-4295-95f9-89c2fd636a53" name=" Saiyan Sludge Bomb">
+<property name="Style" value="Saiyan" />
+<property name="Card Number" value="C30" />
+<property name="Type" value="Energy Combat" />
+<property name="Endurance" value="1" />
+<property name="Text" value="(If this card is Rejuvenated during combat, you may banish it instead to choose 2 cards in a player's discard pile and banish them.)  Energy attack costing 2 stages.  Endurance cannot be used on this attack.  DAMAGE: 5 life cards.  HIT: Raise or lower a player's anger 1 level." />
+<property name="Traits" value="" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="" />
+<property name="Rarity" value="Common" />
+<property name="Card Level" value="" />
+</card>
+<card id="4ad4d4e0-8640-4690-b30d-1744f847cd8a" name=" Malicious Intent">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="R31" />
+<property name="Type" value="Setup" />
+<property name="Endurance" value="4" />
+<property name="Text" value="(If your MP has ALIEN, this card is considered Named.  When this card is leaving play from your effect, you may banish it to make your next attack this combat be considered to deal critical damage.)  POWER: Gain 5 stages.  Choose a card in a player's discard pile and place it on top of their Life Deck.  ALIEN: If you have only 1 trait, search your opponent's Life Deck for a non-Dragon Ball card and banish it." />
+<property name="Traits" value="" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="" />
+<property name="Rarity" value="Rare" />
+<property name="Card Level" value="" />
+</card>
+<card id="2041442b-f82a-4e93-97d1-f20e9999b89f" name=" Reinforcements">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="R32" />
+<property name="Type" value="Event" />
+<property name="Endurance" value="1" />
+<property name="Text" value="POWER: Search your Life Deck or discard pile for an Ally and place it into play at 5 stages about 0." />
+<property name="Traits" value="" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="" />
+<property name="Rarity" value="Rare" />
+<property name="Card Level" value="" />
+</card>
+<card id="45f4bc53-90c2-4ca5-8c48-515617cc034e" name=" Coordinated Efforts">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="R33" />
+<property name="Type" value="Energy Combat" />
+<property name="Endurance" value="2" />
+<property name="Text" value="Energy attack costing 1 stage.  Attach to an Ally you control.  While attached during combat, you may use the Powers of that Ally regardless of your MP's power stage.  DAMAGE: 4 life cards." />
+<property name="Traits" value="" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="" />
+<property name="Rarity" value="Rare" />
+<property name="Card Level" value="" />
+</card>
+<card id="5af0fd3e-80d2-4604-9039-d1d998773912" name=" Legendary Blast">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="R34" />
+<property name="Type" value="Energy Combat" />
+<property name="Endurance" value="1" />
+<property name="Text" value="(You may banish this card from your hand when an opponent's effect would discard a card from your hand to draw a card instead.  Your opponent's effect cannot discard cards from your hand this combat.)  Energy attack.  Lower your opponent's anger 2 levels.  DAMAGE: 3 life cards.  HIT: Shuffle into your Life Deck after use." />
+<property name="Traits" value="" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="" />
+<property name="Rarity" value="Rare" />
+<property name="Card Level" value="" />
+</card>
+<card id="58facd71-786b-4d39-a42c-87690ab45450" name=" Bojack's Nefarious Plot">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="R35" />
+<property name="Type" value="Setup" />
+<property name="Endurance" value="2" />
+<property name="Text" value="(When this card is leaving play from your effect, you may banish it to draw a card.)  POWER: Your attacks deal -1 stage and -1 life card of damage this combat.  Damage from your attacks cannot be prevented this combat." />
+<property name="Traits" value="" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="" />
+<property name="Rarity" value="Rare" />
+<property name="Card Level" value="" />
+</card>
+<card id="31d91201-0f3c-4b34-97c5-ea331516e80b" name=" Bojack's Galactic Buster">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="R36" />
+<property name="Type" value="Energy Combat" />
+<property name="Endurance" value="" />
+<property name="Text" value="Energy attack costing 3 stages.  This attack can only be stopped by an Energy Combat card.  You may Destroy a Setup or Ally to raise your anger 2 levels.  DAMAGE: 5 life cards.  HIT: Advance or lower your opponent's MP 1 level.  (Banish after use.)" />
+<property name="Traits" value="" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="" />
+<property name="Rarity" value="Rare" />
+<property name="Card Level" value="" />
+</card>
+<card id="bc5bd809-9557-453d-9c5b-d28463de9492" name=" Broly's Gigantic Meteor">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="R37" />
+<property name="Type" value="Energy Combat" />
+<property name="Endurance" value="2" />
+<property name="Text" value="(If this card is revealed from your hand, choose a card in your discard pile and Rejuvenate it.)  Energy attack costing 2 stages.  If stopped, banish the top 2 card s of your opponent's Life Deck.  DAMAGE: 6 life cards.  HIT: Raise your anger 2 levels.  (Banish after use.)" />
+<property name="Traits" value="" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="" />
+<property name="Rarity" value="Rare" />
+<property name="Card Level" value="" />
+</card>
+<card id="f5b88fc0-cf6d-4254-8fe4-52edadadd1e1" name=" Tenshinhan's Targeting">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="R36" />
+<property name="Type" value="Event" />
+<property name="Endurance" value="" />
+<property name="Text" value="(Limit 1 per deck.  If this card is destroyed or banished from your Life Deck or Rejuvenated, gain 5 stages.)  POWER: Search your Life Deck for a Named card and place it into your hand.  Your opponent skips their next action this combat.  Gain 3 stages.  (Banish after use.)" />
+<property name="Traits" value="" />
+<property name="Limit per Deck" value="1" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="" />
+<property name="Rarity" value="Rare" />
+<property name="Card Level" value="" />
+</card>
+<card id="0e8366af-8d9b-4aca-95b6-da294687a32d" name=" Goten - Supportive">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="U39" />
+<property name="Type" value="Hero Ally" />
+<property name="Endurance" value="" />
+<property name="Text" value="(Once per game, if your MP is Kid Trunks, you may play this card from your hand as an action to end combat.)  CONTINUOUS POWER: If your MP is Kid Trunks, your attacks deal +1 life card of damage." />
+<property name="Traits" value="Earthling, Saiyan" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="1" />
+<property name="Power Rating" value="0; 150; 250; 500; 1000; 1500; 5000; 8000; 10000; 20000; 50000" />
+<property name="Rarity" value="Uncommon" />
+<property name="Card Level" value="" />
+</card>
+<card id="825558b8-ba49-4b94-955b-b59b396b9e38" name=" Kid Trunks - Mocking">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="U40" />
+<property name="Type" value="Hero Ally" />
+<property name="Endurance" value="" />
+<property name="Text" value="(If your MP is Goten, you may use this Power regardless of your MP's power stage.  INSTANT POWER: Use when entering combat.  Draw a card." />
+<property name="Traits" value="Earthling, Saiyan" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="1" />
+<property name="Power Rating" value="0; 150; 250; 500; 1000; 2500; 5000; 7000; 10000; 30000; 60000" />
+<property name="Rarity" value="Uncommon" />
+<property name="Card Level" value="" />
+</card>
+<card id="83d06ce8-7448-4801-b712-d10c26067c22" name=" Krillin - To The Rescue">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="U41" />
+<property name="Type" value="Hero Ally" />
+<property name="Endurance" value="" />
+<property name="Text" value="(If your MP has EARTHLING, once per combat you may play this card from your hand as an action to gain 5 stages and draw a card.  CONTINUOUS POWER: If your MP has Earthling and 2 or less Traits, your opponent's attacks deal -2 stages of damage." />
+<property name="Traits" value="Earthling" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="1" />
+<property name="Power Rating" value="0; 200; 600; 1000; 2000; 3000; 5000; 10000; 50000; 80000; 150000" />
+<property name="Rarity" value="Uncommon" />
+<property name="Card Level" value="" />
+</card>
+<card id="3da46e58-ab98-4712-8a5d-31d8b253eff9" name=" Porunga - Dragon of Namek">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="UR42" />
+<property name="Type" value="Hero/Villain Ally" />
+<property name="Endurance" value="" />
+<property name="Text" value="(Once per turn when this Ally enters play, you may Rejuvenate a Setup or Drill from your discard pile.)  CONTINUOUS POWER: After a player discards a card from their hand by a card effect, you may Rejuvenate 1.  (Created by Tommy Andred, OP2 TOP Champion.)" />
+<property name="Traits" value="God" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="1" />
+<property name="Power Rating" value="0; 199; 399; 599; 799; 999; 1199; 1399; 1599; 1799; 1999" />
+<property name="Rarity" value="Ultra Rare" />
+<property name="Card Level" value="" />
+</card>
+<card id="56727a20-8cdb-432d-9b3c-c5d30b66355b" name=" Team Bojack - Gathered">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="U43" />
+<property name="Type" value="Villain Ally" />
+<property name="Endurance" value="" />
+<property name="Text" value="(Bojack Only.  This card is considered Named and you may use these Powers regardless of your MP's power stage.)  INSTANT POWER: Use when this card is leaving play.  Banish it to use a critical damage effect.  POWER: Energy attack costing 2 stages.  DAMAGE: 2 life cards.  HIT: You may banish a Setup, Drill, Ally or attached card." />
+<property name="Traits" value="Alien" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="3" />
+<property name="Power Rating" value="0; 100; 300; 600; 1000; 5000; 9000; 25000; 50000; 100000; 500000" />
+<property name="Rarity" value="Uncommon" />
+<property name="Card Level" value="" />
+</card>
+<card id="4c1862b4-a10d-44cc-bb8b-aac46cbbc666" name=" Bojack - Looming Threat">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="S44" />
+<property name="Type" value="Villain" />
+<property name="Endurance" value="" />
+<property name="Text" value="POWER: Energy attack costing 2 stages.  Raise or lower a player's anger 1 level.  DAMAGE: 4 life cards.  HIT: Search your Life Deck for a Named Ally or Named Setup and play it." />
+<property name="Traits" value="Alien" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="3" />
+<property name="Power Rating" value="0; 1000; 2000; 5000; 7000; 10000; 30000; 50000; 100000; 300000; 800000" />
+<property name="Rarity" value="Starter" />
+<property name="Card Level" value="1" />
+</card>
+<card id="6cffaa08-b050-426b-aa3e-e4be8112a749" name=" Bojack - On The Move">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="S45" />
+<property name="Type" value="Villain" />
+<property name="Endurance" value="" />
+<property name="Text" value="INSTANT POWER: Use at the end of combat.  Destroy an Ally or Setup you control to Rejuvenate 4.  POWER: Energy attack costing 2 stages.  You may destroy a Named Ally or Named Setup you control.  If you do, damage from this attack cannot be prevented.  DAMAGE: 5 life cards.  HIT: Raise your anger 1 level.  Lower your opponent's anger 1 level." />
+<property name="Traits" value="Alien" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="4" />
+<property name="Power Rating" value="0; 1000; 3000; 10000; 30000; 70000; 100000; 200000; 600000; 1000000; 1250000" />
+<property name="Rarity" value="Starter" />
+<property name="Card Level" value="2" />
+</card>
+<card id="23e34268-32dd-4ff8-8b65-5e687cecb986" name=" Bojack - Transformed">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="S46" />
+<property name="Type" value="Villain" />
+<property name="Endurance" value="" />
+<property name="Text" value="(You cannot win by MPPV if you advance a level with this card's effect.)  INSTANT POWER: Use when entering combat.  Banish 'Team Bojack' you own in play to advance your MP 1 level.  POWER: Energy attack costing 2 stages.  Lower your opponent's anger 2 levels.  DAMAGE: 5 life cards.  HIT: Search your banished Zone for a Named card and Rejuvenate it." />
+<property name="Traits" value="Alien" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="4" />
+<property name="Power Rating" value="0; 5000; 10000; 25000; 50000; 90000; 150000; 400000; 700000; 1300000; 1700000" />
+<property name="Rarity" value="Starter" />
+<property name="Card Level" value="3" />
+</card>
+<card id="df43577e-3544-4086-bc0a-57cf237808e4" name=" Bojack - Enraged">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="S47" />
+<property name="Type" value="Villain" />
+<property name="Endurance" value="" />
+<property name="Text" value="CONTINUOUS POWER: Your energy attacks deal +2 life cards of damage.  POWER: Energy attack.  While you control a Named Ally or Named Setup, damage from this attack cannot be prevented.  DAMAAGE: 4 life cards.  HIT: Search your Life Deck or discard pile for a Named Ally or Named Setup and play it." />
+<property name="Traits" value="Alien" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="5" />
+<property name="Power Rating" value="0; 10000; 30000; 75000; 100000; 250000; 500000; 1000000; 1500000; 2000000; 2200000" />
+<property name="Rarity" value="Starter" />
+<property name="Card Level" value="4" />
+</card>
+<card id="049c1e66-8cc2-49dc-88ca-e986464c4d3d" name=" Broly - Returned">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="S48" />
+<property name="Type" value="Villain" />
+<property name="Endurance" value="" />
+<property name="Text" value="INSTANT POWER: Use after you Rejuvenate a Styled card during combat.  Raise your anger 2 levels.  POWER: Energy attack costing 2 stages.  You may reveal 2 attack cards from your hand to Rejuvenate 1.  DAMAGE: 3 life cards.  HIT: Rejuvenate 1." />
+<property name="Traits" value="Saiyan" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="3" />
+<property name="Power Rating" value="0; 500; 1350; 2500; 5000; 10000; 20000; 80000; 200000; 600000; 1000000" />
+<property name="Rarity" value="Starter" />
+<property name="Card Level" value="1" />
+</card>
+<card id="97940c34-5293-416b-8975-3847df6cb16a" name=" Broly - Vengeful">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="S49" />
+<property name="Type" value="Villain" />
+<property name="Endurance" value="" />
+<property name="Text" value="CONTINUOUS POWER: Whenever you Rejuvenate during combat, gain 2 stages.  POWER: Rejuvenate 2.  You may reveal 2 attack cards from your hand to search your Life Deck for a Styled Setup or Styled Drill and place it into play." />
+<property name="Traits" value="Saiyan" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="4" />
+<property name="Power Rating" value="0; 1000; 5000; 15000; 25000; 40000; 50000; 100000; 400000; 800000; 1500000" />
+<property name="Rarity" value="Starter" />
+<property name="Card Level" value="2" />
+</card>
+<card id="5d7e6d1c-2709-46a3-9ede-8895ee00dc43" name=" Broly - Resurrected">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="S50" />
+<property name="Type" value="Villain" />
+<property name="Endurance" value="" />
+<property name="Text" value="CONTINUOUS POWER: Your attacks deal +2 life cards of damage.  INSTANT POWER: Use when you Rejuvenate during combat.  Use a critical damage effect.  POWER: Energy attack.  You may reveal 2 attacks from your hand to draw a card.  DAMAGE: 4 life cards." />
+<property name="Traits" value="Saiyan" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="5" />
+<property name="Power Rating" value="0; 20000; 50000; 70000; 100000; 250000; 500000; 700000; 1200000; 1700000; 2200000" />
+<property name="Rarity" value="Starter" />
+<property name="Card Level" value="3" />
+</card>
+<card id="15662a59-80b3-4839-9715-bbfaf8e1d884" name=" Broly - Bio Warrior">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="S51" />
+<property name="Type" value="Villain" />
+<property name="Endurance" value="" />
+<property name="Text" value="CONTINUOUS POWER: Your attacks deal +2 life cards of damage.  Whenever you Rejuvenate during combat, attacks if your next action this combat are considered to deal critical damage.  POWER: Energy attack.  Chosoe 3 cards in your discard pile and Rejuvenate them.  DAMAGE: 4 life cards.  HIT: Banish the top 10 cards of your opponent's discard pile." />
+<property name="Traits" value="Saiyan" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="6" />
+<property name="Power Rating" value="0; 10000; 30000; 75000; 150000; 300000; 600000; 900000; 1200000; 2200000; 3200000" />
+<property name="Rarity" value="Starter" />
+<property name="Card Level" value="4" />
+</card>
+<card id="bfe1896b-4052-490e-ba3e-6be0d7527870" name=" Tenshinhan - Relaxed">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="S52" />
+<property name="Type" value="Hero" />
+<property name="Endurance" value="" />
+<property name="Text" value="INSTANT POWER: Use when a 'when enter combat' effect isused.  Cancel that effect.  Banish the top card of your Life Deck.  POWER: Energy attack costing 1 stage.  DAMAGE: 2 life cards.  HIT: Search your discard pile or Banished Zone for a Named Card and Rejuvenate it." />
+<property name="Traits" value="Earthling" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="3" />
+<property name="Power Rating" value="0; 1000; 2500; 5000; 10000; 15000; 30000; 60000; 90000; 120000; 150000" />
+<property name="Rarity" value="Starter" />
+<property name="Card Level" value="1" />
+</card>
+</cards>
+</set>
