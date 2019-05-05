@@ -91,7 +91,7 @@ def saveTable(group, x=0, y=0, auto=False):
                 except:
                         pass
 		
-		notify("Table state saved to {}".format(filename))
+##		notify("Table state saved to {}".format(filename))
 	finally:
                 mute()
 

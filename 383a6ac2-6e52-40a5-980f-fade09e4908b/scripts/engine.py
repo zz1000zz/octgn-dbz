@@ -72,7 +72,7 @@ def chooseFirstPlayer():
 def manageDrawPhase():
     # TODO: Add Any Start of Turn triggers here
     me.setGlobalVariable("combatDeclared", "False")
-    drawThree()
+##    drawThree()
     nextPhase()
 
 # managePlanningPhase
@@ -146,7 +146,7 @@ def rejuvenate(count = 1, silent = False):
     for card in me.piles["Discard Pile"].top(count):
         mute()
         card.moveToBottom(me.piles["Life Deck"])
-        if silent = False:
+        if silent == False:
             notify("{} Rejuvenates {}.".format(me, card))
 
 def lookupAttackTable(group, x = 0, y = 0):
