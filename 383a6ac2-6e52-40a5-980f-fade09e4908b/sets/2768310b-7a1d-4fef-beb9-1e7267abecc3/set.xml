@@ -19,6 +19,7 @@
          <property name="Power Rating" value="" />
          <property name="Text" value="" />
          <property name="Limit per Deck" value="0" />
+         <property name="Endurance" value="" />
 		</card>
 		<card id="54afa74e-b2c4-4010-b407-39909f55481a" name="Wait!">
          <property name="Card Level" value="" />
@@ -30,6 +31,7 @@
          <property name="Power Rating" value="" />
          <property name="Text" value="" />
          <property name="Limit per Deck" value="0" />
+         <property name="Endurance" value="" />
 		</card>
 		<card id="a4f448b9-449c-40d1-b387-301e3a1b5fc6" name="Actions?">
          <property name="Card Level" value="" />
@@ -41,6 +43,7 @@
          <property name="Power Rating" value="" />
          <property name="Text" value="" />
          <property name="Limit per Deck" value="0" />
+         <property name="Endurance" value="" />
 		</card>
    </cards>
 </set>
