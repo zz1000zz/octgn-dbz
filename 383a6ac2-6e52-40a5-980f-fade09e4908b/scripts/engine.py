@@ -72,7 +72,7 @@ def chooseFirstPlayer():
 def manageDrawPhase():
     # TODO: Add Any Start of Turn triggers here
     me.setGlobalVariable("combatDeclared", "False")
-##    drawThree()
+    drawThree()
     nextPhase()
 
 # managePlanningPhase
