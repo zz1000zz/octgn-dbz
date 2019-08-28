@@ -9,7 +9,7 @@
 <card id="91e9251b-b3e5-48b9-8c5c-9680b4ae30ce" name="Vegeta - Prince of Saiyans">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="P1" />
-<property name="Type" value="Villain" />
+<property name="Type" value="Villain MP" />
 <property name="Endurance" value="" />
 <property name="Text" value="CONSTANT POWER: Your attacks gain HIT: Raise your anger 1 level." />
 <property name="Traits" value="Saiyan" />
@@ -22,7 +22,7 @@
 <card id="63c5a3ad-1b7e-445b-bd92-d8e9ba761f11" name="Goku - Protector of Earth">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="P2" />
-<property name="Type" value="Hero" />
+<property name="Type" value="Hero MP" />
 <property name="Endurance" value="" />
 <property name="Text" value="POWER: Energy attack costing 2 stages. DAMAGE: 3 life cards. HIT: You may discard a card from your hand to search your Life Deck for a Styled Drill and place it into play." />
 <property name="Traits" value="Earthling, Saiyan" />
@@ -35,7 +35,7 @@
 <card id="1c76d7da-806a-4460-93c2-a330d84056f3" name="Gohan - Resilient Child">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="P3" />
-<property name="Type" value="Hero" />
+<property name="Type" value="Hero MP" />
 <property name="Endurance" value="" />
 <property name="Text" value="CONSTANT POWER: When you perform a Styled attack, you may destroy up to 2 cards from the top of your Life Deck. That attack deals +X life cards. X = the number of cards destroyed." />
 <property name="Traits" value="Namekian, Eartling, Saiyan" />
@@ -48,7 +48,7 @@
 <card id="6259664c-4cd4-49b4-8352-3990aa6f404e" name="Krillin - Ready">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="P4" />
-<property name="Type" value="Hero" />
+<property name="Type" value="Hero MP" />
 <property name="Endurance" value="" />
 <property name="Text" value="POWER: Energy attack costing 2 stages. DAMAGE: 4 life cards. The next time a card is discarded from a hand this combat, use a critical damage effect." />
 <property name="Traits" value="Earthling" />
@@ -61,7 +61,7 @@
 <card id="41ca7755-4d3e-4d20-8a47-5a3d4bdc2c8a" name="Goku - Super Saiyan God">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="P5" />
-<property name="Type" value="Hero" />
+<property name="Type" value="Hero MP" />
 <property name="Endurance" value="" />
 <property name="Text" value="POWER: Destroy the top card of your Life Deck to draw a card." />
 <property name="Traits" value="God, Earthling, Saiyan" />
@@ -74,7 +74,7 @@
 <card id="c1790732-a5d4-4f68-b87f-f0e270f5bc5a" name="Piccolo - Stoic">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="P6" />
-<property name="Type" value="Hero" />
+<property name="Type" value="Hero MP" />
 <property name="Endurance" value="" />
 <property name="Text" value="POWER: Energy attack costing 1 stage. DAMAGE: 3 life cards. Rejuvenate 1" />
 <property name="Traits" value="Namekian" />
@@ -165,7 +165,7 @@
 <card id="2c6d90b0-2618-4534-8019-6dbf869bf436" name="Frieza - Tyrant">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="P13" />
-<property name="Type" value="Villain" />
+<property name="Type" value="Villain MP" />
 <property name="Endurance" value="" />
 <property name="Text" value="CONSTANT POWER: When you stop an attack, you may raise your anger 1 level." />
 <property name="Traits" value="Alien" />
@@ -439,7 +439,7 @@
 <property name="Style" value="Black" />
 <property name="Card Number" value="P13" />
 <property name="Type" value="Setup" />
-<property name="Endurance" value="" />
+<property name="Endurance" value="2" />
 <property name="Text" value="(If this card is discarded from your hand during combat, place it into play.) ENDURANCE 2. POWER: Choose an Ally, Drill, Setup or Dragon Ball in play and shuffle that card into its owner's Life Deck." />
 <property name="Traits" value="" />
 <property name="Limit per Deck" value="3" />
@@ -620,7 +620,7 @@
 <card id="f04188bf-63f7-441e-bd7f-a5e8789fe1aa" name="Frieza - Golden">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="P16" />
-<property name="Type" value="Villain" />
+<property name="Type" value="Villain MP" />
 <property name="Endurance" value="" />
 <property name="Text" value="POWER: Physical attack. DAMAGE: AT life cards. Gain 3 stages. You may Rejuvenate a Named card in your discard pile or Banished Zone. If you do, use a critical damage effect." />
 <property name="Traits" value="Alien" />
@@ -1010,7 +1010,7 @@
 <card id="98b47281-8e6a-4789-8ada-ff7aa39cfab4" name="Frieza - Resident of HFIL">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="P1" />
-<property name="Type" value="Villain" />
+<property name="Type" value="Villain MP" />
 <property name="Endurance" value="" />
 <property name="Text" value="INSTANT POWER: Use when entering combat. Search your life deck for 7 Named cards and banish them. If you do, advance a personality level. (You cannot win by MPPV if you use this effect.) POWER: Energy attack. DAMAGE: 2 Life cards. HIT: Banish an opponent's Ally. " />
 <property name="Traits" value="Alien" />
@@ -1023,7 +1023,7 @@
 <card id="967133ba-587a-489f-bfae-dec475076682" name="Android 18 - Prepared">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="P2" />
-<property name="Type" value="Villain" />
+<property name="Type" value="Villain MP" />
 <property name="Endurance" value="" />
 <property name="Text" value="CONSTANT POWER: Your attacks deal +1 life card of damage. At the start of each turn, you may look at the top 2 cards of your Life Deck and place any number of them on the top or bottom of your Life Deck. POWER: Energy attack. Rejuvenate a card with Android in the title from your Discard Pile to use a Critical Damage Effect. DAMAGE: 0 life cards." />
 <property name="Traits" value="Earthling, Android" />
@@ -1036,7 +1036,7 @@
 <card id="38792871-b811-4c32-adc1-d4fb01296647" name="Android 17 - Entertained">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="P3" />
-<property name="Type" value="Villain" />
+<property name="Type" value="Villain MP" />
 <property name="Endurance" value="" />
 <property name="Text" value="INSTANT POWER: Use when your opponent uses a card effect to draw any number of cards. Your opponent randomly discards a card from their hand. POWER: Physical attack. Lower your opponent's anger 1 level. DAMAGE: 4 stages. HIT: Search your Life Deck or discard pile for Android 17's Van and place it into play." />
 <property name="Traits" value="Earthling, Android" />
@@ -1049,7 +1049,7 @@
 <card id="0e7108a3-766c-4d08-89d6-379fcf3ce6b3" name="Android 16 - Focused">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="P4" />
-<property name="Type" value="Villain" />
+<property name="Type" value="Villain MP" />
 <property name="Endurance" value="" />
 <property name="Text" value="(Your Life Deck may contain non-Personality cards that are Heroes only." />
 <property name="Traits" value="Android" />
@@ -1062,7 +1062,7 @@
 <card id="21013e9c-52e9-4f74-94b2-fae4b1b1d0ab" name="Trunks - Defiant">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="P4" />
-<property name="Type" value="Hero" />
+<property name="Type" value="Hero MP" />
 <property name="Endurance" value="" />
 <property name="Text" value="POWER: Place a card from your hand on the top or bottom of your Life Deck to choose an attack card thaht is Styled or has Sword in the title from your discard pile and place it into your hand. Your opponent skips their next action this combat." />
 <property name="Traits" value="Earthling, Saiyan" />
@@ -1179,7 +1179,7 @@
 <card id="8961797d-48de-449e-acfd-6636e6894549" name="Nail - Warrior">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="P9" />
-<property name="Type" value="Hero" />
+<property name="Type" value="Hero MP" />
 <property name="Endurance" value="" />
 <property name="Text" value="CONSTANT POWER: Whenever your opponent stops one of your attacks, destroy the top card of their Life Deck. INSTANT POWER: Use when you perform a Styled attack. Your MP pays 1 stage to make that attack gain, If stopped, use this attack's HIT effects and Banish after use." />
 <property name="Traits" value="Namekian" />

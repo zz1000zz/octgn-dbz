@@ -658,7 +658,7 @@
 <card id="e6d86ed8-e60f-4513-9fa9-07a358857743" name="Babidi - Mastermind">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S51" />
-<property name="Type" value="Villain" />
+<property name="Type" value="Villain MP" />
 <property name="Endurance" value="" />
 <property name="Text" value="POWER: Energy attack. Search your Life Deck for a MAJIN Ally and play it. That Ally can make actions regardless of your MP's power stage this combat. DAMAGE: 2 life cards. HIT: Raise your anger X levels. X = the number of MAJIN Allies you control." />
 <property name="Traits" value="Majin" />
@@ -671,7 +671,7 @@
 <card id="fb0a8cb6-f531-4c40-b20e-4b4019780c0c" name="Babidi - Scheming">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S52" />
-<property name="Type" value="Villain" />
+<property name="Type" value="Villain MP" />
 <property name="Endurance" value="" />
 <property name="Text" value="INSTANT POWER: Use when entering combat. Search your discard pile for a MAJIN Ally and play it. POWER: Banish the bottom 2 cards of your opponent's discard pile. You may destroy an Ally you control. If you do, destroy the top 3 cards of your opponent's Life Deck. Raise or lower a player's anger 1 level." />
 <property name="Traits" value="Majin" />
@@ -684,7 +684,7 @@
 <card id="87caa6eb-2945-44e6-8d04-e01bf50f23e1" name="Babidi - Worried">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S53" />
-<property name="Type" value="Villain" />
+<property name="Type" value="Villain MP" />
 <property name="Endurance" value="" />
 <property name="Text" value="INSTANT POWER: Use at the start of your Planning Step. Search your Life Deck or discard pile for an Ally and play it. POWER: Banish the top 2 cards of your opponent's discard pile. Rejuvenate 2. Choose a MAJIN Ally you control. The next attack that Ally performs this combat cannot be stopped." />
 <property name="Traits" value="Majin" />
@@ -697,7 +697,7 @@
 <card id="ce972b90-767d-4a8c-aec8-f39882198308" name="Babidi - Controlling">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S54" />
-<property name="Type" value="Villain" />
+<property name="Type" value="Villain MP" />
 <property name="Endurance" value="" />
 <property name="Text" value="CONSTANT POWER: Your Allies' PUR is +2. INSTANT POWER: Use at the start of your Planning Step. Search a player's Life Deck, discard pile, or Banished Zone for an Ally and play it. POWER: Energy attack. DAMAGE: 0 life cards. HIT: Destroy the top X cards of your opponent's Life Deck. X = the number of Allies you control." />
 <property name="Traits" value="Majin" />
@@ -710,7 +710,7 @@
 <card id="4ddb561d-ab76-4c2e-9a0c-fb2b8affaaa2" name="Buu - Playful">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S55" />
-<property name="Type" value="Villain" />
+<property name="Type" value="Villain MP" />
 <property name="Endurance" value="" />
 <property name="Text" value="(At the start of the game, you may search your Life Deck for all copies of Buu's Candy, Buu's Chocolate, and Buu's Cookie and banish them.) CONSTANT POWER: Your opponent's attacks deal -1 stage of damage. POWER: Physical attack. Raise your anger 1 level. Rejuvenate 1. DAMAGE: 3 stages. HIT: You may discard a card from your hand to draw a card or Rejuvenate 2. " />
 <property name="Traits" value="Majin" />
@@ -723,7 +723,7 @@
 <card id="0faf4bf5-c6b3-4d60-b279-97ee9c6160fd" name="Buu - Abomination">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S56" />
-<property name="Type" value="Villain" />
+<property name="Type" value="Villain MP" />
 <property name="Endurance" value="" />
 <property name="Text" value="CONSTANT POWER: After taking damage from an attack, Rejuvenate 1. POWER: Physical attack. Choose a card in your discard pile and shuffle it into your Life Deck. DAMAGE: 6 stage. HIT: Raise your anger 2 levels or Rejuvenate 2. " />
 <property name="Traits" value="Majin" />
@@ -736,7 +736,7 @@
 <card id="33f719fa-3e5c-4672-90b4-148fed893dc0" name="Buu - Monstrous">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S57" />
-<property name="Type" value="Villain" />
+<property name="Type" value="Villain MP" />
 <property name="Endurance" value="" />
 <property name="Text" value="CONSTANT POWER: Whenever you Rejuvenate, increase that amount by 1. INSTANT POWER: Use when entering combat. Rejuvenate the top or bottom card of your discard pile. POWER: Physical attack. Search your discard pile or Banished Zone for a Named Setup and place it into play or use its Power. DAMAGE: 6 stages." />
 <property name="Traits" value="Majin" />
@@ -749,7 +749,7 @@
 <card id="231ca209-f899-444c-aeeb-33758761344c" name="Buu - Steaming">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S58" />
-<property name="Type" value="Villain" />
+<property name="Type" value="Villain MP" />
 <property name="Endurance" value="" />
 <property name="Text" value="CONSTANT POWER: Prevent all damage from your opponent's first attack this combat. INSTANT POWER: Use after performing a successful attack, It gains HIT: Search your Life Deck, discard pile, or Banished Zone for a Named Setup and place it into play or use its Power. POWER: Physical attack. DAMAGE: 8 stages. HIT: Banish all Named Setups you own in play. Rejuvenate 5 for each card banished this way." />
 <property name="Traits" value="Majin" />
@@ -762,7 +762,7 @@
 <card id="ed981630-a867-448e-b623-34991d47cc8e" name="Vegeta - Untethered Rage">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S59" />
-<property name="Type" value="Villain" />
+<property name="Type" value="Villain MP" />
 <property name="Endurance" value="" />
 <property name="Text" value="(When your MP is lowered to this level, you may banish your discard pile to advance your MP 1 level. If you do, discard a card from your hand and you cannot win by MPPV.) POWER: Physical attack. Your next Styled attack gains HIT: Raise your anger 2 levels. Use a critical damage effect. DAMAGE: 4 stages. " />
 <property name="Traits" value="Majin, Saiyan" />
@@ -775,7 +775,7 @@
 <card id="062a9187-a998-40d9-8c62-19232665fa0c" name="Vegeta - Malicious">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S60" />
-<property name="Type" value="Villain" />
+<property name="Type" value="Villain MP" />
 <property name="Endurance" value="" />
 <property name="Text" value="CONSTANT POWER: Your Styled attacks deal +1 stage of damage. While the top and bottom cards of your discard pile are Styled, effects cannot end combat nor cause a player to skip or pass an action. POWER: Energy attack. Banish 2 cards from either player's discard pile. You may raise a player's anger 1 level. DAMAGE: 6 stages. " />
 <property name="Traits" value="Majin, Saiyan" />
@@ -788,7 +788,7 @@
 <card id="18ebf839-fcb4-45bb-976d-635b6ee3e473" name="Vegeta - Relentless">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S61" />
-<property name="Type" value="Villain" />
+<property name="Type" value="Villain MP" />
 <property name="Endurance" value="" />
 <property name="Text" value="CONSTANT POWER: Your Styled attacks deal +2 stages of damage. After you gain anger, you may banish a card from each player's discard pile. POWER: Draw the bottom card of your discard pile. Destroy a Setup, Drill, or Ally. If there are no non-Styled cards in your discard pile, destroy a Setup, Drill, or Ally." />
 <property name="Traits" value="Majin, Saiyan" />
@@ -801,7 +801,7 @@
 <card id="7113001c-d348-4728-b9f0-2d51eb56da74" name="Vegeta - Redeemed">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S62" />
-<property name="Type" value="Villain" />
+<property name="Type" value="Villain MP" />
 <property name="Endurance" value="" />
 <property name="Text" value="POWER: Energy attack costing 2 stages. Damage from this attack cannot be modified or prevented. DAMAGE: 11 life cards. HIT: Lower your MP to level 1." />
 <property name="Traits" value="Majin, Saiyan" />
