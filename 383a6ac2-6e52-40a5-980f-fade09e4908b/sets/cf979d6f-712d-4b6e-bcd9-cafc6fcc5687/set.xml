@@ -567,7 +567,7 @@
 <card id="4c1862b4-a10d-44cc-bb8b-aac46cbbc666" name=" Bojack - Looming Threat">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S44" />
-<property name="Type" value="Villain" />
+<property name="Type" value="Villain MP" />
 <property name="Endurance" value="" />
 <property name="Text" value="POWER: Energy attack costing 2 stages.  Raise or lower a player's anger 1 level.  DAMAGE: 4 life cards.  HIT: Search your Life Deck for a Named Ally or Named Setup and play it." />
 <property name="Traits" value="Alien" />
@@ -580,7 +580,7 @@
 <card id="6cffaa08-b050-426b-aa3e-e4be8112a749" name=" Bojack - On The Move">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S45" />
-<property name="Type" value="Villain" />
+<property name="Type" value="Villain MP" />
 <property name="Endurance" value="" />
 <property name="Text" value="INSTANT POWER: Use at the end of combat.  Destroy an Ally or Setup you control to Rejuvenate 4.  POWER: Energy attack costing 2 stages.  You may destroy a Named Ally or Named Setup you control.  If you do, damage from this attack cannot be prevented.  DAMAGE: 5 life cards.  HIT: Raise your anger 1 level.  Lower your opponent's anger 1 level." />
 <property name="Traits" value="Alien" />
@@ -593,7 +593,7 @@
 <card id="23e34268-32dd-4ff8-8b65-5e687cecb986" name=" Bojack - Transformed">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S46" />
-<property name="Type" value="Villain" />
+<property name="Type" value="Villain MP" />
 <property name="Endurance" value="" />
 <property name="Text" value="(You cannot win by MPPV if you advance a level with this card's effect.)  INSTANT POWER: Use when entering combat.  Banish 'Team Bojack' you own in play to advance your MP 1 level.  POWER: Energy attack costing 2 stages.  Lower your opponent's anger 2 levels.  DAMAGE: 5 life cards.  HIT: Search your banished Zone for a Named card and Rejuvenate it." />
 <property name="Traits" value="Alien" />
@@ -606,7 +606,7 @@
 <card id="df43577e-3544-4086-bc0a-57cf237808e4" name=" Bojack - Enraged">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S47" />
-<property name="Type" value="Villain" />
+<property name="Type" value="Villain MP" />
 <property name="Endurance" value="" />
 <property name="Text" value="CONTINUOUS POWER: Your energy attacks deal +2 life cards of damage.  POWER: Energy attack.  While you control a Named Ally or Named Setup, damage from this attack cannot be prevented.  DAMAAGE: 4 life cards.  HIT: Search your Life Deck or discard pile for a Named Ally or Named Setup and play it." />
 <property name="Traits" value="Alien" />
@@ -619,7 +619,7 @@
 <card id="049c1e66-8cc2-49dc-88ca-e986464c4d3d" name=" Broly - Returned">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S48" />
-<property name="Type" value="Villain" />
+<property name="Type" value="Villain MP" />
 <property name="Endurance" value="" />
 <property name="Text" value="INSTANT POWER: Use after you Rejuvenate a Styled card during combat.  Raise your anger 2 levels.  POWER: Energy attack costing 2 stages.  You may reveal 2 attack cards from your hand to Rejuvenate 1.  DAMAGE: 3 life cards.  HIT: Rejuvenate 1." />
 <property name="Traits" value="Saiyan" />
@@ -632,7 +632,7 @@
 <card id="97940c34-5293-416b-8975-3847df6cb16a" name=" Broly - Vengeful">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S49" />
-<property name="Type" value="Villain" />
+<property name="Type" value="Villain MP" />
 <property name="Endurance" value="" />
 <property name="Text" value="CONTINUOUS POWER: Whenever you Rejuvenate during combat, gain 2 stages.  POWER: Rejuvenate 2.  You may reveal 2 attack cards from your hand to search your Life Deck for a Styled Setup or Styled Drill and place it into play." />
 <property name="Traits" value="Saiyan" />
@@ -645,7 +645,7 @@
 <card id="5d7e6d1c-2709-46a3-9ede-8895ee00dc43" name=" Broly - Resurrected">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S50" />
-<property name="Type" value="Villain" />
+<property name="Type" value="Villain MP" />
 <property name="Endurance" value="" />
 <property name="Text" value="CONTINUOUS POWER: Your attacks deal +2 life cards of damage.  INSTANT POWER: Use when you Rejuvenate during combat.  Use a critical damage effect.  POWER: Energy attack.  You may reveal 2 attacks from your hand to draw a card.  DAMAGE: 4 life cards." />
 <property name="Traits" value="Saiyan" />
@@ -658,7 +658,7 @@
 <card id="15662a59-80b3-4839-9715-bbfaf8e1d884" name=" Broly - Bio Warrior">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S51" />
-<property name="Type" value="Villain" />
+<property name="Type" value="Villain MP" />
 <property name="Endurance" value="" />
 <property name="Text" value="CONTINUOUS POWER: Your attacks deal +2 life cards of damage.  Whenever you Rejuvenate during combat, attacks if your next action this combat are considered to deal critical damage.  POWER: Energy attack.  Chosoe 3 cards in your discard pile and Rejuvenate them.  DAMAGE: 4 life cards.  HIT: Banish the top 10 cards of your opponent's discard pile." />
 <property name="Traits" value="Saiyan" />
@@ -671,7 +671,7 @@
 <card id="bfe1896b-4052-490e-ba3e-6be0d7527870" name=" Tenshinhan - Relaxed">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S52" />
-<property name="Type" value="Hero" />
+<property name="Type" value="Hero MP" />
 <property name="Endurance" value="" />
 <property name="Text" value="INSTANT POWER: Use when a 'when enter combat' effect isused.  Cancel that effect.  Banish the top card of your Life Deck.  POWER: Energy attack costing 1 stage.  DAMAGE: 2 life cards.  HIT: Search your discard pile or Banished Zone for a Named Card and Rejuvenate it." />
 <property name="Traits" value="Earthling" />
