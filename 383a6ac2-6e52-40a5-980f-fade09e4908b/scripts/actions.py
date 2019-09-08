@@ -147,8 +147,9 @@ def drawMany(group, count = None):
 	notify("{} draws {} cards.".format(me, count))
 
 def rejuvenateOne(*args):
-        card = me.piles["Discard Pile"].top()
-        rejuvenate(card)
+        if len(me.piles["Discard Pile"]) > 0:
+                card = me.piles["Discard Pile"].top()
+                rejuvenate(card)
 
 def rejuvenateMany(*args):
     count = askInteger("Rejuvenate how many cards?", 0)
