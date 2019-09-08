@@ -504,7 +504,7 @@
 <property name="Card Number" value="R39" />
 <property name="Type" value="Energy Combat" />
 <property name="Endurance" value="1" />
-<property name="Text" value="(If this card is destroyed or banished from your LIfe Deck, gain 3 stages and Rejuvenate it.)  Energy attack costing 1 stage.  Raise your anger 1 level.  DAMAGE: 4 life cards.  HIT: Attach to your opponent's MP.  While attached, at the beginning of your turn, you may Rejuvenate this card to banish the top 2 cards of your opponent's Life Deck." />
+<property name="Text" value="(If this card is destroyed or banished from your LIfe Deck, gain 3 stages and Rejuvenate it.)  Energy attack costing 1 stage.  Raise your anger 1 level.  DAMAGE: 4 life cards.  HIT: Attach to your opponent's MP.  WHile attached, at the beginning of your turn, you may Rejuvenate this card to banish the top 2 cards of your opponent's Life Deck." />
 <property name="Traits" value="" />
 <property name="Limit per Deck" value="" />
 <property name="PUR" value="" />
@@ -580,7 +580,7 @@
 <card id="4c461090-cef1-4c33-a5ba-50e786b0f458" name="Buu - Evil Incarnate">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S45" />
-<property name="Type" value="Villain MP" />
+<property name="Type" value="Villain" />
 <property name="Endurance" value="" />
 <property name="Text" value="CONTINUOUS POWER: Whenever you perform a copied attack, raise your anger 1 level.  INSTANT POWER: Use when one of your effects requires you to discard 1 card from your hand.  Reveal that card instead.  POWER: Choose a non-INSTANT/non-CONTINUOUS Power of a personality in play that is not 'Buu, Evil Incarnate.'  Use that Power.  If that Power is an attack, it is considered a copied attack for your effects." />
 <property name="Traits" value="Majin" />
@@ -593,7 +593,7 @@
 <card id="d21432b8-81a4-4db0-a49f-90ea19b1a635" name="Buu - Looming Threat">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S46" />
-<property name="Type" value="Villain MP" />
+<property name="Type" value="Villain" />
 <property name="Endurance" value="" />
 <property name="Text" value="(When you reach this level, search your LIfe Deck or Banished Zone for a Named Setup or Named Drill and place it into play.)  POWER: PHysical attack.  If your opponent has used a non-CONTINUOUS personality Power this turn, raise your anger 2 levels and this attack is considered a copied attack.  DAMAGE: 5 life cards." />
 <property name="Traits" value="Majin" />
@@ -606,7 +606,7 @@
 <card id="fe11de4b-a7ad-478e-84b0-aa97365b24bf" name="Buu - Gotenks Absorbed">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S47" />
-<property name="Type" value="Villain MP" />
+<property name="Type" value="Villain" />
 <property name="Endurance" value="" />
 <property name="Text" value="INSTANT POWER: Use when one of your effects requires you to discard 1 card from your hand.  Reveal that card instead.  POWER: Banish a Styled attack from your discard pile.  Perform a copy of htat attack." />
 <property name="Traits" value="Majin" />
@@ -619,7 +619,7 @@
 <card id="c281e7f6-b98d-48f0-9201-aa927b8b1049" name="Buu - Gohan Absorbed">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S48" />
-<property name="Type" value="Villain MP" />
+<property name="Type" value="Villain" />
 <property name="Endurance" value="" />
 <property name="Text" value="(When you reach this level, search your Life Deck, discard pile, or Banished Zone for a Named Setup or Named Drill and place it into play.)  INSTANT POWER: Use when an effect requires you to discard 1 card from your hand.  Reveal that card instead to draw a card.  POWER: Banish an attack from a player's discard pile.  Perform a copy of that attack." />
 <property name="Traits" value="Majin" />
@@ -632,7 +632,7 @@
 <card id="7033067d-2223-4c6d-8320-74b9e4df278e" name="Gohan - Enhanced">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S49" />
-<property name="Type" value="Hero MP" />
+<property name="Type" value="Hero" />
 <property name="Endurance" value="" />
 <property name="Text" value="INSTANT POWER: Use after you Rejuvenate during combat.  Raise your anger 1 level.  POWER: Physical attack.  Raise your anger 1 level.  Search your discard pile for a Styled card and Rejuvenate it.  DAMAGE: 4 stages." />
 <property name="Traits" value="Namekian, Earthling, Saiyan" />
@@ -645,7 +645,7 @@
 <card id="b60afd79-2f5d-42dd-94f8-91c8c207d397" name="Gohan - Mysitc">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S50" />
-<property name="Type" value="Hero MP" />
+<property name="Type" value="Hero" />
 <property name="Endurance" value="" />
 <property name="Text" value="CONTINUOUS POWER: Your styled attacks deal +1 stage of damage.  INSTANT POWER: Use after you Rejuvenate during combat.  Gain 4 stages.  POWER: Physical attack.  Rejuvenate 2.  Raise your anger 1 level.  DAMAGE: 6 stages." />
 <property name="Traits" value="Namekian, Earthling, Saiyan" />
@@ -658,7 +658,7 @@
 <card id="57af884c-cf30-4625-9203-9c80f7cb62fe" name="Gohan - Ultimate">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S51" />
-<property name="Type" value="Hero MP" />
+<property name="Type" value="Hero" />
 <property name="Endurance" value="" />
 <property name="Text" value="CONTINUOUS POWER: Your Styled attacks deal +1 stage and +1 life card of damage. POWER: Choose up to 3 Styled cards in your discard pile.  Your opponent chooses 1 of those cards.  Place the chosen card into your hand.  Rejuvenate the remaining cards." />
 <property name="Traits" value="Namekian, Earthling, Saiyan" />
@@ -671,7 +671,7 @@
 <card id="28119b1d-5964-422d-a824-c4e1de0fa054" name="Gohan - Earth's Defender">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S52" />
-<property name="Type" value="Hero MP" />
+<property name="Type" value="Hero" />
 <property name="Endurance" value="" />
 <property name="Text" value="CONTINUOUS POWER: Your Styled attacks deal +2 stages and +2 life cards of damage.  Your attacks cannot be stopped by Event cards.  POWER: Gain 4 stages. Rejuvenate 4.  Draw a card." />
 <property name="Traits" value="Namekian, Earthling, Saiyan" />
@@ -684,7 +684,7 @@
 <card id="5d1ebed5-2586-45e2-bf5d-506c044b99b4" name="Gotenks - Cocky">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S53" />
-<property name="Type" value="Hero MP" />
+<property name="Type" value="Hero" />
 <property name="Endurance" value="" />
 <property name="Text" value="CONTINUOUS POWER: Your attacks are considered Styled.  INSTANT POWER: Use after one of your effects destroys or banished cards from a player's Life Deck.  Raise your anger 2 levels.  SHIELD POWER: Prevent all damage from an attack.  Destroy the top card of each player's Life Deck." />
 <property name="Traits" value="Saiyan, Earthling, Fusion" />
@@ -697,9 +697,9 @@
 <card id="83413d5d-0432-479e-b585-5c1b5c6dba63" name="Gotenks - Bullheaded">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S54" />
-<property name="Type" value="Hero MP" />
+<property name="Type" value="Hero" />
 <property name="Endurance" value="" />
-<property name="Text" value="CONTINUOUS POWER: Your attacks are considered Styled.  POWER: Raise your anger 1 level.  Choose 2 ATTACK cards in your discard pile and shuffle them into your Life Deck.  You may discard a card from your hand to search your Life Deck for a named card and place it into your hand.  If you do, destroy the top card of each player's LIfe Deck." />
+<property name="Text" value="CONTINUOUS POWER: Your attacks are considered Styled.  POWER: Raise your anger 1 level.  Choose 2 ATTACK cards in your Life Deck.  You may discard a card from your hand to search your Life Deck for a named card and place it into your hand.  If you do, destroy the top card of each player's LIfe Deck." />
 <property name="Traits" value="Saiyan, Earthling, Fusion" />
 <property name="Limit per Deck" value="" />
 <property name="PUR" value="4" />
@@ -710,7 +710,7 @@
 <card id="9ef082bc-95e2-4f0a-8059-430454d056e1" name="Gotenks - Super Saiyan">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S55" />
-<property name="Type" value="Hero MP" />
+<property name="Type" value="Hero" />
 <property name="Endurance" value="" />
 <property name="Text" value="CONTINUOUS POWER: Your attacks are considered Styled and gain 'HIT: Destroy the top card of your opponent's Life Deck.'  POWER: Energy attack costing 2 stages.  If stopped, search your Life Deck for a Named card and place it into your hand.  DAMAGE: 6 life cards.  HIT: Destroy the top card of each player's Life Deck.  Banish the top 5 cards of your opponent's discard pile." />
 <property name="Traits" value="Saiyan, Earthling, Fusion" />
@@ -723,7 +723,7 @@
 <card id="d2521262-b2d3-4e57-85d9-0b03831a8a63" name="Gotenks - Super Saiyan 3">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S56" />
-<property name="Type" value="Hero MP" />
+<property name="Type" value="Hero" />
 <property name="Endurance" value="" />
 <property name="Text" value="CONTINUOUS POWER: YOur attacks are considered Styled and gain 'HIT: Destroy the top card of your opponent's Life Deck.'  POWER: Energy attack costing 1 stage.  Choose 3 cards in your opponent's discard pile and banish them.  You may use this attack a second time this combat.  DAMAGE: 5 life cards.  HIT: You may destroy the top card of your LIfe Deck to gain 5 stages." />
 <property name="Traits" value="Saiyan, Earthling, Fusion" />
@@ -736,7 +736,7 @@
 <card id="de118a57-71f9-4e22-90cd-cb45cfd71273" name="Vegito - Fused">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S57" />
-<property name="Type" value="Hero MP" />
+<property name="Type" value="Hero" />
 <property name="Endurance" value="" />
 <property name="Text" value="INSTANT POWER: Use after one of your effects requires you to discard 1 card from your hand during combat.  Draw a card and raise your anger 1 level.  POWER: Energy attack  costing 1 stage.  Raise your anger 1 level.  Until the start of your next turn, your drills are not discarded when you advance or lower an MP level.  DAMAGE 2 life cards." />
 <property name="Traits" value="Saiyan, Earthling, Fusion" />
@@ -749,7 +749,7 @@
 <card id="874888fa-9f88-4b91-b039-8f9d10db7729" name="Vegito - Boastful">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S58" />
-<property name="Type" value="Hero MP" />
+<property name="Type" value="Hero" />
 <property name="Endurance" value="" />
 <property name="Text" value="CONTINUOUS POWER: Your energy attacks deal +1 life card of damage.  INSTANT POWER: Use after one of your effects requires you to discard 1 card from your hand during combat.  Rejuvenate 2.  POWER: Energy attack costing 1 stage.  Raise your anger 1 level.  Search your Life Deck for a Styled Drill and place it into play.  DAMAGE: 4 life cards." />
 <property name="Traits" value="Saiyan, Earthling, Fusion" />
@@ -762,7 +762,7 @@
 <card id="aa1d4045-b895-4d20-880b-6260c5241f3b" name="Vegito - Super Saiyan">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S59" />
-<property name="Type" value="Hero MP" />
+<property name="Type" value="Hero" />
 <property name="Endurance" value="" />
 <property name="Text" value="(Your Drills are not discarded when advancing or lowering from this level.)  CONTINUOUS POWER: YOur energy attacks deal +1 life card of damage.  INSTANT POWER: Use after one of your effects requires you to discard 1 card from your hand during combat.  Draw a card and raise your anger 1 level.  POWER: Energy attack costing 2 stages.  Search your Life Deck for a Drill and place it into play.  DAMAGE: 5 life cards.  Search your discard pile for 3 Styled cards and Rejuvenate them." />
 <property name="Traits" value="Saiyan, Earthling, Fusion" />
@@ -775,7 +775,7 @@
 <card id="61dc963f-a392-414e-b118-33dffea504cc" name="Vegito - Dominant">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S60" />
-<property name="Type" value="Hero MP" />
+<property name="Type" value="Hero" />
 <property name="Endurance" value="" />
 <property name="Text" value="CONTINUOUS POWER: Your energy attacks deal +1 life card of damage.  INSTANT POWER: Use after an effect requires you to discard 1 card from your hand during combat.  Draw a card and search your discard pile for 2 Styled cards and Rejuvenate them.  POWER: Energy attack.  Search your LIfe Deck, discard pile or Banished Zone for a Drill and place it into play.  DAMAGE: 6 life cards." />
 <property name="Traits" value="Saiyan, Earthling, Fusion" />
@@ -788,7 +788,7 @@
 <card id="80be9c3d-1c7a-4ebc-8138-bbc5eeea83f6" name="Yajirobe - Ronin">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="P1" />
-<property name="Type" value="Hero MP" />
+<property name="Type" value="Hero" />
 <property name="Endurance" value="" />
 <property name="Text" value="(YOur Life Deck may include any Styled ATTACK or SHIELD cards with 'Sword' in the title.)  CONTINUOUS POWER: Whenever you play a card with 'Sword' in the title, gain 1 stage.  POWER: Raise your anger 1 level.  Search your discard pile for a card with 'Sword' in the title and shiffle it into your Life Deck." />
 <property name="Traits" value="Earthling" />
@@ -801,7 +801,7 @@
 <card id="698af826-aebd-48d1-aa4a-9a47a6e6569d" name="Yajirobe - Hungry">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="P2" />
-<property name="Type" value="Hero MP" />
+<property name="Type" value="Hero" />
 <property name="Endurance" value="" />
 <property name="Text" value="CONTINUOUS POWER: Whenever you play a card with 'Sword' in the title, gain 2 stages.  POWER: Search your discard pile for up to 2 cards with 'Sword' in the title and Rejuvenate them.  Draw a card." />
 <property name="Traits" value="Earthling" />
@@ -814,7 +814,7 @@
 <card id="7a673e69-cb6d-470a-9e2f-ce4f284bbbda" name="Yajirobe - Opportunist">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="P3" />
-<property name="Type" value="Hero MP" />
+<property name="Type" value="Hero" />
 <property name="Endurance" value="" />
 <property name="Text" value="CONTINUOUS POWER: Whenever you play a card with 'Sword' in the title gain 2 stages.  Your attacks with 'Sword' in the title gain 'HIT: Lower your opponent's anger 1 level.'  POWER: Discard a card from your hand to search your Life Deck for a Styled card with 'Sword' in the title and place it into your hand.  If you discarded a card with 'Sword' in the title, raise your anger 2 levels." />
 <property name="Traits" value="Earthling" />
@@ -827,7 +827,7 @@
 <card id="0dd14751-9bc9-42fb-9a06-6880ea118d3f" name="Yajirobe - Retired">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="P4" />
-<property name="Type" value="Hero MP" />
+<property name="Type" value="Hero" />
 <property name="Endurance" value="" />
 <property name="Text" value="(After you advance to this level, search your Banished Zone for all cards with 'Sword' in the title and place them on top of your discard pile in any order.)  CONTINUOUS POWER: Your attacks with 'Sword' in the title deal +2 stages and +2 life cards of damage.  POEWR: PHysical attack.  This attack deals +1 stage of damage for each card with 'Sword' in the title in your discard pile.  DAMAGE: 5 stages." />
 <property name="Traits" value="Earthling" />

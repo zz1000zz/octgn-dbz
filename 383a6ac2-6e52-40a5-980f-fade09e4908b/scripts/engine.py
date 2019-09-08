@@ -125,7 +125,7 @@ def manageRejuvenatePhase():
         choices = ['Rejuvenate', 'Decline']
         choice = askChoice("Rejuvenate 1?", choices)
         if choice == 1:
-            rejuvenate(1)
+            rejuvenateOne()
     # Can't automatically go to the next phase until effects like Popo are handled
     #nextPhase()
 
@@ -143,11 +143,14 @@ def manageRejuvenatePhase():
 # TODO:
 #   - Look at cards to be rejuvenated at trigger any "when rejuvenated" effects.
 #   - Look for effects that prevent or modify rejuvenation and make sure they are applied.
-def rejuvenate(count = 1, silent = False):
-    for card in me.piles["Discard Pile"].top(count):
-        mute()
-        if silent == False:
-            notify("{} Rejuvenates {}.".format(me, card))
+def rejuvenate(cards = [], silent = False):
+    mute()
+    if not isinstance(cards, list):
+        cards = [cards]
+    if silent == False:
+        formattedCards = [format(card) for card in cards]
+        notify('{} rejuvenates {}.'.format(me, ', '.join(formattedCards)))
+    for card in cards:
         card.moveToBottom(me.piles["Life Deck"])
 
 def lookupAttackTable(group, x = 0, y = 0):
