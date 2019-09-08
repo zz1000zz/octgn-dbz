@@ -21,6 +21,7 @@ import re
 def gameSetup():
     faceUpAll()
     me.piles["Life Deck"].shuffle()
+    notify("{} shuffles their Life Deck.", me)
     for c in table:
         if c.controller == me and c.properties["Card Level"] is not "":
             c.markers[CounterMarker] = 5
@@ -145,9 +146,9 @@ def manageRejuvenatePhase():
 def rejuvenate(count = 1, silent = False):
     for card in me.piles["Discard Pile"].top(count):
         mute()
-        card.moveToBottom(me.piles["Life Deck"])
         if silent == False:
             notify("{} Rejuvenates {}.".format(me, card))
+        card.moveToBottom(me.piles["Life Deck"])
 
 def lookupAttackTable(group, x = 0, y = 0):
     mute()
