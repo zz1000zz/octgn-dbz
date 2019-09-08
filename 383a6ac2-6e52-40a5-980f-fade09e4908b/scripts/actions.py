@@ -111,6 +111,9 @@ def play(card, x = 0, y = 0):
         cardPlayed_y_offset = GuestPlayerCardPlayed_y_Offset
     card.moveToTable(cardPlayed_x_offset, cardPlayed_y_offset)
     notify("{} plays {} from their {}.".format(me, card, src.name))
+    # When playing allies, automatically start at 3 stages
+    if "Ally" in card.Type:
+        card.markers[CounterMarker] = 3
 
 def mulligan(group):
     mute()

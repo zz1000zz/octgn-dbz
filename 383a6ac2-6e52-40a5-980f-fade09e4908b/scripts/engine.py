@@ -21,6 +21,7 @@ import re
 def gameSetup():
     faceUpAll()
     me.piles["Life Deck"].shuffle()
+    notify("{} shuffles their Life Deck.", me)
     for c in table:
         if c.controller == me and c.properties["Card Level"] is not "":
             c.markers[CounterMarker] = 5
