@@ -98,7 +98,23 @@ def setCounter(card, x = 0, y = 0):
 	mute()
 	quantity = askInteger("How many counters", 0)
 	notify("{} sets {} counters on {}.".format(me, quantity, card))
-	card.markers[CounterMarker] = quantity	
+	card.markers[CounterMarker] = quantity
+
+def takeDamage(card, x = 0, y = 0):
+    mute()
+    manageDamage(card)
+
+def takeUnpreventableDamage(card, x = 0, y = 0):
+    mute()
+    manageDamage(card, True, False)
+
+def takeBanishedDamage(card, x = 0, y = 0):
+    mute()
+    manageDamage(card, False, True)
+
+def takeUnpreventableBanishedDamage(card, x = 0, y = 0):
+    mute()
+    manageDamage(card, True, True)
 		
 def play(card, x = 0, y = 0):
     mute()

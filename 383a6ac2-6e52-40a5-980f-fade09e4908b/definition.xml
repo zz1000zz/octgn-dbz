@@ -74,7 +74,13 @@
    <cardaction menu="Discard" shortcut="Del" execute="discard" />
    <cardaction menu="Add Power Stage" shortcut="F1" execute="addCounter" />
    <cardaction menu="Lower Power Stage" shortcut="F2" execute="removeCounter" />
-	<cardaction menu="Set Power Stage" shortcut="F3" execute="setCounter" />
+   <cardaction menu="Set Power Stage" shortcut="F3" execute="setCounter" />
+   <cardaction menu="Take Damage" shortcut="Ctrl+F1" execute="takeDamage" />
+   <cardactions menu="Take Qualified Damage">
+      <cardaction menu="Take Unpreventable Damage" shortcut="Ctrl+F2" execute="takeUnpreventableDamage" />
+      <cardaction menu="Take Banished Damage" shortcut="Ctrl+F3" execute="takeBanishedDamage" />
+      <cardaction menu="Take Unpreventable Banished Damage" shortcut="Ctrl+F4" execute="takeUnpreventableBanishedDamage" />
+   </cardactions>
    <groupaction menu="Move to Next phase." default="False" shortcut="Ctrl+Enter" execute="nextPhase" />
    <groupactions menu="Game Setup Automation">
       <groupaction menu="Enable Automation" shortcut="Ctrl+A" execute="enableSetupAutomation" />

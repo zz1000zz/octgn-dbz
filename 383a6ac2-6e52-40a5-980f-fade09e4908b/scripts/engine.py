@@ -153,6 +153,66 @@ def rejuvenate(cards = [], silent = False):
     for card in cards:
         card.moveToBottom(me.piles["Life Deck"])
 
+def manageDamage(card, unpreventable = False, banished = False):
+    mute()
+    stageDamage = askInteger("How many STAGES of damage?", 0)
+    remainingLifeDamage = askInteger("How many LIFE CARDS of damage?", 0)
+    takenDamage = []
+    firstDragonBallRevealed = ""
+    if stageDamage > card.markers[CounterMarker]:
+        remainingLifeDamage += stageDamage - card.markers[CounterMarker]
+        if card.markers[CounterMarker] > 0:
+            notify("{} takes {} stages of damage on {}.".format(me, card.markers[CounterMarker], card))
+            card.markers[CounterMarker] = 0
+    elif stageDamage > 0:
+        notify("{} takes {} stages of damage on {}.".format(me, stageDamage, card))
+        card.markers[CounterMarker] -= stageDamage
+    while remainingLifeDamage > 0:
+        if len(me.piles["Life Deck"]) == 0:
+            notify("{}'s Life Deck is empty".format(me))
+            return
+        damageCard = me.piles["Life Deck"].top()
+        if banished:
+            damageCard.moveTo(me.piles["Removed from game"])
+        else:
+            damageCard.moveTo(me.piles["Discard Pile"])
+        remainingLifeDamage -= 1
+        notify("{} reveals {} as damage.".format(me, damageCard))
+        # add "if discarded from deck" check to pause damage
+        if len(me.piles["Life Deck"]) == 0:
+            notify("{}'s Life Deck is empty".format(me))
+            return
+        if "Dragon Ball" in damageCard.name:
+            dbInPlay = False
+            for c in table:
+                if c.name == damageCard.name:
+                    dbInPlay = True
+                    break
+            if dbInPlay:
+                damageCard.moveTo(me.piles["Removed from game"])
+                notify("{} is already in play, banishing this copy...".format(damageCard))
+            elif firstDragonBallRevealed == damageCard.name:
+                notify("{} is in a Dragon Ball Loop".format(me))
+                return
+            else:
+                if firstDragonBallRevealed == "":
+                    firstDragonBallRevealed = damageCard.name
+                remainingLifeDamage += 1
+                notify("{} is not in play, returning to bottom of Life Deck".format(damageCard))
+                damageCard.moveToBottom(me.piles["Life Deck"])
+        if damageCard.endurance != "":
+            preventableAmount = int(damageCard.endurance)
+            if preventableAmount > remainingLifeDamage:
+                preventableAmount = remainingLifeDamage
+            if unpreventable:
+                preventableAmount = 0
+            choices = ['Banish to prevent {} life cards'.format(preventableAmount), 'Decline']
+            choice = askChoice("Revealed {}. Remaining damage = {}. Banish this card for endurance?".format(damageCard.name, remainingLifeDamage), choices)
+            if choice == 1:
+                damageCard.moveTo(me.piles["Removed from game"])
+                remainingLifeDamage -= preventableAmount
+                notify("{} prevented {} life cards of damage by banishing {} for endurance.".format(me, preventableAmount, damageCard))
+
 def lookupAttackTable(group, x = 0, y = 0):
     mute()
     defenderPL = remoteCall(players[1], "lookupPowerLevel", [group, x, y])
