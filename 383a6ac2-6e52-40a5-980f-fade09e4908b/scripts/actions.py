@@ -98,7 +98,23 @@ def setCounter(card, x = 0, y = 0):
 	mute()
 	quantity = askInteger("How many counters", 0)
 	notify("{} sets {} counters on {}.".format(me, quantity, card))
-	card.markers[CounterMarker] = quantity	
+	card.markers[CounterMarker] = quantity
+
+def takeDamage(card, x = 0, y = 0):
+    mute()
+    manageDamage(card)
+
+def takeUnpreventableDamage(card, x = 0, y = 0):
+    mute()
+    manageDamage(card, True, False)
+
+def takeBanishedDamage(card, x = 0, y = 0):
+    mute()
+    manageDamage(card, False, True)
+
+def takeUnpreventableBanishedDamage(card, x = 0, y = 0):
+    mute()
+    manageDamage(card, True, True)
 		
 def play(card, x = 0, y = 0):
     mute()
@@ -112,7 +128,7 @@ def play(card, x = 0, y = 0):
     card.moveToTable(cardPlayed_x_offset, cardPlayed_y_offset)
     notify("{} plays {} from their {}.".format(me, card, src.name))
     # When playing allies, automatically start at 3 stages
-    if "Ally" in card.Type:
+    if "Ally" in card.type:
         card.markers[CounterMarker] = 3
 
 def mulligan(group):
