@@ -122,7 +122,7 @@
 <property name="Rarity" value="Common" />
 <property name="Card Level" value="" />
 </card>
-<card id="99c93b53-b1ed-4b81-96d2-15e4c631ecee" name=" Blue Static Blast">
+<card id="99c93b53-b1ed-4b81-96d2-15e4c631ecee" name="Blue Static Blast">
 <property name="Style" value="Blue" />
 <property name="Card Number" value="R10" />
 <property name="Type" value="Energy Combat" />
@@ -135,7 +135,7 @@
 <property name="Rarity" value="Rare" />
 <property name="Card Level" value="" />
 </card>
-<card id="d2839602-1a63-4ce2-90d2-467faa26c401" name=" Namekian Determination">
+<card id="d2839602-1a63-4ce2-90d2-467faa26c401" name="Namekian Determination">
 <property name="Style" value="Namekian" />
 <property name="Card Number" value="U11" />
 <property name="Type" value="Setup" />
@@ -148,7 +148,7 @@
 <property name="Rarity" value="Uncommon" />
 <property name="Card Level" value="" />
 </card>
-<card id="0f0b3968-7790-4ca3-b823-9029da9034e4" name=" Namekian Direct Strike">
+<card id="0f0b3968-7790-4ca3-b823-9029da9034e4" name="Namekian Direct Strike">
 <property name="Style" value="Namekian" />
 <property name="Card Number" value="U12" />
 <property name="Type" value="Physical Combat" />
@@ -161,7 +161,7 @@
 <property name="Rarity" value="Uncommon" />
 <property name="Card Level" value="" />
 </card>
-<card id="c961d7fd-2c69-412c-96e0-4ef994fe6651" name=" Namekian Duck">
+<card id="c961d7fd-2c69-412c-96e0-4ef994fe6651" name="Namekian Duck">
 <property name="Style" value="Namekian" />
 <property name="Card Number" value="C13" />
 <property name="Type" value="Physical Combat" />
@@ -174,7 +174,7 @@
 <property name="Rarity" value="Common" />
 <property name="Card Level" value="" />
 </card>
-<card id="821bb96c-885c-491b-a19c-059486f7c9ed" name=" Namekian Piercing Kick">
+<card id="821bb96c-885c-491b-a19c-059486f7c9ed" name="Namekian Piercing Kick">
 <property name="Style" value="Namekian" />
 <property name="Card Number" value="R14" />
 <property name="Type" value="Physical Combat" />
@@ -187,7 +187,7 @@
 <property name="Rarity" value="Rare" />
 <property name="Card Level" value="" />
 </card>
-<card id="b713f48f-973e-4840-a25e-b0eff508587b" name=" Namekian Power Ball">
+<card id="b713f48f-973e-4840-a25e-b0eff508587b" name="Namekian Power Ball">
 <property name="Style" value="Namekian" />
 <property name="Card Number" value="U15" />
 <property name="Type" value="Physical Combat" />
@@ -200,7 +200,7 @@
 <property name="Rarity" value="Uncommon" />
 <property name="Card Level" value="" />
 </card>
-<card id="28fce67b-e078-404d-b115-f6ded72f1090" name=" Orange Absorption Drill">
+<card id="28fce67b-e078-404d-b115-f6ded72f1090" name="Orange Absorption Drill">
 <property name="Style" value="Orange" />
 <property name="Card Number" value="C16" />
 <property name="Type" value="Drill" />
@@ -213,7 +213,7 @@
 <property name="Rarity" value="Common" />
 <property name="Card Level" value="" />
 </card>
-<card id="af930142-9669-4c3c-95ff-77fd60b2bcde" name=" Orange Energy Focus">
+<card id="af930142-9669-4c3c-95ff-77fd60b2bcde" name="Orange Energy Focus">
 <property name="Style" value="Orange" />
 <property name="Card Number" value="R17" />
 <property name="Type" value="Energy Combat" />
@@ -226,7 +226,7 @@
 <property name="Rarity" value="Rare" />
 <property name="Card Level" value="" />
 </card>
-<card id="2b84e2dc-0ece-473b-99c5-8dd7ee094f81" name=" Orange Counter Punch">
+<card id="2b84e2dc-0ece-473b-99c5-8dd7ee094f81" name="Orange Counter Punch">
 <property name="Style" value="Orange" />
 <property name="Card Number" value="U18" />
 <property name="Type" value="Physical Combat" />
@@ -239,7 +239,7 @@
 <property name="Rarity" value="Uncommon" />
 <property name="Card Level" value="" />
 </card>
-<card id="9306da59-b4e5-49cc-9471-df42671a3a71" name=" Orange Palm Charge">
+<card id="9306da59-b4e5-49cc-9471-df42671a3a71" name="Orange Palm Charge">
 <property name="Style" value="Orange" />
 <property name="Card Number" value="C19" />
 <property name="Type" value="Energy Combat" />
@@ -252,7 +252,7 @@
 <property name="Rarity" value="Common" />
 <property name="Card Level" value="" />
 </card>
-<card id="c1a8b689-fced-44c0-a6f8-702de3c873e9" name=" Orange Quick Toss">
+<card id="c1a8b689-fced-44c0-a6f8-702de3c873e9" name="Orange Quick Toss">
 <property name="Style" value="Orange" />
 <property name="Card Number" value="U20" />
 <property name="Type" value="Physical Combat" />
@@ -265,7 +265,7 @@
 <property name="Rarity" value="Uncommon" />
 <property name="Card Level" value="" />
 </card>
-<card id="07bcf864-d399-4283-946b-64c4fd7fc6a7" name=" Red Attitude Drill">
+<card id="07bcf864-d399-4283-946b-64c4fd7fc6a7" name="Red Attitude Drill">
 <property name="Style" value="Red" />
 <property name="Card Number" value="U21" />
 <property name="Type" value="Drill" />
@@ -278,7 +278,7 @@
 <property name="Rarity" value="Uncommon" />
 <property name="Card Level" value="" />
 </card>
-<card id="f4555e0d-c204-469c-949a-9b7f43933dbc" name=" Red Counter">
+<card id="f4555e0d-c204-469c-949a-9b7f43933dbc" name="Red Counter">
 <property name="Style" value="Red" />
 <property name="Card Number" value="U22" />
 <property name="Type" value="Event" />
@@ -291,7 +291,7 @@
 <property name="Rarity" value="Uncommon" />
 <property name="Card Level" value="" />
 </card>
-<card id="02b482d5-f297-4b2b-8b7d-9c35ff2ead7d" name=" Red Focus">
+<card id="02b482d5-f297-4b2b-8b7d-9c35ff2ead7d" name="Red Focus">
 <property name="Style" value="Red" />
 <property name="Card Number" value="R23" />
 <property name="Type" value="Event" />
@@ -304,7 +304,7 @@
 <property name="Rarity" value="Rare" />
 <property name="Card Level" value="" />
 </card>
-<card id="44ce733c-3aec-4723-a3e7-ff8db2ca60f5" name=" Red Celestial Strike">
+<card id="44ce733c-3aec-4723-a3e7-ff8db2ca60f5" name="Red Celestial Strike">
 <property name="Style" value="Red" />
 <property name="Card Number" value="C24" />
 <property name="Type" value="Physical Combat" />
@@ -317,7 +317,7 @@
 <property name="Rarity" value="Common" />
 <property name="Card Level" value="" />
 </card>
-<card id="1087e78e-aa4d-4320-8ec6-081df37299ba" name=" Red Expunge">
+<card id="1087e78e-aa4d-4320-8ec6-081df37299ba" name="Red Expunge">
 <property name="Style" value="Red" />
 <property name="Card Number" value="C25" />
 <property name="Type" value="Energy Combat" />
@@ -330,7 +330,7 @@
 <property name="Rarity" value="Common" />
 <property name="Card Level" value="" />
 </card>
-<card id="72cc5f7f-11d3-4f4f-8f97-751040ccb8b2" name=" Saiyan Muck Drill">
+<card id="72cc5f7f-11d3-4f4f-8f97-751040ccb8b2" name="Saiyan Muck Drill">
 <property name="Style" value="Saiyan" />
 <property name="Card Number" value="U26" />
 <property name="Type" value="Drill" />
@@ -343,7 +343,7 @@
 <property name="Rarity" value="Uncommon" />
 <property name="Card Level" value="" />
 </card>
-<card id="dbd121a3-8845-479d-abf1-332dab1fb58e" name=" Saiyan Bear Hug">
+<card id="dbd121a3-8845-479d-abf1-332dab1fb58e" name="Saiyan Bear Hug">
 <property name="Style" value="Saiyan" />
 <property name="Card Number" value="U27" />
 <property name="Type" value="Physical Combat" />
@@ -356,7 +356,7 @@
 <property name="Rarity" value="Uncommon" />
 <property name="Card Level" value="" />
 </card>
-<card id="7594229b-219d-4354-bb08-03b25c439fd7" name=" Saiyan Chop">
+<card id="7594229b-219d-4354-bb08-03b25c439fd7" name="Saiyan Chop">
 <property name="Style" value="Saiyan" />
 <property name="Card Number" value="C28" />
 <property name="Type" value="Physical Combat" />
@@ -369,7 +369,7 @@
 <property name="Rarity" value="Common" />
 <property name="Card Level" value="" />
 </card>
-<card id="5f0ce056-1777-42a8-9c46-eddf0dddea10" name=" Saiyan Tandem Strike">
+<card id="5f0ce056-1777-42a8-9c46-eddf0dddea10" name="Saiyan Tandem Strike">
 <property name="Style" value="Saiyan" />
 <property name="Card Number" value="R29" />
 <property name="Type" value="Physical Combat" />
@@ -382,7 +382,7 @@
 <property name="Rarity" value="Rare" />
 <property name="Card Level" value="" />
 </card>
-<card id="7b5d6aea-3292-4295-95f9-89c2fd636a53" name=" Saiyan Sludge Bomb">
+<card id="7b5d6aea-3292-4295-95f9-89c2fd636a53" name="Saiyan Sludge Bomb">
 <property name="Style" value="Saiyan" />
 <property name="Card Number" value="C30" />
 <property name="Type" value="Energy Combat" />
@@ -395,7 +395,7 @@
 <property name="Rarity" value="Common" />
 <property name="Card Level" value="" />
 </card>
-<card id="4ad4d4e0-8640-4690-b30d-1744f847cd8a" name=" Malicious Intent">
+<card id="4ad4d4e0-8640-4690-b30d-1744f847cd8a" name="Malicious Intent">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="R31" />
 <property name="Type" value="Setup" />
@@ -408,7 +408,7 @@
 <property name="Rarity" value="Rare" />
 <property name="Card Level" value="" />
 </card>
-<card id="2041442b-f82a-4e93-97d1-f20e9999b89f" name=" Reinforcements">
+<card id="2041442b-f82a-4e93-97d1-f20e9999b89f" name="Reinforcements">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="R32" />
 <property name="Type" value="Event" />
@@ -421,7 +421,7 @@
 <property name="Rarity" value="Rare" />
 <property name="Card Level" value="" />
 </card>
-<card id="45f4bc53-90c2-4ca5-8c48-515617cc034e" name=" Coordinated Efforts">
+<card id="45f4bc53-90c2-4ca5-8c48-515617cc034e" name="Coordinated Efforts">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="R33" />
 <property name="Type" value="Energy Combat" />
@@ -434,7 +434,7 @@
 <property name="Rarity" value="Rare" />
 <property name="Card Level" value="" />
 </card>
-<card id="5af0fd3e-80d2-4604-9039-d1d998773912" name=" Legendary Blast">
+<card id="5af0fd3e-80d2-4604-9039-d1d998773912" name="Legendary Blast">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="R34" />
 <property name="Type" value="Energy Combat" />
@@ -447,7 +447,7 @@
 <property name="Rarity" value="Rare" />
 <property name="Card Level" value="" />
 </card>
-<card id="58facd71-786b-4d39-a42c-87690ab45450" name=" Bojack's Nefarious Plot">
+<card id="58facd71-786b-4d39-a42c-87690ab45450" name="Bojack's Nefarious Plot">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="R35" />
 <property name="Type" value="Setup" />
@@ -460,7 +460,7 @@
 <property name="Rarity" value="Rare" />
 <property name="Card Level" value="" />
 </card>
-<card id="31d91201-0f3c-4b34-97c5-ea331516e80b" name=" Bojack's Galactic Buster">
+<card id="31d91201-0f3c-4b34-97c5-ea331516e80b" name="Bojack's Galactic Buster">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="R36" />
 <property name="Type" value="Energy Combat" />
@@ -473,7 +473,7 @@
 <property name="Rarity" value="Rare" />
 <property name="Card Level" value="" />
 </card>
-<card id="bc5bd809-9557-453d-9c5b-d28463de9492" name=" Broly's Gigantic Meteor">
+<card id="bc5bd809-9557-453d-9c5b-d28463de9492" name="Broly's Gigantic Meteor">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="R37" />
 <property name="Type" value="Energy Combat" />
@@ -486,7 +486,7 @@
 <property name="Rarity" value="Rare" />
 <property name="Card Level" value="" />
 </card>
-<card id="f5b88fc0-cf6d-4254-8fe4-52edadadd1e1" name=" Tenshinhan's Targeting">
+<card id="f5b88fc0-cf6d-4254-8fe4-52edadadd1e1" name="Tenshinhan's Targeting">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="R36" />
 <property name="Type" value="Event" />
@@ -499,7 +499,7 @@
 <property name="Rarity" value="Rare" />
 <property name="Card Level" value="" />
 </card>
-<card id="0e8366af-8d9b-4aca-95b6-da294687a32d" name=" Goten - Supportive">
+<card id="0e8366af-8d9b-4aca-95b6-da294687a32d" name="Goten - Supportive">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="U39" />
 <property name="Type" value="Hero Ally" />
@@ -512,7 +512,7 @@
 <property name="Rarity" value="Uncommon" />
 <property name="Card Level" value="" />
 </card>
-<card id="825558b8-ba49-4b94-955b-b59b396b9e38" name=" Kid Trunks - Mocking">
+<card id="825558b8-ba49-4b94-955b-b59b396b9e38" name="Kid Trunks - Mocking">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="U40" />
 <property name="Type" value="Hero Ally" />
@@ -525,7 +525,7 @@
 <property name="Rarity" value="Uncommon" />
 <property name="Card Level" value="" />
 </card>
-<card id="83d06ce8-7448-4801-b712-d10c26067c22" name=" Krillin - To The Rescue">
+<card id="83d06ce8-7448-4801-b712-d10c26067c22" name="Krillin - To The Rescue">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="U41" />
 <property name="Type" value="Hero Ally" />
@@ -538,7 +538,7 @@
 <property name="Rarity" value="Uncommon" />
 <property name="Card Level" value="" />
 </card>
-<card id="3da46e58-ab98-4712-8a5d-31d8b253eff9" name=" Porunga - Dragon of Namek">
+<card id="3da46e58-ab98-4712-8a5d-31d8b253eff9" name="Porunga - Dragon of Namek">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="UR42" />
 <property name="Type" value="Hero/Villain Ally" />
@@ -551,7 +551,7 @@
 <property name="Rarity" value="Ultra Rare" />
 <property name="Card Level" value="" />
 </card>
-<card id="56727a20-8cdb-432d-9b3c-c5d30b66355b" name=" Team Bojack - Gathered">
+<card id="56727a20-8cdb-432d-9b3c-c5d30b66355b" name="Team Bojack - Gathered">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="U43" />
 <property name="Type" value="Villain Ally" />
@@ -564,7 +564,7 @@
 <property name="Rarity" value="Uncommon" />
 <property name="Card Level" value="" />
 </card>
-<card id="4c1862b4-a10d-44cc-bb8b-aac46cbbc666" name=" Bojack - Looming Threat">
+<card id="4c1862b4-a10d-44cc-bb8b-aac46cbbc666" name="Bojack - Looming Threat">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S44" />
 <property name="Type" value="Villain MP" />
@@ -577,7 +577,7 @@
 <property name="Rarity" value="Starter" />
 <property name="Card Level" value="1" />
 </card>
-<card id="6cffaa08-b050-426b-aa3e-e4be8112a749" name=" Bojack - On The Move">
+<card id="6cffaa08-b050-426b-aa3e-e4be8112a749" name="Bojack - On The Move">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S45" />
 <property name="Type" value="Villain MP" />
@@ -590,7 +590,7 @@
 <property name="Rarity" value="Starter" />
 <property name="Card Level" value="2" />
 </card>
-<card id="23e34268-32dd-4ff8-8b65-5e687cecb986" name=" Bojack - Transformed">
+<card id="23e34268-32dd-4ff8-8b65-5e687cecb986" name="Bojack - Transformed">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S46" />
 <property name="Type" value="Villain MP" />
@@ -603,7 +603,7 @@
 <property name="Rarity" value="Starter" />
 <property name="Card Level" value="3" />
 </card>
-<card id="df43577e-3544-4086-bc0a-57cf237808e4" name=" Bojack - Enraged">
+<card id="df43577e-3544-4086-bc0a-57cf237808e4" name="Bojack - Enraged">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S47" />
 <property name="Type" value="Villain MP" />
@@ -616,7 +616,7 @@
 <property name="Rarity" value="Starter" />
 <property name="Card Level" value="4" />
 </card>
-<card id="049c1e66-8cc2-49dc-88ca-e986464c4d3d" name=" Broly - Returned">
+<card id="049c1e66-8cc2-49dc-88ca-e986464c4d3d" name="Broly - Returned">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S48" />
 <property name="Type" value="Villain MP" />
@@ -629,7 +629,7 @@
 <property name="Rarity" value="Starter" />
 <property name="Card Level" value="1" />
 </card>
-<card id="97940c34-5293-416b-8975-3847df6cb16a" name=" Broly - Vengeful">
+<card id="97940c34-5293-416b-8975-3847df6cb16a" name="Broly - Vengeful">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S49" />
 <property name="Type" value="Villain MP" />
@@ -642,7 +642,7 @@
 <property name="Rarity" value="Starter" />
 <property name="Card Level" value="2" />
 </card>
-<card id="5d7e6d1c-2709-46a3-9ede-8895ee00dc43" name=" Broly - Resurrected">
+<card id="5d7e6d1c-2709-46a3-9ede-8895ee00dc43" name="Broly - Resurrected">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S50" />
 <property name="Type" value="Villain MP" />
@@ -655,7 +655,7 @@
 <property name="Rarity" value="Starter" />
 <property name="Card Level" value="3" />
 </card>
-<card id="15662a59-80b3-4839-9715-bbfaf8e1d884" name=" Broly - Bio Warrior">
+<card id="15662a59-80b3-4839-9715-bbfaf8e1d884" name="Broly - Bio Warrior">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S51" />
 <property name="Type" value="Villain MP" />
@@ -668,7 +668,7 @@
 <property name="Rarity" value="Starter" />
 <property name="Card Level" value="4" />
 </card>
-<card id="bfe1896b-4052-490e-ba3e-6be0d7527870" name=" Tenshinhan - Relaxed">
+<card id="bfe1896b-4052-490e-ba3e-6be0d7527870" name="Tenshinhan - Relaxed">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S52" />
 <property name="Type" value="Hero MP" />
