@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="383a6ac2-6e52-40a5-980f-fade09e4908b">
+  <section name="Starting" shared="False">
+    <card qty="1" id="0b9d30db-96c7-4414-bd0f-caeced261012">Saiyan Enhanced Mastery</card>
+    <card qty="1" id="1a76f2be-71a9-4d08-b26d-0688d2f9269c">Bardock  True Saiyan</card>
+    <card qty="1" id="707222ca-bd0b-4343-9136-2d3d1ab9816d">Bardock  Vengeful</card>
+    <card qty="1" id="8c95e1bb-ab05-4814-9c58-b0fcdc30df78">Bardock  Displaced</card>
+    <card qty="1" id="c5ff32d7-13ad-40fd-9341-bde68b060d17">Bardock  Legend</card>
+  </section>
+  <section name="Life Deck" shared="False">
+    <card qty="2" id="6d804db4-d411-48a3-8794-d70440811b09">Bardocks Riot Javelin</card>
+    <card qty="1" id="48975f6d-d0f6-4b63-8106-a039122d5d28">Saiyan Anguish Drill</card>
+    <card qty="1" id="fe637575-34e4-4fdb-9e81-d4c231cd184c">Saiyan Analysis Drill</card>
+    <card qty="1" id="72cc5f7f-11d3-4f4f-8f97-751040ccb8b2"> Saiyan Muck Drill</card>
+    <card qty="1" id="920b7ec9-70e9-4b4e-9488-897283c0f3fe">Saiyan Transformation Drill</card>
+    <card qty="1" id="1f7e4344-1c76-4a7b-bfeb-2b2171c643b0">Saiyan Confidence Drill</card>
+    <card qty="2" id="e51299aa-628a-4768-a217-01767b20799b">Saiyan Crouch</card>
+    <card qty="2" id="09291d3f-1889-4c27-9822-e4fe01076192">Saiyan Focus</card>
+    <card qty="2" id="5547f9bb-3479-45b3-a913-93dfe15f9d34">Saiyan Power Beam</card>
+    <card qty="2" id="09291d3f-1889-4c27-9822-e4fe01076534">Saiyan Leaping Burst</card>
+    <card qty="2" id="09291d3f-1889-4c27-9822-e4fe01076575">Saiyan Aerial Attack</card>
+    <card qty="2" id="e5b62948-a024-40fb-8634-55a26df099fc">Saiyan Drive By</card>
+    <card qty="1" id="3564b83c-39cd-4833-a6cf-71f5b17beadd">Saiyan Rescue</card>
+    <card qty="2" id="ed331e1c-475a-4ebf-a22c-5a40c4f29536">Saiyan Stomach Thrust</card>
+    <card qty="2" id="45fe481d-5f78-4da6-a28b-011ac39bb7d9">Saiyan Palm Block</card>
+    <card qty="2" id="3754ff79-28c3-444a-b678-d5089fe86253">Saiyan Face Strike</card>
+    <card qty="2" id="fc5fe400-4377-4426-b0b2-e0f4fb26d71f">Saiyan Light Jab</card>
+    <card qty="2" id="58400092-0942-4121-bc4a-7edb7ba0d13a">Saiyan Lifting Kick</card>
+    <card qty="2" id="4d1f47e5-401a-4f8a-adf3-c97c6a3620bb">Saiyan Leg Catch</card>
+    <card qty="2" id="323456fe-9ecb-43f7-98f9-3709f118184b">Saiyan Clash</card>
+    <card qty="2" id="dbd121a3-8845-479d-abf1-332dab1fb58e"> Saiyan Bear Hug</card>
+    <card qty="2" id="c857196c-c2f6-449d-80e6-89183c241405">Saiyan Ki Web</card>
+    <card qty="2" id="f8ee8698-c733-470d-a814-e1bc483ba6b2">Saiyan Thrust</card>
+    <card qty="2" id="ab00ae52-fa5e-4e64-a9c5-c191a6f546cd">Saiyan Flight</card>
+    <card qty="2" id="a27e8a9e-d1f9-4006-8504-943404624dea">Suppressive Strike</card>
+    <card qty="1" id="d0e7ced0-01e7-4e80-a537-7bf1b55126dd">Tora  Second in Command</card>
+    <card qty="2" id="91e6698f-4656-4bba-ba1d-ca55bd4c8321">Sobering Hammer</card>
+    <card qty="2" id="09291d3f-1889-4c27-9822-e4fe01076602">Saiyan Backbreaker</card>
+    <card qty="2" id="09291d3f-1889-4c27-9822-e4fe01076577">Saiyan Upward Kick</card>
+    <card qty="2" id="10e6f91a-ddfa-41c1-8853-18041faebad5">Saiyan Energy Focus</card>
+    <card qty="2" id="182f7de5-e73e-4ce7-8b0b-a311eb40af06">Saiyan Dive</card>
+    <card qty="2" id="df09f9fd-0e8f-4cec-995c-57b9c3619864">Saiyan Spin Kick</card>
+    <card qty="2" id="a5111f45-4084-4243-95f8-c6dc75aa5050">Saiyan Overhead Kick</card>
+    <card qty="1" id="09291d3f-1889-4c27-9822-e4fe01076562">Turles - Fighter</card>
+  </section>
+  <notes><![CDATA[]]></notes>
+</deck>

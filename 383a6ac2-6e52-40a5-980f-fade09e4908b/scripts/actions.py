@@ -111,9 +111,6 @@ def play(card, x = 0, y = 0):
         cardPlayed_y_offset = GuestPlayerCardPlayed_y_Offset
     card.moveToTable(cardPlayed_x_offset, cardPlayed_y_offset)
     notify("{} plays {} from their {}.".format(me, card, src.name))
-    # When playing allies, automatically start at 3 stages
-    if "Ally" in card.Type:
-        card.markers[CounterMarker] = 3
 
 def mulligan(group):
     mute()
@@ -149,16 +146,14 @@ def drawMany(group, count = None):
 	for card in group.top(count): card.moveTo(me.hand)
 	notify("{} draws {} cards.".format(me, count))
 
-def rejuvenateOne(*args):
-        if len(me.piles["Discard Pile"]) > 0:
-                card = me.piles["Discard Pile"].top()
-                rejuvenate(card)
+def rejuvenateOne(group):
+    rejuvenate()
 
-def rejuvenateMany(*args):
+def rejuvenateMany(group):
+    if len(group) == 0: return
     count = askInteger("Rejuvenate how many cards?", 0)
     if count > 0:
-        cards = [card for card in me.piles["Discard Pile"].top(count)]
-        rejuvenate(cards)
+        rejuvenate(count)
 
 def drawThree():
     mute()

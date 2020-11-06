@@ -11,182 +11,154 @@
       <property name="Card Number" value="C001" />
       <property name="Style" value="Freestyle" />
       <property name="Rarity" value="Common" />
-      <property name="Type" value="Hero MP" />
+      <property name="Type" value="Personality" />
       <property name="PUR" value="2" />
       <property name="Power Rating" value="0; 1000; 2000; 3000; 4000; 5000; 6000; 10000; 14000; 18000; 22000" />
       <property name="Text" value="POWER:  Physical attack.  DAMAGE:  AT +2 life cards.  If this attack is stopped, destroy the top card of your opponent&apos;s Life Deck." />
       <property name="Limit per Deck" value="1" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2002" name="Nail - Protector">
       <property name="Card Level" value="3" />
       <property name="Card Number" value="C002" />
       <property name="Style" value="Freestyle" />
       <property name="Rarity" value="Common" />
-      <property name="Type" value="Hero MP" />
+      <property name="Type" value="Personality" />
       <property name="PUR" value="3" />
       <property name="Power Rating" value="0; 4000; 8000; 12000; 16000; 20000; 24000; 28000; 32000; 36000; 40000" />
       <property name="Text" value="[CONSTANT]:  Whenever your opponent stops one of your attacks, he destroys the top 2 cards of his Life Deck.  After your opponent takes damage from one of your attacks, he banishes the top X cards of his Life Deck.  X = the number of times he used Endurance" />
       <property name="Limit per Deck" value="1" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2003" name="Nappa - Rested">
       <property name="Card Level" value="1" />
       <property name="Card Number" value="C003" />
       <property name="Style" value="Freestyle" />
       <property name="Rarity" value="Common" />
-      <property name="Type" value="Villain MP" />
+      <property name="Type" value="Personality" />
       <property name="PUR" value="2" />
       <property name="Power Rating" value="0; 2000; 2750; 3500; 4250; 5000; 5750; 6500; 7250; 8000; 8750" />
       <property name="Text" value="POWER:  Physical attack.  DAMAGE:  3 stages.  Destroy one of your opponent&apos;s Allies." />
       <property name="Limit per Deck" value="1" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2004" name="Nappa - Smirking">
       <property name="Card Level" value="2" />
       <property name="Card Number" value="C004" />
       <property name="Style" value="Freestyle" />
       <property name="Rarity" value="Common" />
-      <property name="Type" value="Villain MP" />
+      <property name="Type" value="Personality" />
       <property name="PUR" value="3" />
       <property name="Power Rating" value="0; 4500; 5000; 5500; 6000; 6500; 7000; 7500; 8000; 8500; 9000" />
       <property name="Text" value="[CONSTANT]:  If you changed levels this combat, your opponent&apos;s personalities lose 2 stages whenever you perform an attack.  Otherwise, your opponent&apos;s MP loses 1 stage whenever you perform an attack." />
       <property name="Limit per Deck" value="1" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2005" name="Raditz - True Saiyan">
       <property name="Card Level" value="2" />
       <property name="Card Number" value="C005" />
       <property name="Style" value="Freestyle" />
       <property name="Rarity" value="Common" />
-      <property name="Type" value="Villain MP" />
+      <property name="Type" value="Personality" />
       <property name="PUR" value="2" />
       <property name="Power Rating" value="0; 600; 1500; 2400; 3300; 4200; 5100; 6000; 6900; 7800; 8700" />
       <property name="Text" value="POWER:  Physical attack.  DAMAGE:  1 life card.  Reveal the top 2 cards of your Life Deck.  Place 1 into your hand and banish the other.  Raise your anger 1 level." />
       <property name="Limit per Deck" value="1" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2006" name="Raditz - Confident">
       <property name="Card Level" value="3" />
       <property name="Card Number" value="C006" />
       <property name="Style" value="Freestyle" />
       <property name="Rarity" value="Common" />
-      <property name="Type" value="Villain MP" />
+      <property name="Type" value="Personality" />
       <property name="PUR" value="3" />
       <property name="Power Rating" value="0; 8500; 9000; 9500; 10000; 10500; 11000; 11500; 12000; 12500; 13000" />
       <property name="Text" value="[CONSTANT]:  Whenever one of your Setup or Drills enters play, destroy the top card of your opponent&apos;s Life Deck.  Whenever one of your Setups or Drills enters play during combat, raise your anger 1 level." />
       <property name="Limit per Deck" value="1" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2007" name="Tenshinhan - Patient">
       <property name="Card Level" value="1" />
       <property name="Card Number" value="C007" />
       <property name="Style" value="Freestyle" />
       <property name="Rarity" value="Common" />
-      <property name="Type" value="Hero MP" />
+      <property name="Type" value="Personality" />
       <property name="PUR" value="2" />
       <property name="Power Rating" value="3800; 0; 200; 600; 1000; 1400; 1600; 1800; 2200; 2600; 3000; 3400" />
       <property name="Text" value="POWER:  Banish the top card of your Life Deck to search your Life Deck for a Named card and place it into your hand." />
       <property name="Limit per Deck" value="1" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2008" name="Tenshinhan - Stubborn">
       <property name="Card Level" value="2" />
       <property name="Card Number" value="C008" />
       <property name="Style" value="Freestyle" />
       <property name="Rarity" value="Common" />
-      <property name="Type" value="Hero MP" />
+      <property name="Type" value="Personality" />
       <property name="PUR" value="3" />
       <property name="Power Rating" value="0; 2000; 3000; 4000; 5000; 6000; 7000; 8000; 9000; 10000; 11000" />
       <property name="Text" value="[CONSTANT]:  Your attacks deal +1 life card of damage.  Once per combat after using a critical damage effect, you may search your discard pile for a non-Styled card and Rejuvenate it." />
       <property name="Limit per Deck" value="1" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2009" name="Captain Ginyu - Aggressive">
       <property name="Card Level" value="1" />
       <property name="Card Number" value="C009" />
       <property name="Style" value="Freestyle" />
       <property name="Rarity" value="Common" />
-      <property name="Type" value="Villain Ally" />
+      <property name="Type" value="Ally" />
       <property name="PUR" value="1" />
       <property name="Power Rating" value="0; 1250; 2500; 5000; 15000; 25000; 35000; 45000; 55000; 65000; 75000" />
       <property name="Text" value="(Villains only.)  [CONSTANT]:  Your opponent plays with his hand revealed." />
       <property name="Limit per Deck" value="1" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2010" name="Dodoria - Lackey">
       <property name="Card Level" value="1" />
       <property name="Card Number" value="C010" />
       <property name="Style" value="Freestyle" />
       <property name="Rarity" value="Common" />
-      <property name="Type" value="Villain Ally" />
+      <property name="Type" value="Ally" />
       <property name="PUR" value="1" />
       <property name="Power Rating" value="0; 2000; 4000; 6000; 8000; 10000; 15000; 20000; 25000; 30000; 35000" />
       <property name="Text" value="(Villains only.)  POWER:  Capture a Dragon Ball.  Banish &quot;Dodoria&quot; at the beginning of the next action this combat." />
       <property name="Limit per Deck" value="1" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2011" name="Frieza - Mastermind">
       <property name="Card Level" value="1" />
       <property name="Card Number" value="C011" />
       <property name="Style" value="Freestyle" />
       <property name="Rarity" value="Common" />
-      <property name="Type" value="Villain Ally" />
+      <property name="Type" value="Ally" />
       <property name="PUR" value="1" />
       <property name="Power Rating" value="0; 40000; 45000; 50000; 55000; 60000; 65000; 70000; 75000; 80000; 85000" />
       <property name="Text" value="(Villains only.)  [CONSTANT]:  Life card damage from attacks is banished." />
       <property name="Limit per Deck" value="1" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2012" name="Gohan - Trained">
       <property name="Card Level" value="1" />
       <property name="Card Number" value="C012" />
       <property name="Style" value="Freestyle" />
       <property name="Rarity" value="Common" />
-      <property name="Type" value="Hero Ally" />
+      <property name="Type" value="Ally" />
       <property name="PUR" value="1" />
       <property name="Power Rating" value="0; 15000; 20000; 25000; 30000; 35000; 40000; 50000; 55000; 60000; 65000" />
       <property name="Text" value="(Heroes only.)  [CONSTANT]:  Whenever a player raises his anger, change that amount to 1." />
       <property name="Limit per Deck" value="1" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2013" name="Krillin - Supportive">
       <property name="Card Level" value="1" />
       <property name="Card Number" value="C013" />
       <property name="Style" value="Freestyle" />
       <property name="Rarity" value="Common" />
-      <property name="Type" value="Hero Ally" />
+      <property name="Type" value="Ally" />
       <property name="PUR" value="1" />
       <property name="Power Rating" value="0; 2500; 5000; 10000; 15000; 20000; 30000; 40000; 50000; 60000; 70000" />
       <property name="Text" value="(Heroes only.)  [CONSTANT]:  One per turn at the start of your Rejuvenation Step, choose a Drill and destory it." />
       <property name="Limit per Deck" value="1" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2014" name="Zarbon - Loyal Servant">
       <property name="Card Level" value="1" />
       <property name="Card Number" value="C014" />
       <property name="Style" value="Freestyle" />
       <property name="Rarity" value="Common" />
-      <property name="Type" value="Villain Ally" />
+      <property name="Type" value="Ally" />
       <property name="PUR" value="1" />
       <property name="Power Rating" value="0; 2500; 5000; 10000; 15000; 20000; 25000; 30000; 35000; 40000; 45000" />
       <property name="Text" value="(Villains only.)  [CONSTANT]:  After taking damage from a physical attack, you may raise a player&apos;s anger 1 level." />
       <property name="Limit per Deck" value="1" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2015" name="Black Radiating Drill">
       <property name="Card Level" value="" />
@@ -198,8 +170,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="[CONSTANT]:  Your opponent&apos;s energy attacks cost +1 stage to perform.  Whenever your opponent Rejuvenates, banish the bottom card of his discard pile." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2016" name="Black Barrier Destruction">
       <property name="Card Level" value="" />
@@ -211,8 +181,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="(Banish after use.)  ENDURANCE 3.  POWER:  Choose 4 Styled cards in your discard pile and Rejuvenate them.  Your opponent chooses 4 Styled cards in his discard pile and Rejuvenates them." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="3" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2017" name="Black Evasion">
       <property name="Card Level" value="" />
@@ -224,8 +192,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="Stops an energy attack.  You may choose a card in your opponent&apos;s discard pile.  If you do, your opponent Rejuvenates that card and you may place a card from each player&apos;s discard pile on top of its owner&apos;s Life Deck." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2018" name="Black Fist Lock">
       <property name="Card Level" value="" />
@@ -237,8 +203,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="ENDURANCE 3.  Physical attack.  DAMAGE:  AT +4 stages." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="3" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2019" name="Black Overpowering Attack">
       <property name="Card Level" value="" />
@@ -250,8 +214,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="Physical attack.  DAMAGE:  AT +6 stages.  You may not perform physical attacks for the remainder of combat." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2020" name="Black Chomp">
       <property name="Card Level" value="" />
@@ -263,8 +225,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="(Banish after use.)  Physical attack.  DAMAGE:  3 stages.  Whenever your effects destroy or banish cards from the top of your opponent&apos;s Life Deck this combat, increase that amount by 1." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2021" name="Black Refusal">
       <property name="Card Level" value="" />
@@ -276,8 +236,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="Physical attack.  DAMAGE:  4 stages.  You may destroy a Setup or Drill you control.  If you do, destroy a total of up to 2 Setups and/or Drills." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2022" name="Black Hair Trap">
       <property name="Card Level" value="" />
@@ -289,8 +247,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="(Banish after use.)  Physical attack.  DAMAGE:  3 +X stages.  X = the number of different card types in your opponent&apos;s Banished Zone." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2023" name="Blue Lifting Drill">
       <property name="Card Level" value="" />
@@ -302,8 +258,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="(If this card is discarded from your hand by a card effect, you may place it into play.)  [CONSTANT]:  Your attacks deal +1 life card of damage.  Whenever one of your attacks is stopped, lower your opponent&apos;s anger 1 level." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2024" name="Blue Cover Up">
       <property name="Card Level" value="" />
@@ -315,8 +269,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="POWER:  Prevent 4 stages and 4 life cards of damage from your opponent&apos;s next attack this combat.  Your attacks deal +2 life cards of damage this combat." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2025" name="Blue Fear">
       <property name="Card Level" value="" />
@@ -328,8 +280,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="(If this card is discarded from your hand by a card effect, raise your anger 2 levels.  Banish after use.)  POWER:  Use a critical damage effect.  You may discard a card from your hand.  If you do, draw a card." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2026" name="Blue Bat Attack">
       <property name="Card Level" value="" />
@@ -341,8 +291,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="Physical attack.  DAMAGE:  AT +4 stages.  You may discard a card from your hand.  If you do, stop your opponent&apos;s next energy attack this combat." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2027" name="Blue Determined Attack">
       <property name="Card Level" value="" />
@@ -354,8 +302,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="Physical attack.  DAMAGE:  AT +3 stages.  If you stopped an attack in your opponent&apos;s last action, raise your anger 2 levels." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2028" name="Blue Hand Blast">
       <property name="Card Level" value="" />
@@ -367,8 +313,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="Energy attack costing 3 stages.  DAMAGE:  5 life cards.  Raise your anger 2 levels.  HIT:  Raise or lower your opponent&apos;s anger 2 levels." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2029" name="Blue Glare">
       <property name="Card Level" value="" />
@@ -380,8 +324,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="Energy attack costing 2 stages.  DAMAGE:  5 life cards.  You may discard a card from your hand.  If you do, stop your opponent&apos;s next physical attack this combat." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2030" name="Namekian Self-Training">
       <property name="Card Level" value="" />
@@ -393,8 +335,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="POWER:  Discard a card from your hand to have your physical attacks deal +1 stage of damage this combat.  If you discarded a Dragon Ball, they deal +3 stages instead." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2031" name="Namekian Forearm Block">
       <property name="Card Level" value="" />
@@ -406,8 +346,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="Stops a physical attack.  Raise your anger 1 level.  You may discard a Dragon Ball from your hand.  If you do, your physical attacks deal +1 stage of damage." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2032" name="Namekian Chin Grab">
       <property name="Card Level" value="" />
@@ -419,8 +357,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="Physical attack.  DAMAGE: AT +3 stages.  Rejuvenate 1.  HIT:  Rejuvenate 1." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2033" name="Namekian Lift">
       <property name="Card Level" value="" />
@@ -432,8 +368,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="Physical attack.  DAMAGE:  5 stages.  You may return a Dragon Ball you control to its owner&apos;s hand.  If you do, your other attacks deal +1 stage of damage this combat." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2034" name="Namekian Short Kick">
       <property name="Card Level" value="" />
@@ -445,8 +379,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="(Banish after use.)  Physical attack.  DAMAGE:  5 stages.  You may return a Dragon Ball you control to its owner&apos;s hand.  If you do, your anger cannot be lowered by card effects for the remainder of combat." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2035" name="Namekian Energy Beams">
       <property name="Card Level" value="" />
@@ -458,8 +390,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="Energy attack costing 1 stage.  DAMAGE:  5 stages.  You may discard a Dragon Ball from your hand.  If you do, damage from your attacks cannot be prevented for the remainder of combat." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2036" name="Namekian Quick Shot">
       <property name="Card Level" value="" />
@@ -471,8 +401,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="ENDURANCE 2.  Energy attack.  DAMAGE:  2 life cards.  You may discard a Dragon Ball from your hand.  If you do, capture a Dragon Ball." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="2" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2037" name="Orange Driving Drill">
       <property name="Card Level" value="" />
@@ -484,8 +412,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="[CONSTANT]:  Allies cannot make actions." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2038" name="Orange Torching Drill">
       <property name="Card Level" value="" />
@@ -497,8 +423,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="[CONSTANT]:  Whenver one of your Drills enters play during combat, destroy the top card of your opponent&apos;s Life Deck." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2039" name="Orange Calming Drill">
       <property name="Card Level" value="" />
@@ -510,8 +434,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="ENDURANCE 1.  [INSTANT] POWER:  Use when entering combat.  Lower your opponent&apos;s anger 1 level." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="1" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2040" name="Orange Crashing Drill">
       <property name="Card Level" value="" />
@@ -523,8 +445,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="[CONSTANT]:  When this card enters play during combat, your opponent destroys the top card of his Life Deck.  When this card is leaving play during combat, your opponent destroys the top card of his Life Deck." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2041" name="Orange Energy Bubble">
       <property name="Card Level" value="" />
@@ -536,8 +456,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="ENDURANCE 1.  POWER:  You may destroy any of your Drills.  Prevent X stages of damage from your opponent&apos;s attacks this combat.  X = 1 + the number of Drills you destroyed." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="1" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2042" name="Orange Nudge">
       <property name="Card Level" value="" />
@@ -549,8 +467,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="Stops an energy attack.  Destroy one of your Drills and then place it back into play at the end of combat." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2043" name="Orange Double Palm Beam">
       <property name="Card Level" value="" />
@@ -562,8 +478,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="(If this card is discarded from your hand, lower your opponent&apos;s anger 1 level.)  Energy attack costing 2 stages.  DAMAGE:  4 life cards.  You may destroy one of your Drills.  If you do, lower your opponent&apos;s anger 2 levels." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2044" name="Red Destiny">
       <property name="Card Level" value="" />
@@ -575,8 +489,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="(Banish after use.)  POWER:  Raise your anger 2 levels.  For the remainder of combat, your opponent&apos;s attacks deal -2 stages and -2 life cards of damage." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2045" name="Red Emergency">
       <property name="Card Level" value="" />
@@ -588,8 +500,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="POWER:  Use a critical damage effect.  If you have 2 or more anger, search your discard pile for 2 Drills.  Rejuvenate 1 of them and place the other into play." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2046" name="Red Containment">
       <property name="Card Level" value="" />
@@ -601,8 +511,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="ENDURANCE 2.  POWER:  Destroy a Setup.  If you have 2 or more anger, you may destroy up to X Setups instead.  X = the number of Drills you have in play." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="2" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2047" name="Red Sacrifice">
       <property name="Card Level" value="" />
@@ -614,8 +522,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="(If this card is discarded from your hand by a card effect, raise your anger 2 levels and damage from your next attack this combat cannot be prevent.)  Stops an energy attack." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2048" name="Red Restraint">
       <property name="Card Level" value="" />
@@ -627,8 +533,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="(If this card is discarded from your hand by a card effect, raise your anger 1 level, gain 3 stages and your next attack this combat deals +2 life cards of damage.)  Stops a physical attack." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2049" name="Red Knee Lift">
       <property name="Card Level" value="" />
@@ -640,8 +544,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="Physical attack.  DAMAGE:  AT stages.  Use a critical damage effect.  HIT:  You may lower your anger 1 level.  If you do, use a critical damage effect." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2050" name="Red Leap">
       <property name="Card Level" value="" />
@@ -653,8 +555,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="(Heroes only.  If this card is Rejuvenated during combat or destroyed from your Life Deck by a non-damage effect, your attacks deal +2 life cards of damage for the remainder of combat.)  Physical attack costing 2 stages.  DAMAGE:  AT +3 life cards.  Raise" />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2051" name="Saiyan Protection Drill">
       <property name="Card Level" value="" />
@@ -666,8 +566,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="ENDURANCE 1.  [CONSTANT]:  Your opponent&apos;s attacks deal -1 stage and -1 life card of damage.  Once per combat after banishing a card for Endurance, you may Rejuvenate that card." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="1" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2052" name="Saiyan Strength Test">
       <property name="Card Level" value="" />
@@ -679,8 +577,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="(You may only have one &quot;Saiyan Strength Test&quot; attached.)  POWER:  Attach to your MP.  Draw a card.  [CONSTANT]:  Whenever you raise your anger, banish the bottom card of your opponent&apos;s discard pile." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2053" name="Saiyan Drive By">
       <property name="Card Level" value="" />
@@ -692,8 +588,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="POWER:  Your opponent destroys the top X cards of his Life Deck.  X = your current anger level.  Choose a card in your discard pile and place it on top of your Life Deck.  If that card had Endurance, choose a card in your discard pile and Rejuvenate it." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2054" name="Saiyan Blocking Technique">
       <property name="Card Level" value="" />
@@ -705,8 +599,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="Stops a physical attack.  All physical attacks you perform for the remainder of combat deal +2 power stages of damage." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2055" name="Saiyan Hand Swipe">
       <property name="Card Level" value="" />
@@ -718,8 +610,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="ENDURANCE 3.  Stops an energy attack.  The next attack you perform this combat deals +3 life cards of damage." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="3" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2056" name="Saiyan Driving Punch">
       <property name="Card Level" value="" />
@@ -731,8 +621,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="Physical attack.  DAMAGE:  AT +3 life cards.  Your MP is considered to have a higher power level than the defending personality for your card effects this combat.  HIT:  Rejuvenate this card." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2057" name="Saiyan Charged Fist">
       <property name="Card Level" value="" />
@@ -744,8 +632,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="(Villains only.)  Physical attack.  DAMAGE:  5 stages.  If the personality performing this attack has a higher power level than the defending personality, your opponent&apos;s MP loses 3 stages, to a minimum of 0." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2058" name="Captain Ginyu&apos;s Pain">
       <property name="Card Level" value="" />
@@ -757,8 +643,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="(Banish after use.)  POWER:  Destroy the top X cards of your opponent&apos;s Life Deck.  X = the number of Allies in your discard pile and Banished Zone." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2059" name="Energetic Left Blast">
       <property name="Card Level" value="" />
@@ -770,8 +654,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="Energy attack.  DAMAGE:  1 life card.  You may destroy an Ally.  If you do, this attack deals +4 life cards of damage." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2060" name="Combination Drill">
       <property name="Card Level" value="" />
@@ -783,8 +665,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="(Limit 1 per deck.)  [INSTANT] POWER:  Use when entering combat.  Choose a Drill not named &quot;Combination Drill&quot; and destroy it.  Your opponent may then use the effect of this Drill." />
       <property name="Limit per Deck" value="1" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2061" name="Black Declaration">
       <property name="Card Level" value="" />
@@ -796,8 +676,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="(If this card is discarded from your hand during combat, place it into play.)  ENDURANCE 2.  POWER:  Choose an Ally, Drill, Setup or Dragon Ball in play and shuffle that card into its owner&apos;s Life Deck." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="2" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2062" name="Black Head Charge">
       <property name="Card Level" value="" />
@@ -809,8 +687,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="Physical attack.  DAMAGE:  AT stages.  The personality performing this attack may pay any amount of stages.  This attack deals +1 stage of damage for each stage paid." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2063" name="Black Enraged Assault">
       <property name="Card Level" value="" />
@@ -822,8 +698,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="ENDURANCE 1.  Physical attack.  DAMAGE:  3 stages + 3 life cards.  HIT:  Choose a card in your opponent&apos;s Banished Zone.  Search your opponent&apos;s Life Deck for all copies of that card harm." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="1" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2064" name="Focused Assault">
       <property name="Card Level" value="" />
@@ -835,8 +709,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="(Heroes only.  Banish after use.)  ENDURANCE 2.  Energy attack costing 2 stages.  DAMAGE:  4 life cards.  You may destroy an attached card.  If you do, this attack deals +3 life cards." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="2" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2065" name="Black Counter Ball">
       <property name="Card Level" value="" />
@@ -848,8 +720,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="(Banish after use.)  Energy attack 3 stages.   DAMAGE:  2 +X life cards.  X = the number of Energy Combat cards in your opponent&apos;s Banished Zone." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2066" name="Blue Taming Technique">
       <property name="Card Level" value="" />
@@ -861,8 +731,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="POWER:  Serach your Life Deck for an Ally and place it into play at 4 stages above 0.  You may discard a card from your hand.  If you discarded a Styled Setup, you may place it into play." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2067" name="Blue Overpower Drill">
       <property name="Card Level" value="" />
@@ -874,8 +742,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="(Villains only.  This card is not discarded when advancing a level.)  [CONSTANT]:  Whenever you stop an attack, you may raise a player&apos;s anger 1 level.  Your first copied attack each combat cannot be stopped." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2068" name="Blue Leaping Kick">
       <property name="Card Level" value="" />
@@ -887,8 +753,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="Physical attack.  DAMAGE:  AT +2 stages.  Lower your opponent&apos;s anger 1 level.  You may discard from hand.  If you do, this attack stays in play to be used a second time this combat." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2069" name="Blue Crush">
       <property name="Card Level" value="" />
@@ -900,8 +764,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="(Banish after use.)  Physical attack.  DAMAGE:  AT 2+stages.  If you have performed a copied attack this combat, draw a card." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2070" name="Blue Back Break">
       <property name="Card Level" value="" />
@@ -913,8 +775,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="Physical attack.  DAMAGE:  5 stages.  Raise your anger 1 level.  You may shuffle an Ally in play into its owner&apos;s Life Deck." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2071" name="Namekian Cut Off">
       <property name="Card Level" value="" />
@@ -926,8 +786,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="(Banish after use.)  POWER:  Destroy a Drill.  If your MP is Gohan and you have Piccolo in play, destroy all of your opponent&apos;s Drills instead." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2072" name="Namekian Backhand">
       <property name="Card Level" value="" />
@@ -939,8 +797,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="(Banish after use.)  Physical attack.  DAMAGE:  3 stages.  Damage for this attack  cannot be redirected or prevented.  This attack stays in play to be used a second and third time this combat." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2073" name="Namekian Clash">
       <property name="Card Level" value="" />
@@ -952,8 +808,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="Physical attack.  DAMAGE:  AT +2 stages.  If you have performed another physical attack this combat, banish an opponent&apos;s Setup or Drill." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2074" name="Namekian High Knee">
       <property name="Card Level" value="" />
@@ -965,8 +819,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="ENDURANCE 1.  Physical attack.  DAMAGE:  5 stages.  If you control 2 or more Dragon Balls, Rejuvenate 1 and this attack cannot be stopped." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="1" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2075" name="Namekian Confident Burst">
       <property name="Card Level" value="" />
@@ -978,8 +830,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="Energy attack costing 2 stages.  DAMAGE:  4 life cards.  HIT:  Search your Life Deck for an Ally and place it into play at 4 power stages above 0.  If you have Gohan in play, instead search your Life Deck and discard pile for a total of 2 Allies and place" />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2076" name="Orange Possession Drill">
       <property name="Card Level" value="" />
@@ -991,8 +841,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="POWER:  Draw 2 cards and then discard 2 cards from your hand unless you discard a Styled Drill from your hand." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2077" name="Orange Chasing Drill">
       <property name="Card Level" value="" />
@@ -1004,8 +852,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="[CONSTANT]:  Whenever you perform a Styled attack, you may choose for that attack to deal its life card damage as power stages of damage instead." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2078" name="Orange Dodge">
       <property name="Card Level" value="" />
@@ -1017,8 +863,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="(Banish after use.)  POWER:  Prevent all damage from an attack.  Shuffle one of your Drills in play into your Life Deck to search your Life Deck for a Styled Drill and place it into your hand." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2079" name="Orange Hand Cannon">
       <property name="Card Level" value="" />
@@ -1030,8 +874,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="(Banish after use.)  Energy attack costing 2 stages.  DAMAGE:  3 life cards.  HIT:  Your next Styled energy attack this combat cannot have its damage prevented and you do not have to pay power stage costs for it." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2080" name="Orange Mini Ball">
       <property name="Card Level" value="" />
@@ -1043,8 +885,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="Energy attack costing 1 stage.  DAMAGE:  3 life cards.  You may discard a Styled Drill from your hand.  If you do, this attack stays on the table to be used a second time this combat." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2081" name="Red Embarassing Drill">
       <property name="Card Level" value="" />
@@ -1056,8 +896,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="ENDURANCE 2.  [INSTANT] POWER:  When one of your effects requires you to lower your anger, you may reduce that amount to 0." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="2" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2082" name="Red Stop">
       <property name="Card Level" value="" />
@@ -1069,8 +907,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="(Banish after use.)  POWER:  Stops a physical or energy attack.  You may lower your anger 1 level.  If you do, search your discard pile or Banished Zone for a Styled Drill and place it into play." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2083" name="Red Controlled Attack">
       <property name="Card Level" value="" />
@@ -1082,8 +918,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="Physical attack.  DAMAGE:  AT +3 stages.  HIT:  You may lower your MP 1 level.  If you do, your opponents skip his next action this combat." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2084" name="Red Overpower">
       <property name="Card Level" value="" />
@@ -1095,8 +929,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="(Limit 2 per deck.  Banish after use.)  Energy attack costing 3 stages.  DAMAGE:  5 life cards.  You may lower your MP 1 level.  If you do, Styled cards in your Life Deck without Endurance gain &quot;Endurance 1&quot; this combat." />
       <property name="Limit per Deck" value="2" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2085" name="Red Combined Blast">
       <property name="Card Level" value="" />
@@ -1108,8 +940,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="ENDURANCE 3.  Energy attack costing 3 stages.  DAMAGE:  6 life cards.  Raise your anger 1 level.  You may lower your anger 3 levels.  If you do your opponent cannot play Events this combat." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="3" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2086" name="Saiyan Intimidation">
       <property name="Card Level" value="" />
@@ -1121,8 +951,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="(Banish after use.)  POWER:  Banish an opponent&apos;s Setup, Drill, or Ally." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2087" name="Saiyan Outrage">
       <property name="Card Level" value="" />
@@ -1134,8 +962,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="POWER:  Stops a physical or energy attack.  If the defending personality has a higher power level than the attacking personality, then at the end of combat you may search your Life Deck for a card that can attach to your MP and place it into play attached" />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2088" name="Saiyan Grab">
       <property name="Card Level" value="" />
@@ -1147,8 +973,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="(Villains only.  Banish after use.)  DAMAGE:  AT stages.  If the personality performing this attack has a higher power level than the defending personality, this attack cannot be stopped.  HIT:  Draw a card." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2089" name="Saiyan Body Blow">
       <property name="Card Level" value="" />
@@ -1160,8 +984,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="(Banish after use.)  Physical attack.  DAMAGE:  AT +3 stages.  You may search your Life Deck for a card that can attach to your MP and place it into play attached." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2090" name="Saiyan Prepped Ball">
       <property name="Card Level" value="" />
@@ -1173,8 +995,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="(Heroes only. Banish after use.)  Energy attack costing 2 stages.  DAMAGE:  4 life cards.  You may search your discard pile for a Saiyan Styled Event and place it into your hand." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2091" name="Isolation">
       <property name="Card Level" value="" />
@@ -1186,8 +1006,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="(Banish after use.)  [INSTANT] POWER:  Use when entering combat.  Drills and Allies lose all effects until the end of combat.  Allies cannot make actions nor have damage redirected to them." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2092" name="Withering Fire">
       <property name="Card Level" value="" />
@@ -1199,8 +1017,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="(Villains only.)  Energy attack costing 2 stages.  DAMAGE:  4 life cards.  Banish an opponent&apos;s Drill." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2093" name="Crushing Beam">
       <property name="Card Level" value="" />
@@ -1212,8 +1028,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="(Heroes only.)  ENDURANCE 2.  Energy attack costing 3 stages.  DAMAGE:  6 life cards.  Life card damage from this attack is banished.  Shuffle into your Life Deck after use." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="2" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2094" name="Face Smash">
       <property name="Card Level" value="" />
@@ -1225,8 +1039,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="(Villains only.  Banish after use.)  Physical attack.  DAMAGE:  AT +1 stage.  Lower your opponent&apos;s anger 1 level.  Capture a Dragon Ball without using its immediate effects.  HIT:  Use that Dragon Ball&apos;s immediate effects." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2095" name="Wall Breaker">
       <property name="Card Level" value="" />
@@ -1238,8 +1050,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="Physical attack.  DAMAGE:  +1 AT stage.  Attach to your opponent&apos;s MP.  While attached, your opponent cannot gains anger.  Banish this card when your opponent deals critical damage." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2096" name="Nail&apos;s Dashing Attack">
       <property name="Card Level" value="" />
@@ -1251,8 +1061,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="(This card is considered Styled for your card effects.)  Physical attack.  DAMAGE:  AT +4 stages.  Use a critical damage effect.  HIT:  Shuffle this card into your Life Deck." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2097" name="Nappa&apos;s Energized Charge">
       <property name="Card Level" value="" />
@@ -1264,8 +1072,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="Physical attack.  DAMAGE:  6 stages.  Whenever your opponent&apos;s MP changes levels this combat, set his power level to 0." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2098" name="Raditz&apos;s Offensive Guard">
       <property name="Card Level" value="" />
@@ -1277,8 +1083,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="(You may banish this card from your hand to stop a physical attack or energy attack.)  Physical attack.  DAMAGE:  AT +4 stages.  Attach to your MP.  While attached, once per combat as an action you may place into play a Setup or Drill from your hand.  Ban" />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2099" name="Tenshinhan&apos;s Draining Blast">
       <property name="Card Level" value="" />
@@ -1290,8 +1094,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="(You must banish the top 3 cards of your Life Deck to play this card.  Banish after use.)  Energy attack.  DAMAGE:  5 life cards.  Search your discard pile or Banished Zone for a non-Styled card and Rejuvenate it." />
       <property name="Limit per Deck" value="1" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2100" name="Trunks&apos; Sword Stance">
       <property name="Card Level" value="" />
@@ -1303,164 +1105,138 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="(You cannot win by MPPV if you use this card.  Banish after use.)  [INSTANT] POWER:  Use when entering combat.  Name a card.  Reveal the top card of your Life Deck.  If the revealed card matches the card you named, raise your anger 6 levels.  You may shuffle your L" />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2101" name="Nail - Unflinching">
       <property name="Card Level" value="3" />
       <property name="Card Number" value="U061" />
       <property name="Style" value="Freestyle" />
       <property name="Rarity" value="Uncommon" />
-      <property name="Type" value="Hero MP" />
+      <property name="Type" value="Personality" />
       <property name="PUR" value="4" />
       <property name="Power Rating" value="125000; 120000; 115000; 110000; 105000; 95000; 90000; 85000; 80000; 0" />
       <property name="Text" value="[CONSTANT]:  Your attacks deal +3 stages of damage.  POWER:  You may return a Dragon Ball in play to its owner&apos;s hand or you may choose a Dragon Ball in your hand and place it into play.  Raise your anger 1 level." />
       <property name="Limit per Deck" value="1" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2102" name="Nail - Combat Ready">
       <property name="Card Level" value="4" />
       <property name="Card Number" value="U062" />
       <property name="Style" value="Freestyle" />
       <property name="Rarity" value="Uncommon" />
-      <property name="Type" value="Hero MP" />
+      <property name="Type" value="Personality" />
       <property name="PUR" value="5" />
       <property name="Power Rating" value="0; 105000; 110000; 115000; 120000; 125000; 130000; 135000; 140000; 145000; 150000" />
       <property name="Text" value="[CONSTANT]:  Your maximum hand size is +1 during the Discard Step.  POWER:  Physical attack.  DAMAGE:  7 stages.  HIT:  You may use the immediate effects of a Dragon Ball in play." />
       <property name="Limit per Deck" value="1" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2103" name="Nappa - Overconfident">
       <property name="Card Level" value="3" />
       <property name="Card Number" value="U063" />
       <property name="Style" value="Freestyle" />
       <property name="Rarity" value="Uncommon" />
-      <property name="Type" value="Villain MP" />
+      <property name="Type" value="Personality" />
       <property name="PUR" value="4" />
       <property name="Power Rating" value="0; 5000; 6000; 7000; 8000; 9000; 10000; 11000; 12000; 13000; 14000" />
       <property name="Text" value="POWER:  Physical attack.  DAMAGE:  7 stages.  HIT:  Banish a Drill or Ally." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2104" name="Nappa - Enraged">
       <property name="Card Level" value="4" />
       <property name="Card Number" value="U064" />
       <property name="Style" value="Freestyle" />
       <property name="Rarity" value="Uncommon" />
-      <property name="Type" value="Villain MP" />
+      <property name="Type" value="Personality" />
       <property name="PUR" value="5" />
       <property name="Power Rating" value="0; 6000; 8000; 10000; 12000; 14000; 16000; 18000; 20000; 22000; 24000" />
       <property name="Text" value="[CONSTANT]:  Your attacks deal +4 stages of damage.  If your opponent&apos;s MP&apos;s power level is 0, your attacks cannot have their damage prevented." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2105" name="Raditz - Angered">
       <property name="Card Level" value="3" />
       <property name="Card Number" value="U065" />
       <property name="Style" value="Freestyle" />
       <property name="Rarity" value="Uncommon" />
-      <property name="Type" value="Villain MP" />
+      <property name="Type" value="Personality" />
       <property name="PUR" value="4" />
       <property name="Power Rating" value="0; 8000; 9000; 10000; 11000; 12000; 13000; 14000; 15000; 16000; 17000" />
       <property name="Text" value="[INSTANT] POWER:  Use when entering combat.  Your opponent discards a random card from his hand." />
       <property name="Limit per Deck" value="1" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2106" name="Raditz - Triumphant">
       <property name="Card Level" value="4" />
       <property name="Card Number" value="U066" />
       <property name="Style" value="Freestyle" />
       <property name="Rarity" value="Uncommon" />
-      <property name="Type" value="Villain MP" />
+      <property name="Type" value="Personality" />
       <property name="PUR" value="5" />
       <property name="Power Rating" value="0; 13000; 14000; 15000; 16000; 17000; 18000; 19000; 20000; 21000; 22000" />
       <property name="Text" value="[CONSTANT]:  Whenver one of your Setups or Drills enters play, choose a card in your discard pile and Rejuvenate it.  The first time you use a critical damage effect each combat, you may search your Life Deck or discard pile for a Setup or Drill and place i" />
       <property name="Limit per Deck" value="1" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2107" name="Tenshinhan - Prepared">
       <property name="Card Level" value="3" />
       <property name="Card Number" value="U067" />
       <property name="Style" value="Freestyle" />
       <property name="Rarity" value="Uncommon" />
-      <property name="Type" value="Hero MP" />
+      <property name="Type" value="Personality" />
       <property name="PUR" value="4" />
       <property name="Power Rating" value="0; 60000; 65000; 70000; 75000; 80000; 85000; 90000; 95000; 100000; 105000" />
       <property name="Text" value="(You cannot win by MPPV if you raise your anger with this effect.)  POWER:  Energy attack.  DAMAGE:  5 life cards.  You may banish 8 cards from your discard pile.  If you do, raise your anger 6 levels." />
       <property name="Limit per Deck" value="1" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2108" name="Tenshinhan - Smug">
       <property name="Card Level" value="4" />
       <property name="Card Number" value="U068" />
       <property name="Style" value="Freestyle" />
       <property name="Rarity" value="Uncommon" />
-      <property name="Type" value="Hero MP" />
+      <property name="Type" value="Personality" />
       <property name="PUR" value="5" />
       <property name="Power Rating" value="0; 50000; 75000; 100000; 125000; 150000; 175000; 200000; 225000; 250000; 275000" />
       <property name="Text" value="[CONSTANT]:  The first attack you play each combat stays in play to be used a second time that combat." />
       <property name="Limit per Deck" value="1" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2109" name="Goku - Thoughtful">
       <property name="Card Level" value="1" />
       <property name="Card Number" value="U069" />
       <property name="Style" value="Freestyle" />
       <property name="Rarity" value="Uncommon" />
-      <property name="Type" value="Hero Ally" />
+      <property name="Type" value="Ally" />
       <property name="PUR" value="1" />
       <property name="Power Rating" value="90000; 75000; 60000; 55000; 40000; 25, 000; 20000; 15000; 10000; 5000; 0" />
       <property name="Text" value="(Heroes only.)  POWER:  Search your Life Deck for a Styled Drill and place it into play." />
       <property name="Limit per Deck" value="1" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2110" name="Piccolo - Waiting">
       <property name="Card Level" value="1" />
       <property name="Card Number" value="U070" />
       <property name="Style" value="Freestyle" />
       <property name="Rarity" value="Uncommon" />
-      <property name="Type" value="Hero Ally" />
+      <property name="Type" value="Ally" />
       <property name="PUR" value="1" />
       <property name="Power Rating" value="80000; 70000; 60000; 50000; 40000; 30000; 20000; 10000; 5000; 2500;" />
       <property name="Text" value="(Heroes only.  If your MP is Gohan, you may use this power regardless of your MP&apos;s power stage.)  POWER:  Stops an energy attack." />
       <property name="Limit per Deck" value="1" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2111" name="Trunks - Bashful">
       <property name="Card Level" value="1" />
       <property name="Card Number" value="U071" />
       <property name="Style" value="Freestyle" />
       <property name="Rarity" value="Uncommon" />
-      <property name="Type" value="Hero Ally" />
+      <property name="Type" value="Ally" />
       <property name="PUR" value="1" />
       <property name="Power Rating" value="0; 15000; 20000; 25000; 35000; 45000; 55000; 65000; 75000; 85000; 95000" />
       <property name="Text" value="(Heroes only.)  [INSTANT] POWER:  Use when entering combat.  Look at the top card of a player&apos;s Life Deck.  You may place that card at the bottom of that player&apos;s Life Deck." />
       <property name="Limit per Deck" value="1" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2112" name="Vegeta - Impatient">
       <property name="Card Level" value="1" />
       <property name="Card Number" value="U072" />
       <property name="Style" value="Freestyle" />
       <property name="Rarity" value="Uncommon" />
-      <property name="Type" value="Villain Ally" />
+      <property name="Type" value="Ally" />
       <property name="PUR" value="1" />
       <property name="Power Rating" value="0; 2000; 4000; 6000; 8000; 10000; 12000; 14000; 16000; 18000; 20000" />
       <property name="Text" value="(Villains only.)  [CONSTANT]:  Your physical attacks deal +1 stage of damage.  If Nappa is your MP, your physical attacks deal +2 stages of damage instead.)" />
       <property name="Limit per Deck" value="1" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2113" name="Black Viewing Drill">
       <property name="Card Level" value="" />
@@ -1472,8 +1248,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="[CONSTANT]:  After your opponent discards a card from their hand by a card effect during combat, destroy the top card of his Life Deck." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2114" name="Black Foreshadowing">
       <property name="Card Level" value="" />
@@ -1485,8 +1259,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="(Banish after use.)  ENDURANCE 3.  POWER:  Destroy the top X cards of your opponent&apos;s Life Deck and gain X stages.  X = the number of different card types in your opponent&apos;s Banished Zone." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="3" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2115" name="Black Upward Dodge">
       <property name="Card Level" value="" />
@@ -1498,8 +1270,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="Stops a physical attack.  Your next attack this combat deals +4 life cards of damage this combat." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2116" name="Black Overhead Burst">
       <property name="Card Level" value="" />
@@ -1511,8 +1281,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="Energy attack costing 3 stages.  DAMAGE:  5 life cards.  Raise your anger 2 levels.  HIT:  You may discard a card from your hand.  If you do, use a critical damage effect." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2117" name="Blue Joy Ride">
       <property name="Card Level" value="" />
@@ -1524,8 +1292,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="(If this card is discarded from your hand by a card effect, your next copied attack this combat deals +4 stages of damage.)  POWER:  Lower your opponent&apos;s anger 2 levels.  If your opponent&apos;s anger is 0, search your discard pile for a Styled Drill and plac" />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2118" name="Blue Flinch">
       <property name="Card Level" value="" />
@@ -1537,8 +1303,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="Stops an energy attack.  You may discard a Styled card from your hand.  If you do, each player draws a card." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2119" name="Blue Leverage">
       <property name="Card Level" value="" />
@@ -1550,8 +1314,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="Stops a physical attack.  Reveal the top 3 cards of your Life Deck to all players.  Your opponent chooses 1 of those cards.  The chosen card is placed into your hand and the other 2 are place back in order.  If your Main Personality&apos;s level is 3 or higher" />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2120" name="Blue Face Crunch">
       <property name="Card Level" value="" />
@@ -1563,8 +1325,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="Physical attack.  DAMAGE:  AT +5 stages.  Gain 3 stages.  Look at your opponent&apos;s hand." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2121" name="Namekian Shocking Drill">
       <property name="Card Level" value="" />
@@ -1576,8 +1336,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="POWER:  Choose a Dragon Ball in your hand place it into play." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2122" name="Namekian Hurried Quest">
       <property name="Card Level" value="" />
@@ -1589,8 +1347,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="(Banish after use.  POWER:  Return a Dragon Ball in play into its ownder&apos;s hand.  If you do, use the immediate effects of a Dragon Ball you control and then return it to its owner&apos;s hand." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2123" name="Namekian Patient Block">
       <property name="Card Level" value="" />
@@ -1602,8 +1358,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="POWER:  Stops an energy attack.  You may return a Dragon Ball you control to its owner&apos;s hand.  If you do, your next attack this combat gains &quot;HIT:  Use a critical damage effect.&quot;" />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2124" name="Namekian Jump Kick">
       <property name="Card Level" value="" />
@@ -1615,8 +1369,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="Physical attack.  DAMAGE:  AT +3 stages.  You may discard a Dragon Ball from your hand to draw a card.  If you do, banish this card." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2125" name="Orange Catch">
       <property name="Card Level" value="" />
@@ -1628,8 +1380,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="Stops a physical attack.  You may discard a Styled Drill from your hand.  If you do, raise your anger 2 levels and lower your opponent&apos;s anger 2 levels." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2126" name="Orange Charged Kick">
       <property name="Card Level" value="" />
@@ -1641,8 +1391,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="Physical attack.  DAMAGE:  AT +3 stages.  Raise your anger 2 levels.  Destroy one of your Drills.  HIT:  Return that Drill to your hand." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2127" name="Orange Saving Kick">
       <property name="Card Level" value="" />
@@ -1654,8 +1402,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="Physical attack.  DAMAGE:  AT stages.  Lower your opponent&apos;s anger 2 levels.  HIT:  Your opponent cannot gain anger this combat." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2128" name="Orange Elbow">
       <property name="Card Level" value="" />
@@ -1667,8 +1413,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="(Banish after use.)  Physical attack.  DAMAGE:  AT +2 stages.  HIT:  Choose a Styled Setup in your discard pile and place it into play." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2129" name="Red City Destruction">
       <property name="Card Level" value="" />
@@ -1680,8 +1424,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="POWER:  Use a critical damage effect.  Your anger cannot be lowered by critical damage effects this turn.  Until the start of your next turn, your effects that require you to lower your anger are reduced by 1 (to a minimum of 0)." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2130" name="Red Palm Strike">
       <property name="Card Level" value="" />
@@ -1693,8 +1435,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="(Villains only.)  Physical attack costing 1 stage.  DAMAGE: AT +2 stages.  Raise your anger 1 level.  For the remainder of combat, whenever your opponent uses Endurance you may lower your anger 1 level.  If you do, reduce that Endurance to 0.  HIT:  Use a" />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2131" name="Red Stomach Dive">
       <property name="Card Level" value="" />
@@ -1706,8 +1446,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="Physical attack.  DAMAGE:  AT +4 stages.  Attach to your MP.  While attached, when you perform an attack you may lower your anger 1 level.  If you do, that attack deals +2 life cards of damage.  Destroy this card when you take critical damage." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2132" name="Red Club">
       <property name="Card Level" value="" />
@@ -1719,8 +1457,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="Physical attack.  DAMAGE: AT +3 stages.  Attach to your MP.  While attached, when your opponent performs a successful attack you may lower your anger 1 level.  If you do, prevent 2 life cards of damage from that attack.  Destroy this card when you change " />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2133" name="Saiyan Unleashing Drill">
       <property name="Card Level" value="" />
@@ -1732,8 +1468,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="ENDURANCE 1.  [CONSTANT]:  Your energy attacks deal +2 stages of damage and your physical attacks deal +1 life card of damage." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="1" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2134" name="Saiyan Rescue">
       <property name="Card Level" value="" />
@@ -1745,8 +1479,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="(You may only have one &quot;Saiyan Rescue&apos; attached.)  POWER:  Attach to your MP.  Rejuvenate 1.  [CONSTANT]:  Once per turn as an action, choose a card in your discard pile and Rejuvenate it." />
       <property name="Limit per Deck" value="1" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2135" name="Saiyan Spin Kick">
       <property name="Card Level" value="" />
@@ -1758,8 +1490,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="ENDURANCE 2.  Physical attack.  DAMAGE:  AT +3 stages.  Raise your anger 1 level.  Lower your opponent&apos;s anger 1 level.  Destroy an Ally." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="2" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2136" name="Saiyan Right Blast">
       <property name="Card Level" value="" />
@@ -1771,8 +1501,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="Energy attack costing 2 stages.  DAMAGE:  5 life cards.  Lower your opponent&apos;s anger 1 level.  HIT:  If your MP is a higher personality level than your opponent&apos;s MP, Styled cards in your Life Deck without Endurance gain &quot;Endurance 1&quot; this combat." />
       <property name="Limit per Deck" value="1" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2137" name="Raditz&apos;s Dirty Tactics">
       <property name="Card Level" value="" />
@@ -1784,8 +1512,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="(Limit 2 per deck.  Banish after use.)  POWER:  Name a Setup or Drill.  Search your opponent&apos;s Life Deck and hand for all copies of that card and banish them." />
       <property name="Limit per Deck" value="2" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2138" name="Nail&apos;s Heritage">
       <property name="Card Level" value="" />
@@ -1797,8 +1523,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="(Limit 2 per deck.  If this card is in play, you may Rejuvenate it as an action.  If you use this card a second time this combat, banish after use.)  POWER:  Stops a Styled phyiscal or Styled energy attack.  This card stays in play to be used  a second ti" />
       <property name="Limit per Deck" value="2" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2139" name="Nappa&apos;s Confidence">
       <property name="Card Level" value="" />
@@ -1810,8 +1534,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="(Banish after use.)  POWER:  Choose a personality in play.  That personality loses 4 stages.  If that personality&apos;s power level is 0, you may banish a Setup or Ally." />
       <property name="Limit per Deck" value="3" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2140" name="Tenshinhan&apos;s Preparation">
       <property name="Card Level" value="" />
@@ -1823,8 +1545,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="(If this card is Rejuvenated, you may draw a card.)  POWER:  Destroy the top 2 cards of each player&apos;s Life Deck.  Raise your anger 2 levels and lower your opponent&apos;s anger 2 levels.  Rejuvenate this card." />
       <property name="Limit per Deck" value="1" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2141" name="Heroic Assistance">
       <property name="Card Level" value="" />
@@ -1836,8 +1556,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="(Heroes only.  Limit 2 per deck.)  POWER:  Gain 2 stages.  Choose a Physical Combat, Energy Combat, or Event from your discard pile and place it on top of your Life Deck.  You may shuffle this card into your Life Deck after use." />
       <property name="Limit per Deck" value="2" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="" />
     </card>
 <card id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2142" name="Villainous Empowerment">
       <property name="Card Level" value="" />
@@ -1849,8 +1567,6 @@
       <property name="Power Rating" value="" />
       <property name="Text" value="(Villains only.  Limit 2 per deck.  Banish after use.)  ENDURANCE 2.  POWER:  Setups and Drills cannot be used this combat.  Search your Life Deck for a Styled Drill and place it into play." />
       <property name="Limit per Deck" value="2" />
-      <property name="Traits" value="" />
-      <property name="Endurance" value="2" />
     </card>
   </cards>
 </set>

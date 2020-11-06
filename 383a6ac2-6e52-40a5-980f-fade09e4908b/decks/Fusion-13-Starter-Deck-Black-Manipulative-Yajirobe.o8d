@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="383a6ac2-6e52-40a5-980f-fade09e4908b">
+  <section name="Starting" shared="False">
+    <card qty="1" id="06a812bb-2873-40d0-affc-9fc385714f88">Black Manipulative Mastery</card>
+    <card qty="1" id="80be9c3d-1c7a-4ebc-8138-bbc5eeea83f6">Yajirobe - Ronin</card>
+    <card qty="1" id="698af826-aebd-48d1-aa4a-9a47a6e6569d">Yajirobe - Hungry</card>
+    <card qty="1" id="7a673e69-cb6d-470a-9e2f-ce4f284bbbda">Yajirobe - Opportunist</card>
+    <card qty="1" id="0dd14751-9bc9-42fb-9a06-6880ea118d3f">Yajirobe - Retired</card>
+  </section>
+  <section name="Life Deck" shared="False">
+    <card qty="1" id="b73f3942-873a-4fd7-8b83-f81989feac9b">Time is a Warrior's Tool</card>
+    <card qty="2" id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2141">Heroic Assistance</card>
+    <card qty="2" id="726f66a5-b67b-4434-a4e6-c39c886b51fc">Heroic Jab </card>
+    <card qty="2" id="6de9d5fd-1ad6-4955-b720-50000fe6ac3c">Aggressive Sword Drill </card>
+    <card qty="2" id="3c9f841d-2e8d-448c-abe8-c6a5be0fc5c9">Black Empowered Sword Slash</card>
+    <card qty="2" id="8c61e016-b6e3-43df-b04d-eb0dc2ba9a84">Red Shining Sword Attack</card>
+    <card qty="2" id="6f635f6c-08a1-45d0-a174-63128ba339ab">Red Sword Stab</card>
+    <card qty="2" id="6396ced2-618f-406c-88b8-58ad8c696eb3">Black Sword Rush</card>
+    <card qty="2" id="b42c0452-a2e5-4024-aa4b-90ec45e5949c">Devilish Sword Strike</card>
+    <card qty="2" id="07fbd20e-859c-4532-b7e2-8fd1d0721692">Saiyan Sword Strike</card>
+    <card qty="2" id="9a2c6fb4-3058-4a3d-8618-0eb7d114f500">Black Sword Attack</card>
+    <card qty="2" id="c69bfa5f-39ba-4da7-b010-318a8b5fe165">Saiyan Sword Dodge</card>
+    <card qty="2" id="41a90acd-7b4a-4e93-a3ea-58ad1baf0104">Blue Sword Rage</card>
+    <card qty="2" id="ec899ec6-3aa4-4f0e-9643-ac22ce6dd7ee">Dashing Sword Attack </card>
+    <card qty="2" id="3882896a-e88d-441c-afd7-bbad50423488">Blue Sword Stance</card>
+    <card qty="2" id="171c59fb-0ce5-4549-9c0f-369793e104af">Playful Punch</card>
+    <card qty="1" id="20327213-ecf3-4a0f-8b4a-8352cfd9b559">Black Rupture Drill</card>
+    <card qty="1" id="bd6ac0f9-20e4-4511-8256-b607a0efa4fc">Black Astonishing Drill</card>
+    <card qty="1" id="09291d3f-1889-4c27-9822-e4fe01076487">Black Chopping Drill</card>
+    <card qty="2" id="0b52b0f9-6cb8-47e5-a951-f732f818dde9">Black Flinch</card>
+    <card qty="2" id="96f3bc4d-722f-4dc4-b8e2-f6100e0eebad">Black Trick Shot</card>
+    <card qty="2" id="2124b699-0053-4579-be51-69c4cabc1cc0">Black Protection</card>
+    <card qty="2" id="dd11b280-25f7-4bef-a069-84481cfc60fc">Black Hop</card>
+    <card qty="2" id="bf7effee-c0f8-46ec-abc9-4aefd5d8c91a">Black Breaker</card>
+    <card qty="2" id="40137a5b-f4c7-4708-a0c1-33f85c31ab93">Black Flashback</card>
+    <card qty="2" id="ca3f54eb-4c93-423f-be1f-31a964dc97be">Black Vehicle Toss</card>
+    <card qty="2" id="5196c249-79fd-4e59-8a9e-c5267fc1a560">Black Finger Block</card>
+    <card qty="2" id="b2095955-e801-4e5f-ac7b-40810e809083">Black Knee Catch</card>
+    <card qty="2" id="0b284f38-c95a-4e33-a153-a83f244fc48f">Black Enraged Assault</card>
+    <card qty="2" id="8d9abb5a-fa9a-4bbc-9c00-3d2c6021c067">Black Deceptive Strike</card>
+    <card qty="2" id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2019">Black Overpowering Attack</card>
+    <card qty="2" id="345b535f-6691-4ecd-91fa-63f500b3680e">Black Dive</card>
+  </section>
+  <notes><![CDATA[]]></notes>
+</deck>

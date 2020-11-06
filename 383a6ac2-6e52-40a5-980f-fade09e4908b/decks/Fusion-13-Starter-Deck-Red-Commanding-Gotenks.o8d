@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="383a6ac2-6e52-40a5-980f-fade09e4908b">
+  <section name="Starting" shared="False">
+    <card qty="1" id="52f77bb0-af26-4fe6-932c-84a2614fde8f">Red Commanding Mastery</card>
+    <card qty="1" id="5d1ebed5-2586-45e2-bf5d-506c044b99b4">Gotenks - Cocky</card>
+    <card qty="1" id="83413d5d-0432-479e-b585-5c1b5c6dba63">Gotenks - Bullheaded</card>
+    <card qty="1" id="9ef082bc-95e2-4f0a-8059-430454d056e1">Gotenks - Super Saiyan</card>
+    <card qty="1" id="d2521262-b2d3-4e57-85d9-0b03831a8a63">Gotenks - Super Saiyan 3</card>
+  </section>
+  <section name="Life Deck" shared="False">
+    <card qty="3" id="10cc33f4-26a8-42bd-9b4b-3cfabf40e0b9">Gotenks' Galactic Donut</card>
+    <card qty="3" id="04d90da3-cd50-44d5-8125-5dad74184d7b">Gotenks' Ghost Kamikaze Attack</card>
+    <card qty="1" id="030f3b80-5605-4974-b8ec-05143aa123d8">Scheming Ghost - Full-Roaming Vapor</card>
+    <card qty="1" id="8e38be72-13d9-4f2d-b72d-a294a7760ad5">Spooky Ghost - Wild Card</card>
+    <card qty="1" id="3c0825ce-fb4b-428e-9e54-c228962b6255">Trickster Ghost - On the Move</card>
+    <card qty="1" id="b73f3942-873a-4fd7-8b83-f81989feac9b">Time is a Warrior's Tool</card>
+    <card qty="2" id="09291d3f-1889-4c27-9822-e4fe01076049">Enraged Blast</card>
+    <card qty="1" id="09291d3f-1889-4c27-9822-e4fe01076103">Overpowering Attack</card>
+    <card qty="2" id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2093">Crushing Beam</card>
+    <card qty="2" id="1eae51d6-d3e2-4989-b67d-0f9cd1ca9d96">Controlled Energy Burst</card>
+    <card qty="2" id="32cb3ca8-fdcf-4838-a226-425eee109cfc">Defiant Challenge</card>
+    <card qty="2" id="91dcd7f0-4a71-4c15-9a6d-f7b51ee3a18f">Shoulder Slam</card>
+    <card qty="2" id="0660a5a5-df21-4e66-8b40-c46a37915864">Head Smash</card>
+    <card qty="2" id="4838cf31-ba49-4213-8255-22658c5d0bc9">Red Hurl</card>
+    <card qty="2" id="a5831dc0-576f-48cb-83bc-e5c2cebb5669">Red Heating Beams</card>
+    <card qty="2" id="09291d3f-1889-4c27-9822-e4fe01076182">Red Escape</card>
+    <card qty="2" id="09291d3f-1889-4c27-9822-e4fe01076309">Red Static Shot</card>
+    <card qty="2" id="48e91f02-8470-44e6-a1e3-76ded73c113a">Red Energy Deflection</card>
+    <card qty="2" id="3e0e67f2-db70-412e-84d5-088aa8289011">Red Guilty Flash</card>
+    <card qty="2" id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2047">Red Sacrifice</card>
+    <card qty="2" id="02b482d5-f297-4b2b-8b7d-9c35ff2ead7d"> Red Focus</card>
+    <card qty="2" id="09291d3f-1889-4c27-9822-e4fe01076212">Red Heel Kick</card>
+    <card qty="2" id="09291d3f-1889-4c27-9822-e4fe01076230">Red Jump Kick</card>
+    <card qty="2" id="09291d3f-1889-4c27-9822-e4fe01076275">Red Shielded Strike</card>
+    <card qty="2" id="2fab1cc4-c06b-45df-922d-6d0d4f936f18">Red Elbow Block</card>
+    <card qty="2" id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2048">Red Restraint</card>
+    <card qty="2" id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2131">Red Stomach Dive</card>
+    <card qty="2" id="e06344e0-3e9c-4773-9150-b227f90d7493">Red Powerful Stike</card>
+    <card qty="2" id="61382c22-65ea-46bc-b547-684aeaea6e15">Red Destiny</card>
+    <card qty="2" id="da977405-54b8-4336-adad-73e0777424e7">Red Burning Rage</card>
+    <card qty="2" id="4a2a0ff5-8327-4c30-b4d1-0ad8db57fdee">Red Forceful Strike</card>
+    <card qty="1" id="0a58fdfa-0f8b-476c-bc12-999bca9770e5">Red Awakening</card>
+  </section>
+  <notes><![CDATA[]]></notes>
+</deck>

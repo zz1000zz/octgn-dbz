@@ -728,7 +728,7 @@
 <property name="Text" value="(If Android 18 would leave play and your MP is Krillin, you may shuffle her into your Life Deck instead. If your MP is Krilling or Android 17, you may use this Power regardless of your MP's power stage.) SHIELD POWER: Stops a physical or energy attack. You may choose a card in your discard pile and Rejuvenate it. If you do, shuffle this card into your Life Deck after use." />
 <property name="Traits" value="Earthling, Android" />
 <property name="Limit per Deck" value="" />
-<property name="PUR" value="1" />
+<property name="PUR" value="" />
 <property name="Power Rating" value="0; 5000; 10000; 20000; 50000; 100000; 200000; 300000; 400000; 600000; 800000" />
 <property name="Rarity" value="" />
 <property name="Card Level" value="1" />
@@ -741,7 +741,7 @@
 <property name="Text" value="(If your MP has MAJIN, you may use this Power regardless of your MP's power stage.) POWEr: Raise a player's anger 1 level. Gain 3 stages." />
 <property name="Traits" value="Majin" />
 <property name="Limit per Deck" value="" />
-<property name="PUR" value="1" />
+<property name="PUR" value="" />
 <property name="Power Rating" value="0; 1; 5; 10; 25; 50; 100; 200; 300; 400; 500" />
 <property name="Rarity" value="" />
 <property name="Card Level" value="1" />
@@ -754,7 +754,7 @@
 <property name="Text" value="(If your MP is Kid Trunks, Trunks, or Vegeta, you may use this power regardless of your MP's power stage and you may play this card from your hand as an action to gain 5 stages and draw a card. INSTANT POWER: At the start of your turn, look at the top card of your Life Deck. You may place the card at the bottom of your Life Deck." />
 <property name="Traits" value="Earthling" />
 <property name="Limit per Deck" value="" />
-<property name="PUR" value="1" />
+<property name="PUR" value="" />
 <property name="Power Rating" value="0; 3; 5; 7; 9; 11; 13; 15; 17; 19; 21" />
 <property name="Rarity" value="" />
 <property name="Card Level" value="1" />
@@ -764,10 +764,10 @@
 <property name="Card Number" value="U59" />
 <property name="Type" value="Hero Ally" />
 <property name="Endurance" value="" />
-<property name="Text" value="(If Dende would leave play and your MP is Piccolo or Nail, you may shuffle him into your Life3 Deck instead.) CONSTANT POWER: If your MP has NAMEKIAN, while your MP's power level is over 0, its power level is considered to be +500,000." />
+<property name="Text" value="(If Dende would leave play and your MP is Piccolo or Nail, you may shuffle him into your Life3 Deck instead.) CONSTANT POWER: If your MP has NAMEKIAN, while your MP's power level is over 0, its power level is considered to be +500000." />
 <property name="Traits" value="God, Namekian" />
 <property name="Limit per Deck" value="" />
-<property name="PUR" value="1" />
+<property name="PUR" value="" />
 <property name="Power Rating" value="0; 1; 20; 30; 40; 50; 100; 200; 400; 600; 1000" />
 <property name="Rarity" value="" />
 <property name="Card Level" value="1" />
@@ -780,7 +780,7 @@
 <property name="Text" value="(Once per game, if your MP is Goten, Pan, or Videl, you may play this card from your hand as an action to end combat. POWER: Physical attack. Banish the top card of your opponent's discard pile. DAMAGE: 1 life card. HIT: Shuffle an Ally in play into its owner's Life Deck." />
 <property name="Traits" value="Namekian, Earthling, Saiyan" />
 <property name="Limit per Deck" value="" />
-<property name="PUR" value="1" />
+<property name="PUR" value="" />
 <property name="Power Rating" value="0; 800; 1000; 3000; 7000; 10000; 50000; 100000; 200000; 500000; 700000" />
 <property name="Rarity" value="" />
 <property name="Card Level" value="1" />
@@ -793,7 +793,7 @@
 <property name="Text" value="(If your MP is Supreme Kai, you may use this Power regardless of your MP's power stage.) INSTANT POWER: Use when entering combat. Draw the bottom card of your discard pile." />
 <property name="Traits" value="God" />
 <property name="Limit per Deck" value="" />
-<property name="PUR" value="1" />
+<property name="PUR" value="" />
 <property name="Power Rating" value="0; 500; 750; 1000; 1500; 2500; 5000; 10000; 40000; 60000; 100000" />
 <property name="Rarity" value="" />
 <property name="Card Level" value="1" />
@@ -806,7 +806,7 @@
 <property name="Text" value="(If your MP is Android 18, once per combat you may place this card into play from your hand at 2 power stages above 0 to stop a physical or energy attack. If Krillin would leave play and your MP is Android 18 or Master Roshi, you may Rejuvenate him instead.) CONSTANT POWER: Your Styled energy attacks deal +1 life card of damage." />
 <property name="Traits" value="Earthling" />
 <property name="Limit per Deck" value="" />
-<property name="PUR" value="1" />
+<property name="PUR" value="" />
 <property name="Power Rating" value="0; 250; 500; 1000; 2000; 5000; 10000; 20000; 40000; 60000; 100000" />
 <property name="Rarity" value="" />
 <property name="Card Level" value="1" />
@@ -819,7 +819,7 @@
 <property name="Text" value="(You may use this Power regardless of your MP's power stage.) POWER: Draw a card. If your MP is not Hercule, your opponent draws a card." />
 <property name="Traits" value="Earthling" />
 <property name="Limit per Deck" value="" />
-<property name="PUR" value="1" />
+<property name="PUR" value="" />
 <property name="Power Rating" value="0; 2; 3; 4; 5; 6; 7; 8; 9; 10; 11" />
 <property name="Rarity" value="" />
 <property name="Card Level" value="1" />
@@ -845,7 +845,7 @@
 <property name="Text" value="CONSTANT POWER: At the end of each player's turn, that player banishes the top 2 cards of their discard pile. POWER: Banish Vegeta, Content to destroy all Allies in play." />
 <property name="Traits" value="Majin, Saiyan" />
 <property name="Limit per Deck" value="" />
-<property name="PUR" value="1" />
+<property name="PUR" value="" />
 <property name="Power Rating" value="0; 3000; 6000; 9000; 25000; 50000; 150000; 300000; 450000; 1000000; 1500000" />
 <property name="Rarity" value="" />
 <property name="Card Level" value="1" />
@@ -853,12 +853,12 @@
 <card id="b36f7d99-4229-47e8-bbd1-effe79943d59" name="Android 18 - Settled Down">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S66" />
-<property name="Type" value="Hero MP" />
+<property name="Type" value="Hero" />
 <property name="Endurance" value="" />
 <property name="Text" value="(Your attacks with Android in the title are considered Styled.) CONSTANT POWER: Your Styled attacks cost -1 stage (to a minimum of 0). POWER: Energy attackc costing 1 stage. Raise your anger 1 level. DAMAGE: 2 life cards. HIT: Search your discard pile for a Styled card or card with Android in the title and Rejuvenate it." />
 <property name="Traits" value="Earthling, Android" />
 <property name="Limit per Deck" value="" />
-<property name="PUR" value="2" />
+<property name="PUR" value="" />
 <property name="Power Rating" value="0; 1000; 4000; 7000; 10000; 15000; 25000; 50000; 100000; 150000; 250000" />
 <property name="Rarity" value="" />
 <property name="Card Level" value="1" />
@@ -866,12 +866,12 @@
 <card id="6052c2c3-d355-4608-8568-a5c9ecc2b2b1" name="Android 18 - Aggressive">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S67" />
-<property name="Type" value="Hero MP" />
+<property name="Type" value="Hero" />
 <property name="Endurance" value="" />
 <property name="Text" value="(Your attacks with Android in the title are considered Styled.) CONSTANT POWER: Your Styled attacks cost -1 stage (to a minimum of 0). POWER: Energy attack costing 2 stages. Search your discard pile for a Styled card or card with Android in the title and Rejuvenate it. If stopped, search your Life Deck for a card with Android in the title and place it into your hand. DAMAGE: 5 life cards." />
 <property name="Traits" value="Earthling, Android" />
 <property name="Limit per Deck" value="" />
-<property name="PUR" value="5" />
+<property name="PUR" value="" />
 <property name="Power Rating" value="0; 10000; 50000; 70000; 90000; 125000; 250000 500000; 650000; 725000; 850000" />
 <property name="Rarity" value="" />
 <property name="Card Level" value="2" />
@@ -879,12 +879,12 @@
 <card id="e9b8fdb3-dae9-440e-8efd-64516df2721f" name="Android 18 - Finalist">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S68" />
-<property name="Type" value="Hero MP" />
+<property name="Type" value="Hero" />
 <property name="Endurance" value="" />
 <property name="Text" value="(Your attacks with Android in the title are considered Styled.) CONSTANT POWER: Your Styled attacks cost -2 stage (to a minimum of 0). INSTANT POWER: Use when entering combat. Search your Life Deck for a card with Android in the title and place it into your hand. POWER: Your opponent discards a card from their hand. Search your discard pile for a Styled card or card with Android in the title and Rejuvenate it." />
 <property name="Traits" value="Earthling, Android" />
 <property name="Limit per Deck" value="" />
-<property name="PUR" value="4" />
+<property name="PUR" value="" />
 <property name="Power Rating" value="0; 15000; 50000; 75000; 100000; 300000; 500000; 700000; 900000; 1000000; 1200000" />
 <property name="Rarity" value="" />
 <property name="Card Level" value="3" />
@@ -892,12 +892,12 @@
 <card id="6cbd178b-e00c-4321-b4e3-304c0c048f40" name="Android 18 - Runner Up">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S69" />
-<property name="Type" value="Hero MP" />
+<property name="Type" value="Hero" />
 <property name="Endurance" value="" />
 <property name="Text" value="(Your attacks with Android in the title are considered Styled. When you reach this level, search your discard pile and/or Banished Zone for 2 Styled cards and/or cards with Android in the title and Rejuvenate them.) CONSTANT POWER: Your Styled attacks cost -1 stage (to a minimum of 0) and deal +2 life cards of damage. POWER: Search your Life Deck, discard pile, or Banished ZOne for a card with Android in the title and place it into your hand." />
 <property name="Traits" value="Earthling, Android" />
 <property name="Limit per Deck" value="" />
-<property name="PUR" value="6" />
+<property name="PUR" value="" />
 <property name="Power Rating" value="0; 25000; 50000; 200000; 500000; 800000; 1200000; 1500000; 1700000; 1900000; 2000000" />
 <property name="Rarity" value="" />
 <property name="Card Level" value="4" />
@@ -905,12 +905,12 @@
 <card id="e25dff20-44ba-4e1a-9fbd-18c449032bb1" name="Goten - Son of Goku">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S70" />
-<property name="Type" value="Hero MP" />
+<property name="Type" value="Hero" />
 <property name="Endurance" value="" />
 <property name="Text" value="CONSTANT POWER: Your attacks deal +1 stage of damage. POWER: Physical attack. Raise a player's anger 1 level. DAMAGE: 3 stages. HIT: You may choose a Drill in your discard pile and shuffle it into your Life deck." />
 <property name="Traits" value="Earthling, Saiyan" />
 <property name="Limit per Deck" value="" />
-<property name="PUR" value="2" />
+<property name="PUR" value="" />
 <property name="Power Rating" value="0; 1000; 3000; 5000; 8000; 10000; 15000; 20000; 40000; 60000; 100000" />
 <property name="Rarity" value="" />
 <property name="Card Level" value="1" />
@@ -918,12 +918,12 @@
 <card id="6d206326-a8dc-4be7-8ff5-c2b49c2f0dee" name="Goten - Floating">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S71" />
-<property name="Type" value="Hero MP" />
+<property name="Type" value="Hero" />
 <property name="Endurance" value="" />
 <property name="Text" value="(After you advance to this level, search your Life Deck for a Styled Drill and place it into play.) CONSTANT POWER: Your attacks deal +1 stage of damage and your opponent's attacks deal -1 stage of damage. POWER: PHsyical attack. DAMAGE: At +2 stages. HIT: Raise or lower a player's anger 2 levels." />
 <property name="Traits" value="Earthling, Saiyan" />
 <property name="Limit per Deck" value="" />
-<property name="PUR" value="3" />
+<property name="PUR" value="" />
 <property name="Power Rating" value="0; 5000; 10000; 15000; 30000; 70000; 80000; 90000; 100000; 150000; 300000" />
 <property name="Rarity" value="" />
 <property name="Card Level" value="2" />
@@ -931,12 +931,12 @@
 <card id="f2e32a51-2151-474a-8147-1ca71825db20" name="Goten - On the Move">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S72" />
-<property name="Type" value="Hero MP" />
+<property name="Type" value="Hero" />
 <property name="Endurance" value="" />
 <property name="Text" value="(After you advance ot this level, search your Life Deck or discard pile for a Styled Drill and place it into play.) CONSTANT POWER: Your attacks deal +2 stages of damage. POWER: Discard a card from your hand or destroy a Drill you control to draw a card. Your opponent's next attack this combat deals no damage." />
 <property name="Traits" value="Earthling, Saiyan" />
 <property name="Limit per Deck" value="" />
-<property name="PUR" value="4" />
+<property name="PUR" value="" />
 <property name="Power Rating" value="0; 1000; 5000; 10000; 20000; 40000; 60000; 100000; 200000; 400000; 600000" />
 <property name="Rarity" value="" />
 <property name="Card Level" value="3" />
@@ -944,12 +944,12 @@
 <card id="b7623fcd-eaa3-4789-9c6c-afb9b57a06c5" name="Goten - Super Saiyan">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S73" />
-<property name="Type" value="Hero MP" />
+<property name="Type" value="Hero" />
 <property name="Endurance" value="" />
 <property name="Text" value="(After you advance to this level, search your Life Deck, discard pile and Banished Zone for a total of up to 2 Drills and play them.) CONSTANT POWER: Your attacks deal +2 stages of damage and your opponent's attacks deal -2 stages of damage. POWER: Physical attack. You may destroy a Drill you control. If you do, this attack deals +2 stages of damage for each Drill you control. DAMAGE: 6 stages." />
 <property name="Traits" value="Earthling, Saiyan" />
 <property name="Limit per Deck" value="" />
-<property name="PUR" value="5" />
+<property name="PUR" value="" />
 <property name="Power Rating" value="0; 1000; 10000; 15000; 30000; 70000; 200000; 400000; 700000; 1000000; 1150000" />
 <property name="Rarity" value="" />
 <property name="Card Level" value="4" />
@@ -957,25 +957,25 @@
 <card id="03e076d6-0858-44fc-89c2-86c4ac484ab1" name="Kid Trunks - Son of Vegeta">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S74" />
-<property name="Type" value="Hero MP" />
+<property name="Type" value="Hero" />
 <property name="Endurance" value="" />
 <property name="Text" value="INSTANT POWER: Use when a player skips an action. Gain 4 stages and lower your opponent's anger 1 level. POWER: Energy attack costing 2 stages. Raise your anger 1 level. DAMAGE: 3 life cards. HIT your opponent skips their nxt action this combat." />
 <property name="Traits" value="Earthling, Saiyan" />
 <property name="Limit per Deck" value="" />
-<property name="PUR" value="3" />
-<property name="Power Rating" value="0; 1000; 2000; 3000; 4500; 7500; 15000; 30000; 60000; 80000; 115000" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="0; 1000; 2000; 3000; 4,500; 7,500; 15000; 30000; 60000; 80000; 115000" />
 <property name="Rarity" value="" />
 <property name="Card Level" value="1" />
 </card>
 <card id="b630c9ab-81b2-4cd9-85de-c115f4a927cf" name="Kid Trunks - Dashing">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S75" />
-<property name="Type" value="Hero MP" />
+<property name="Type" value="Hero" />
 <property name="Endurance" value="" />
 <property name="Text" value="INSTANT POWER: Use when a player skips an action. Use a critical damage effect. POWER: Energy attack costing 3 stages. The next Styled or Named attack you perform this combat has its power stage cost reduced to 0. DAMAGE 5 life cards. HIT: Banish the top or bottom 2 cards of your opponent's discard pile." />
 <property name="Traits" value="Earthling, Saiyan" />
 <property name="Limit per Deck" value="" />
-<property name="PUR" value="4" />
+<property name="PUR" value="" />
 <property name="Power Rating" value="0; 1000; 5000; 10000; 15000; 25000; 50000; 80000; 100000; 200000; 325000" />
 <property name="Rarity" value="" />
 <property name="Card Level" value="2" />
@@ -983,12 +983,12 @@
 <card id="5877c007-74d7-4abb-a414-5001f0e5b865" name="Kid Trunks - Competitive">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S76" />
-<property name="Type" value="Hero MP" />
+<property name="Type" value="Hero" />
 <property name="Endurance" value="" />
 <property name="Text" value="(When you reach this level during combat, your opponent skips their next action this ccombat. INSTANT POWER: Use when a player skips an action. Rejuvenate 2 and raise your MP to its highest power stage. POWER: Draw a card. The next Styled or Named attack you perform this combat has its power stage cost reduced to 0 and deals +3 life cards of damage." />
 <property name="Traits" value="Earthling, Saiyan" />
 <property name="Limit per Deck" value="" />
-<property name="PUR" value="5" />
+<property name="PUR" value="" />
 <property name="Power Rating" value="0; 5000; 10000; 15000; 25000; 40000; 50000; 100000; 250000; 500000; 625000" />
 <property name="Rarity" value="" />
 <property name="Card Level" value="3" />
@@ -996,12 +996,12 @@
 <card id="a9c95043-14dd-4868-bddf-7f91e6a7be15" name="Kid Trunks - Super Saiyan">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S77" />
-<property name="Type" value="Hero MP" />
+<property name="Type" value="Hero" />
 <property name="Endurance" value="" />
 <property name="Text" value="(When you reach this level during combat, your opponent skips their next action this combat.) INSTANT POWER: Use when a player skips an action. Destroy a Setup, Drill or Ally. POWER: Energy attack costing 2 stages. Attacks you perform this combat have their power stage cost reduced to 0. DAMAGE: 5 life cards. HIT: Draw the bottom card of your Life Deck." />
 <property name="Traits" value="Earthling, Saiyan" />
 <property name="Limit per Deck" value="" />
-<property name="PUR" value="6" />
+<property name="PUR" value="" />
 <property name="Power Rating" value="0; 5000; 10000; 25000; 50000; 75000; 250000; 500000; 1000000; 1100000; 1200000" />
 <property name="Rarity" value="" />
 <property name="Card Level" value="4" />
@@ -1009,12 +1009,12 @@
 <card id="f6cbdb3f-e2f3-4ec2-81ab-25bd55392d06" name="Krillin - Settled Down">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S78" />
-<property name="Type" value="Hero MP" />
+<property name="Type" value="Hero" />
 <property name="Endurance" value="" />
 <property name="Text" value="CONSTANT POWER: Whenever a Setup enters play under your control, gain 2 stages. POWER: Energy attack costing 2 stages. At the end of combat, search your Life Deck for a Styled Setup and place it into play. DAMAGE: 4 life cards. HIT: Raise or lower a player's anger 1 level." />
 <property name="Traits" value="Earthling" />
 <property name="Limit per Deck" value="" />
-<property name="PUR" value="3" />
+<property name="PUR" value="" />
 <property name="Power Rating" value="0; 1000; 5000; 8000; 10000; 15000; 30000; 60000; 90000; 120000; 220000" />
 <property name="Rarity" value="" />
 <property name="Card Level" value="1" />
@@ -1022,12 +1022,12 @@
 <card id="8ada767a-9c93-49ad-b167-171f32d178d7" name="Krillin - In Training">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S79" />
-<property name="Type" value="Hero MP" />
+<property name="Type" value="Hero" />
 <property name="Endurance" value="" />
 <property name="Text" value="CONSTANT POWER: Whenever a Setup enters play under your control, gain 2 stages. INSTANT POWER: Use at the end of combat. Search your Life Deck for a Styled Setup or Styled Drill and place it into play. SHIELD POWER: Prevent all damage from an attack." />
 <property name="Traits" value="Earthling" />
 <property name="Limit per Deck" value="" />
-<property name="PUR" value="4" />
+<property name="PUR" value="" />
 <property name="Power Rating" value="0; 1000; 5000; 10000; 25000; 50000; 80000; 100000; 150000; 300000; 550000" />
 <property name="Rarity" value="" />
 <property name="Card Level" value="2" />
@@ -1035,12 +1035,12 @@
 <card id="2744697d-4dca-4e89-b2bd-922a5795fbf1" name="Krillin - Z-Warrior">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S80" />
-<property name="Type" value="Hero MP" />
+<property name="Type" value="Hero" />
 <property name="Endurance" value="" />
 <property name="Text" value="CONSTANT POWER: Whenever a Setup enters play under your control, gain 2 stages. Whenever a Setup or Drill enters play under your control during combat, Rejuvenate 1. POWER: Energy attack costing 2 stages. Search your Life Deck for a Styled Setup or Styled Drill and place it into play. DAMAGE: 5 life cards. HIT: Rejuvenate 3. Choose 3 cards in your opponent's discard pile and banish them." />
 <property name="Traits" value="Earthling" />
 <property name="Limit per Deck" value="" />
-<property name="PUR" value="5" />
+<property name="PUR" value="" />
 <property name="Power Rating" value="0; 7000; 15000; 50000; 100000; 250000; 350000; 500000; 600000; 675000; 750000" />
 <property name="Rarity" value="" />
 <property name="Card Level" value="3" />
@@ -1048,25 +1048,25 @@
 <card id="7c14ab7c-42b6-45f4-af7f-5af993b08296" name="Krillin - Victorious">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S81" />
-<property name="Type" value="Hero MP" />
+<property name="Type" value="Hero" />
 <property name="Endurance" value="" />
 <property name="Text" value="CONSTANT POWER: Whenever a Setup enters play under your control, gain 2 stages. Whenever a Setup or Drill enters play under your control during combat, Rejuvenate 1 and banish the top card of your opponent's Life Deck. POWER: Energy attack costing 2 stages. You may use this attack a second time this combat. DAMAGE: 5 life cards. HIT: Search your Life Deck or discard pile for a Setup or Drill and place it into play." />
 <property name="Traits" value="Earthling" />
 <property name="Limit per Deck" value="" />
-<property name="PUR" value="6" />
-<property name="Power Rating" value="0; 10000; 20000; 30000; 70000; 100000; 400000; 600000; 800000; 1000000; 1000100" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="0; 10000; 20000; 30000; 70000; 100000; 400000; 600000; 800000; 1000000; 1000,100" />
 <property name="Rarity" value="" />
 <property name="Card Level" value="4" />
 </card>
 <card id="030500e9-1fae-40b9-9ffb-61892cbdecaa" name="Piccolo - Meditative">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S82" />
-<property name="Type" value="Hero MP" />
+<property name="Type" value="Hero" />
 <property name="Endurance" value="" />
 <property name="Text" value="(You must have a card in your hand to use this power.) POWER: Physical attack. Banish the top card of each player's discard pile. DAMAGE: 6 stages. HIT: Discard a card from your hand. If you discarded a Styled card, raise your anger 1 level." />
 <property name="Traits" value="Namekian" />
 <property name="Limit per Deck" value="" />
-<property name="PUR" value="2" />
+<property name="PUR" value="" />
 <property name="Power Rating" value="0; 1000; 2500; 5000; 10000; 50000; 75000; 100000; 150000; 300000; 350000" />
 <property name="Rarity" value="" />
 <property name="Card Level" value="1" />
@@ -1074,12 +1074,12 @@
 <card id="30357891-8239-44b5-9569-7dd39c08bc5a" name="Piccolo - Majunior">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S83" />
-<property name="Type" value="Hero MP" />
+<property name="Type" value="Hero" />
 <property name="Endurance" value="" />
 <property name="Text" value="CONSTANT POWER: Your Styled physical attaqcks deal +2 stages of damage. POWER: Banish the top card of your opponent's discard pile. Draw a card. Discard a card from your hand. If you discarded a Styled card, gain 5 stages and raise or lower ap layer's anger 1 level." />
 <property name="Traits" value="Namekian" />
 <property name="Limit per Deck" value="" />
-<property name="PUR" value="4" />
+<property name="PUR" value="" />
 <property name="Power Rating" value="0; 1000; 5000; 10000; 25000; 50000; 100000; 150000; 400000; 600000; 900000" />
 <property name="Rarity" value="" />
 <property name="Card Level" value="2" />
@@ -1087,12 +1087,12 @@
 <card id="9c20e984-35d7-4368-9561-dae712bab3bc" name="Piccolo - Fierce Combatant">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S84" />
-<property name="Type" value="Hero MP" />
+<property name="Type" value="Hero" />
 <property name="Endurance" value="" />
 <property name="Text" value="CONSTANT POWER: After a card effect causes you to discard a card from your hand, gain 5 stages. POWER: Physical attack. Draw a card. You may discard a card from your hand. If you do, banish the top 5 cards of your opponent's discard pile and this attack gains HIT: Choose a card in your discard pile and shuffle it into your Life Deck. DAMAGE: AT +6 stages." />
 <property name="Traits" value="Namekian" />
 <property name="Limit per Deck" value="" />
-<property name="PUR" value="5" />
+<property name="PUR" value="" />
 <property name="Power Rating" value="0; 20000; 40000; 100000; 300000; 450000; 700000; 1000000; 1150000; 1200000; 1450000" />
 <property name="Rarity" value="" />
 <property name="Card Level" value="3" />
@@ -1100,12 +1100,12 @@
 <card id="ae023e11-7de9-4b63-b9d0-021954a62eb1" name="Piccolo - Warrior">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S85" />
-<property name="Type" value="Hero MP" />
+<property name="Type" value="Hero" />
 <property name="Endurance" value="" />
 <property name="Text" value="CONSTANT POWER: Your Styled physical attacks deal +2 stages of damage and can only be stopped by Physical Combat cards. INSTANT POWER: Use after performing a successful styled physical attack. That attack gains This attack stays in play to be used a second time this combat. POWER: Choose a card in your discard pile and shuffle it into your Life Deck. Choose a card in your opponent's discard pile and banish it." />
 <property name="Traits" value="Namekian" />
 <property name="Limit per Deck" value="" />
-<property name="PUR" value="6" />
+<property name="PUR" value="" />
 <property name="Power Rating" value="0; 50000; 100000; 300000; 500000; 900000; 1300000; 1700000; 2000000; 2200000; 2450000;" />
 <property name="Rarity" value="" />
 <property name="Card Level" value="4" />
@@ -1113,12 +1113,12 @@
 <card id="6377268a-5275-45b6-adda-898ba837ae2c" name="Supreme Kai - Mysterious">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S86" />
-<property name="Type" value="Hero MP" />
+<property name="Type" value="Hero" />
 <property name="Endurance" value="" />
 <property name="Text" value="INSTANT POWER: Use when entering combat. Choose up to 2 cards in your discard pile and shuffle them into your Life Deck. POWER: Energy attack. Search your Life Deck fora GOD ally and play it. DAMAGE: 1 life card." />
 <property name="Traits" value="God" />
 <property name="Limit per Deck" value="" />
-<property name="PUR" value="2" />
+<property name="PUR" value="" />
 <property name="Power Rating" value="0; 10000; 20000; 40000; 50000; 60000; 125000; 175000; 225000; 250000; 300000" />
 <property name="Rarity" value="" />
 <property name="Card Level" value="1" />
@@ -1126,12 +1126,12 @@
 <card id="65cf5400-4777-4d6a-a965-cce0f3c0bfbc" name="Supreme Kai - Shin">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S87" />
-<property name="Type" value="Hero MP" />
+<property name="Type" value="Hero" />
 <property name="Endurance" value="" />
 <property name="Text" value="INSTANT POWER: Use when entering combat. Look at the top 4 cards of your opponent's Life Deck and put them back in any order. POWER: Energy attacks costing 2 stages. Choose up to 2 cards in your discard pile and shuffle them into your Life Deck. DAMAGE: 3 life cards. HIT: You may discard a card to draw the bottom card of your discard pile." />
 <property name="Traits" value="God" />
 <property name="Limit per Deck" value="" />
-<property name="PUR" value="3" />
+<property name="PUR" value="" />
 <property name="Power Rating" value="0; 10000; 15000; 25000; 50000; 100000; 200000; 300000; 500000; 600000; 775000" />
 <property name="Rarity" value="" />
 <property name="Card Level" value="2" />
@@ -1139,12 +1139,12 @@
 <card id="fb192a2c-eccc-4fe8-877b-6a40aec34a5a" name="Supreme Kai - Ready for Battle">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S88" />
-<property name="Type" value="Hero MP" />
+<property name="Type" value="Hero" />
 <property name="Endurance" value="" />
 <property name="Text" value="INSTANT POWER: Use when entering combat. Choose up to 5 cards in your discard pile and shuffle them into your Life Deck. POWER: Draw the bottom card of your discard pile." />
 <property name="Traits" value="God" />
 <property name="Limit per Deck" value="" />
-<property name="PUR" value="4" />
+<property name="PUR" value="" />
 <property name="Power Rating" value="0; 20000; 50000; 75000; 100000; 200000; 600000; 800000; 900000; 1000000; 1100000" />
 <property name="Rarity" value="" />
 <property name="Card Level" value="3" />
@@ -1152,12 +1152,12 @@
 <card id="2ba2f4d7-1c21-486e-9717-7f9bbb3a5c58" name="Supreme Kai - Combatant">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S89" />
-<property name="Type" value="Hero MP" />
+<property name="Type" value="Hero" />
 <property name="Endurance" value="" />
 <property name="Text" value="INSTANT POWER: Use when entering combat. Look at the top 5 cards of your opponent's Life Deck and put them back in any order. POWER: Energy attack. You may shuffle any number of cards from your hand into your Life Deck to draw the same number of cards. DAMAGE: 5 life cards." />
 <property name="Traits" value="God" />
 <property name="Limit per Deck" value="" />
-<property name="PUR" value="5" />
+<property name="PUR" value="" />
 <property name="Power Rating" value="0; 50000; 100000; 400000; 600000; 800000; 1000000; 1150000; 1350000; 1550000; 1750000" />
 <property name="Rarity" value="" />
 <property name="Card Level" value="4" />
@@ -1165,12 +1165,12 @@
 <card id="0ff895c9-7305-4529-94c2-c0c343fe8a03" name="Videl - Student">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S90" />
-<property name="Type" value="Hero MP" />
+<property name="Type" value="Hero" />
 <property name="Endurance" value="" />
 <property name="Text" value="CONSTANT POWER: When you perform an attack that uses AT, raise your anger 1 level. POWER: Physical attack. DAMAGE: AT Stages. HIT: Gain 5 stages or destroy the top card of your opponent's Life Deck." />
 <property name="Traits" value="Earthling" />
 <property name="Limit per Deck" value="" />
-<property name="PUR" value="2" />
+<property name="PUR" value="" />
 <property name="Power Rating" value="0; 10; 20; 50; 80; 100; 110; 120; 130; 140; 150" />
 <property name="Rarity" value="" />
 <property name="Card Level" value="1" />
@@ -1178,12 +1178,12 @@
 <card id="778e7b10-7c6f-4254-a221-d833ccce68ba" name="Videl - Heroic">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S91" />
-<property name="Type" value="Hero MP" />
+<property name="Type" value="Hero" />
 <property name="Endurance" value="" />
 <property name="Text" value="CONSTANT POWER: Your AT is considered to be 3 for your attacks. POWER: You may discard a card from your hand to draw a card. Lower your opponent's anger 2 levels or your efefcts that destroy cards from the top of your opponent's Life Deck have that amount increased by 1 this combat." />
 <property name="Traits" value="Earthling" />
 <property name="Limit per Deck" value="" />
-<property name="PUR" value="3" />
+<property name="PUR" value="" />
 <property name="Power Rating" value="0; 20; 30; 40; 50; 60; 70; 80; 90; 150; 200" />
 <property name="Rarity" value="" />
 <property name="Card Level" value="2" />
@@ -1191,12 +1191,12 @@
 <card id="403b25db-60d2-46de-a9ef-616fd5345312" name="Videl - Learning the Moves">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S92" />
-<property name="Type" value="Hero MP" />
+<property name="Type" value="Hero" />
 <property name="Endurance" value="" />
 <property name="Text" value="CONSTANT POWER: Your AT is ocnsidered to be 4 for your attacks. POWER: Physical attack. Place a Setup or Drill in play on top of their owner's Life Deck or use a critical damage ffect and this attack is considered to deal critical damage. DAMAGE: AT stages." />
 <property name="Traits" value="Earthling" />
 <property name="Limit per Deck" value="" />
-<property name="PUR" value="4" />
+<property name="PUR" value="" />
 <property name="Power Rating" value="0; 50; 100; 150; 140; 150; 180; 200; 220; 250; 300" />
 <property name="Rarity" value="" />
 <property name="Card Level" value="3" />
@@ -1204,12 +1204,12 @@
 <card id="ea8054ab-64c1-47a8-943c-14e78db5d14e" name="Videl - Battle Hardened">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S93" />
-<property name="Type" value="Hero MP" />
+<property name="Type" value="Hero" />
 <property name="Endurance" value="" />
 <property name="Text" value="CONSTANT POWER: When you perform an attack, your AT is considered to be 5 for that attack or it gains HIT: Destroy the top 2 cards of your opponent's Life Deck. POWER: Physical lattack. Gain 10 stages or Rejuvenate 3. DAMAGE: AT +5 stages." />
 <property name="Traits" value="Earthling" />
 <property name="Limit per Deck" value="" />
-<property name="PUR" value="5" />
+<property name="PUR" value="" />
 <property name="Power Rating" value="0; 50; 100; 200; 220; 250; 270; 280; 290; 300; 350" />
 <property name="Rarity" value="" />
 <property name="Card Level" value="4" />
@@ -1217,12 +1217,12 @@
 <card id="9e0b8e31-185e-4782-ad94-00bfa3fa7600" name="Dabura - Sinister Presence">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S94" />
-<property name="Type" value="Villain MP" />
+<property name="Type" value="Villain" />
 <property name="Endurance" value="" />
 <property name="Text" value="CONSTANT POWER: Your attacks with Sword in the title gain HIT: Raise your anger 1 level. INSTANT POWER: Use when entering combat. Search the top 5 cards of your Life Deck for a Named card or card with Sword in the title and place it into your hand. If that card is a Setup or Drill, you may place it into play instead. Shuffle the remaining cards into your Life Deck." />
 <property name="Traits" value="Majin" />
 <property name="Limit per Deck" value="" />
-<property name="PUR" value="2" />
+<property name="PUR" value="" />
 <property name="Power Rating" value="0; 1000; 3000; 5000; 10000; 15000; 25000; 30000; 100000; 666000; 900000" />
 <property name="Rarity" value="" />
 <property name="Card Level" value="1" />
@@ -1230,12 +1230,12 @@
 <card id="2ca854b6-7bf2-47db-a0f2-266d76e026b5" name="Dabura - Second in Command">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S95" />
-<property name="Type" value="Villain MP" />
+<property name="Type" value="Villain" />
 <property name="Endurance" value="" />
 <property name="Text" value="CONSTANT POWER: Your attacks with Sword in the title deal +1 stage and +1 life card of damage. POWER: Physical attack. Raise your anger 1 level. DAMAGE: 5 stages. HIT: Search your discard pile for a Styled or Named card with Sword in the title and place it into your hand." />
 <property name="Traits" value="Majin" />
 <property name="Limit per Deck" value="" />
-<property name="PUR" value="3" />
+<property name="PUR" value="" />
 <property name="Power Rating" value="0; 1000; 10000; 36000; 55000; 95000; 100000; 300000; 666000; 1000000; 1500000" />
 <property name="Rarity" value="" />
 <property name="Card Level" value="2" />
@@ -1243,12 +1243,12 @@
 <card id="b9235673-bc8a-4277-961e-a93ae27b9364" name="Dabura - Majin Warrior">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S96" />
-<property name="Type" value="Villain MP" />
+<property name="Type" value="Villain" />
 <property name="Endurance" value="" />
 <property name="Text" value="CONSTANT POWER: Your attacks with Sword in the title cannot have their damage prevented. POWER: Physical attack. Choose a card in your discard pile and Rejuvenate it. Choose 3 cards in your opponent's discard pile and banish them. You may discard a card with Sword in the title from your hand. If you do, you may use this attack a second time this combat. DAMAGE: 7 stages." />
 <property name="Traits" value="Majin" />
 <property name="Limit per Deck" value="" />
-<property name="PUR" value="4" />
+<property name="PUR" value="" />
 <property name="Power Rating" value="0; 15000; 25000; 50000; 100000; 150000; 300000; 666000; 1000000; 1700000; 2150000" />
 <property name="Rarity" value="" />
 <property name="Card Level" value="3" />
@@ -1256,12 +1256,12 @@
 <card id="2245ceb6-ef38-403a-843d-35776e484168" name="Dabura - Enraged">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S97" />
-<property name="Type" value="Villain MP" />
+<property name="Type" value="Villain" />
 <property name="Endurance" value="" />
 <property name="Text" value="CONSTANT POWER: Your attacks with Sword in the title deal +1 stage and +1 life card of damage and gain All of your opponent's personalities lose 2 stages. POWER: Search your Life Deck or discard pile for a card with Sword in the title and place it into your hand." />
 <property name="Traits" value="Majin" />
 <property name="Limit per Deck" value="" />
-<property name="PUR" value="5" />
+<property name="PUR" value="" />
 <property name="Power Rating" value="0; 30000; 50000; 100000; 250000; 666000; 1000000; 1500000; 1700000; 2000000; 2600000" />
 <property name="Rarity" value="" />
 <property name="Card Level" value="4" />
@@ -1269,12 +1269,12 @@
 <card id="224345df-17d1-46de-91a9-a737eeb2b3e8" name="Hercule - The World Champ">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S98" />
-<property name="Type" value="Hero MP" />
+<property name="Type" value="Hero" />
 <property name="Endurance" value="" />
 <property name="Text" value="(Your Life deck cannot include cards that perform energy attacks.) CONSTANT POWER: Your non-Styled attacks cannot have their damage modified by your effects. POWER: Physical attack. Search your Life Deck for Hercule's Championship Belt and play it. DAMAGE: 4 stages. HIT: Raise your anger 2 levels." />
 <property name="Traits" value="Earthling" />
 <property name="Limit per Deck" value="" />
-<property name="PUR" value="1" />
+<property name="PUR" value="" />
 <property name="Power Rating" value="0; 100; 90; 80; 65; 60; 45; 30; 25; 15; 5" />
 <property name="Rarity" value="" />
 <property name="Card Level" value="1" />
@@ -1282,12 +1282,12 @@
 <card id="0ff21c2d-dc60-497a-b267-b4b83c4fc794" name="Yamcha - Suited Up">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="S99" />
-<property name="Type" value="Hero MP" />
+<property name="Type" value="Hero" />
 <property name="Endurance" value="" />
 <property name="Text" value="POWER: Energy attack. Lower your opponent's anger 1 level. DAMAGE: 2 life cards. HIT: Stops the next energy attack performed against you this combat." />
 <property name="Traits" value="Earthling" />
 <property name="Limit per Deck" value="" />
-<property name="PUR" value="2" />
+<property name="PUR" value="" />
 <property name="Power Rating" value="0; 750; 1250; 2500; 5000; 10000; 20000; 40000; 60000; 80000; 100000" />
 <property name="Rarity" value="" />
 <property name="Card Level" value="1" />
@@ -1295,12 +1295,12 @@
 <card id="31d9496c-6b5e-42a2-a21a-db620fe4da26" name="Goku - Super Saiyan God">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="P1" />
-<property name="Type" value="Hero MP" />
+<property name="Type" value="Hero" />
 <property name="Endurance" value="" />
 <property name="Text" value="POWER: Destroy the top card of your Life Deck to draw a card." />
 <property name="Traits" value="Earthling, Saiyan" />
 <property name="Limit per Deck" value="" />
-<property name="PUR" value="2" />
+<property name="PUR" value="" />
 <property name="Power Rating" value="0; 5000; 10000; 25000; 50000; 100000; 250000; 500000; 1000000; 10000000; 100000000" />
 <property name="Rarity" value="" />
 <property name="Card Level" value="1" />
@@ -1308,7 +1308,7 @@
 <card id="6ec5bd0b-0f6d-4c7e-bf7f-b5e1bf849400" name="Captain Ginyu - Body Change">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="P2" />
-<property name="Type" value="Villain MP" />
+<property name="Type" value="Villain" />
 <property name="Endurance" value="" />
 <property name="Text" value="CONSTANT POWER: Your Ginyu Force Allies may make actions regardless of your MP's power stage and they cannot be discarded. Your attacks deal +2 life cards of damage." />
 <property name="Traits" value="Saiyan, Alien" />
@@ -1321,7 +1321,7 @@
 <card id="473c844c-b3c0-48eb-9994-ebb8c72262a6" name="Captain Ginyu - Frog">
 <property name="Style" value="Freestyle" />
 <property name="Card Number" value="P3" />
-<property name="Type" value="Villain MP" />
+<property name="Type" value="Villain" />
 <property name="Endurance" value="" />
 <property name="Text" value="CONSTANT POWER: Your Allies may make actions regardless of your MP's power stage and they cannot be discarded. Your attacks deal +X life cards of damage. X=The number of Allies you have in play when you perform that attack." />
 <property name="Traits" value="Namekian, Alien" />
@@ -1400,6 +1400,292 @@
 <property name="Style" value="" />
 <property name="Card Number" value="" />
 <property name="Type" value="" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="" />
+</card>
+<card id="de4f44a7-1da6-48e1-af1f-e54619e778bc" name="Supreme Kai - Mysterious">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P5" />
+<property name="Type" value="Hero" />
+<property name="Endurance" value="" />
+<property name="Text" value="INSTANT POWER: Use when entering combat. Choose up to 2 cards in your discard pile and shuffle them into your Life Deck. POWER: Energy attack. Search your Life Deck fora GOD ally and play it. DAMAGE: 1 life card." />
+<property name="Traits" value="God" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="0; 10000; 20000; 40000; 50000; 60000; 125000; 175000; 225000; 250000; 300000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="1" />
+</card>
+<card id="ee920717-8edc-4d86-a0be-c978a2f59914" name="Supreme Kai - Shin">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P6" />
+<property name="Type" value="Hero" />
+<property name="Endurance" value="" />
+<property name="Text" value="INSTANT POWER: Use when entering combat. Look at the top 4 cards of your opponent's Life Deck and put them back in any order. POWER: Energy attacks costing 2 stages. Choose up to 2 cards in your discard pile and shuffle them into your Life Deck. DAMAGE: 3 life cards. HIT: You may discard a card to draw the bottom card of your discard pile." />
+<property name="Traits" value="God" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="0; 10000; 15000; 25000; 50000; 100000; 200000; 300000; 500000; 600000; 775000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="2" />
+</card>
+<card id="4e193b60-ad74-4407-8266-5013c90397c4" name="Supreme Kai - Ready for Battle">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P7" />
+<property name="Type" value="Hero" />
+<property name="Endurance" value="" />
+<property name="Text" value="INSTANT POWER: Use when entering combat. Choose up to 5 cards in your discard pile and shuffle them into your Life Deck. POWER: Draw the bottom card of your discard pile." />
+<property name="Traits" value="God" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="0; 20000; 50000; 75000; 100000; 200000; 600000; 800000; 900000; 1000000; 1100000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="3" />
+</card>
+<card id="d57c81c3-8f8a-4534-af32-f8de623b1aaa" name="Supreme Kai - Combatant">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P8" />
+<property name="Type" value="Hero" />
+<property name="Endurance" value="" />
+<property name="Text" value="INSTANT POWER: Use when entering combat. Look at the top 5 cards of your opponent's Life Deck and put them back in any order. POWER: Energy attack. You may shuffle any number of cards from your hand into your Life Deck to draw the same number of cards. DAMAGE: 5 life cards." />
+<property name="Traits" value="God" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="0; 50000; 100000; 400000; 600000; 800000; 1000000; 1150000; 1350000; 1550000; 1750000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="4" />
+</card>
+<card id="28bff590-372e-4c3d-914d-85b56517b7d5" name="Videl - Student">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P9" />
+<property name="Type" value="Hero" />
+<property name="Endurance" value="" />
+<property name="Text" value="CONSTANT POWER: When you perform an attack that uses AT, raise your anger 1 level. POWER: Physical attack. DAMAGE: AT Stages. HIT: Gain 5 stages or destroy the top card of your opponent's Life Deck." />
+<property name="Traits" value="Earthling" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="0; 10; 20; 50; 80; 100; 110; 120; 130; 140; 150" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="1" />
+</card>
+<card id="30800805-8c81-460c-946e-b5a51fcd0f60" name="Videl - Heroic">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P10" />
+<property name="Type" value="Hero" />
+<property name="Endurance" value="" />
+<property name="Text" value="CONSTANT POWER: Your AT is considered to be 3 for your attacks. POWER: You may discard a card from your hand to draw a card. Lower your opponent's anger 2 levels or your efefcts that destroy cards from the top of your opponent's Life Deck have that amount increased by 1 this combat." />
+<property name="Traits" value="Earthling" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="0; 20; 30; 40; 50; 60; 70; 80; 90; 150; 200" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="2" />
+</card>
+<card id="eb350a57-63a0-4a6d-8e2b-455fc44d2090" name="Videl - Learning the Moves">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P11" />
+<property name="Type" value="Hero" />
+<property name="Endurance" value="" />
+<property name="Text" value="CONSTANT POWER: Your AT is ocnsidered to be 4 for your attacks. POWER: Physical attack. Place a Setup or Drill in play on top of their owner's Life Deck or use a critical damage ffect and this attack is considered to deal critical damage. DAMAGE: AT stages." />
+<property name="Traits" value="Earthling" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="0; 50; 100; 150; 140; 150; 180; 200; 220; 250; 300" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="3" />
+</card>
+<card id="7178fbfb-05a2-40b3-88af-2d9c20c5d4b6" name="Videl - Battle Hardened">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P12" />
+<property name="Type" value="Hero" />
+<property name="Endurance" value="" />
+<property name="Text" value="CONSTANT POWER: When you perform an attack, your AT is considered to be 5 for that attack or it gains HIT: Destroy the top 2 cards of your opponent's Life Deck. POWER: Physical lattack. Gain 10 stages or Rejuvenate 3. DAMAGE: AT +5 stages." />
+<property name="Traits" value="Earthling" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="0; 50; 100; 200; 220; 250; 270; 280; 290; 300; 350" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="4" />
+</card>
+<card id="9364a320-52f8-4d9f-a3d6-978d67585372" name="Nail - Warrior">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P13" />
+<property name="Type" value="Hero" />
+<property name="Endurance" value="" />
+<property name="Text" value="CONSTANT POWER: Whenever your opponent stops one of your attacks, destroy the top card of their Life Deck. INSTANT POWER: Use when you perform a Styled attack. Your MP pays 1 stage to make that attack gain, 'If stopped, use this attack's HIT effects' and 'Banish after use.'" />
+<property name="Traits" value="Namekian" />
+<property name="Limit per Deck" value="1" />
+<property name="PUR" value="2" />
+<property name="Power Rating" value="0; 10; 25; 50; 100; 200; 300; 400; 500; 600; 700" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="1" />
+</card>
+<card id="ce9f6d80-5cdc-410f-a3d0-b2819c5c92f2" name="Nappa - Supportive">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P14" />
+<property name="Type" value="Villain" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="3" />
+<property name="Power Rating" value="0; 1000; 3000; 4000; 5000; 6000; 7000; 8000; 9000; 10000; 11000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="2" />
+</card>
+<card id="91dc258d-4314-45c6-a8f2-ea7b70edfc10" name="Vegeta - The Crown Prince">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P15" />
+<property name="Type" value="Villain" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="3" />
+<property name="Power Rating" value="0; 1000; 2000; 4000; 5000; 7000; 8000; 9000; 10000; 11000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="1" />
+</card>
+<card id="56f4e13d-9061-4dde-b87d-6c341563bcdb" name="Black Viewing Drill">
+<property name="Style" value="Black" />
+<property name="Card Number" value="P16" />
+<property name="Type" value="Drill" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="" />
+</card>
+<card id="a13f3110-ab29-45ea-a61f-4109289c7f4b" name="Black Capture">
+<property name="Style" value="Black" />
+<property name="Card Number" value="P17" />
+<property name="Type" value="Energy Combat" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="" />
+</card>
+<card id="df47953c-cbdf-486a-8527-80178e621ed1" name="Blue Domination">
+<property name="Style" value="Blue" />
+<property name="Card Number" value="P18" />
+<property name="Type" value="Setup" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="" />
+</card>
+<card id="392827fd-8ceb-47b6-acb5-c7850df3fadf" name="Namekian Overhead Blast">
+<property name="Style" value="Namekian" />
+<property name="Card Number" value="P19" />
+<property name="Type" value="Energy Combat" />
+<property name="Endurance" value="1" />
+<property name="Text" value="" />
+<property name="Traits" value="" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="" />
+</card>
+<card id="855b37b0-aca1-4fc7-b940-f5a360617a4c" name="Orange Captivity Drill">
+<property name="Style" value="Orange" />
+<property name="Card Number" value="P20" />
+<property name="Type" value="Drill" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="" />
+</card>
+<card id="8bc1e644-e826-4466-b584-84add1db5e13" name="Orange Energy Catch">
+<property name="Style" value="Orange" />
+<property name="Card Number" value="P21" />
+<property name="Type" value="Energy Combat" />
+<property name="Endurance" value="3" />
+<property name="Text" value="" />
+<property name="Traits" value="" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="" />
+</card>
+<card id="eda91e48-b145-49b2-8188-dd0b4e5f3e0c" name="Red Relaxation">
+<property name="Style" value="Red" />
+<property name="Card Number" value="P22" />
+<property name="Type" value="Setup" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="" />
+</card>
+<card id="9c5d01f4-9dcf-46c9-bc3c-8d83a411b37a" name="Red Static Shot">
+<property name="Style" value="Red" />
+<property name="Card Number" value="P23" />
+<property name="Type" value="Energy Combat" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="" />
+</card>
+<card id="46a4f8b1-67ed-4114-ae78-88a8f389a1fc" name="Dragon Radar">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P24" />
+<property name="Type" value="Setup" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="" />
+</card>
+<card id="a2b38076-a13b-48f1-91fa-7fe2db40c57b" name="Playful Punch">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P25" />
+<property name="Type" value="Physical Combat" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="" />
+</card>
+<card id="3ae23ea7-ebd2-4f94-90ef-1ba436b4e271" name="Wall Breaker">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P26" />
+<property name="Type" value="Physical Combat" />
 <property name="Endurance" value="" />
 <property name="Text" value="" />
 <property name="Traits" value="" />

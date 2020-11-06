@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="383a6ac2-6e52-40a5-980f-fade09e4908b">
+  <section name="Starting" shared="False">
+    <card qty="1" id="14f2652a-11e3-406a-9b46-57542e6619d6">Blue Mimicry Mastery</card>
+    <card qty="1" id="4c461090-cef1-4c33-a5ba-50e786b0f458">Buu - Evil Incarnate</card>
+    <card qty="1" id="d21432b8-81a4-4db0-a49f-90ea19b1a635">Buu - Looming Threat</card>
+    <card qty="1" id="fe11de4b-a7ad-478e-84b0-aa97365b24bf">Buu - Gotenks Absorbed</card>
+    <card qty="1" id="c281e7f6-b98d-48f0-9201-aa927b8b1049">Buu - Gohan Absorbed</card>
+  </section>
+  <section name="Life Deck" shared="False">
+    <card qty="1" id="88afaa94-66b0-4b61-bdce-e6ba6689bcfd">Buu's Absorbing Drill</card>
+    <card qty="1" id="b73f3942-873a-4fd7-8b83-f81989feac9b">Time is a Warrior's Tool</card>
+    <card qty="2" id="32fdf3cd-3d06-4847-a857-3bf96b7b60e9">Concussive Strike</card>
+    <card qty="1" id="dec025a4-2ee5-4877-8fb6-e7e90a6a38f3">Blue Recuperating Drill</card>
+    <card qty="1" id="0cd33590-930d-44ed-a0cd-2b88d1cc3569">Blue Overpowering Drill</card>
+    <card qty="1" id="c2fcd6fc-acd4-4d80-b662-dc4216071777">Blue Taunting Drill</card>
+    <card qty="2" id="ba6f6e01-ab19-47fa-8d25-d4b6d8f772bb">Blue Retaliation</card>
+    <card qty="2" id="f9defa1a-8667-4c0d-aeef-3e213fd15034">Blue Neck Beam</card>
+    <card qty="2" id="ad5e6f5c-bcff-4d0c-8282-bf77d98c82e4">Blue Malicious Blast</card>
+    <card qty="3" id="09291d3f-1889-4c27-9822-e4fe01076188">Blue Avoidance</card>
+    <card qty="2" id="f6761b81-de76-42f5-bc3f-9a913c279a23">Blue Outburst</card>
+    <card qty="2" id="502d41cb-e9de-4e3d-9aa7-f411d8edf2bd">Blue Barrage</card>
+    <card qty="2" id="a69ba6fd-f09e-4015-add3-23de91e44e2f">Blue Energy Push</card>
+    <card qty="2" id="6f3fa93f-0880-4607-a379-893d26e5c2c2">Blue Concentrated Blast</card>
+    <card qty="2" id="923d6b06-38c6-4d87-8259-096c01a409b3">Blue Fear</card>
+    <card qty="2" id="09291d3f-1889-4c27-9822-e4fe01076227">Blue Rest</card>
+    <card qty="2" id="18e459db-d17c-4a78-bc95-83bff851efc9">Blue Absorption</card>
+    <card qty="2" id="b20506c9-fe35-4813-b117-252476470c50">Blue Round Throw</card>
+    <card qty="2" id="6e8f9796-651c-4fd3-a0a9-79febd912843">Blue Crush</card>
+    <card qty="3" id="09291d3f-1889-4c27-9822-e4fe01076266">Blue Swift Block</card>
+    <card qty="2" id="532a8281-2f18-45b7-b3ba-5235f096d4d0">Blue Slap</card>
+    <card qty="2" id="7982c7bf-2cb7-4d7d-bc94-4e6494e8e866">Blue Decapitation</card>
+    <card qty="2" id="41b3aa55-5295-487c-8797-f9bc353fc864">Blue Combative Stance</card>
+    <card qty="1" id="0f0d11a8-b115-4894-bd81-720864869731">Babidi - Wizard</card>
+    <card qty="1" id="c660a4a0-af33-4791-8fd1-d0747b3a67c1">Yakon - Beastly</card>
+    <card qty="1" id="8c9b988d-49c5-4459-97c1-84143149f634">Pui Pui - Cocky</card>
+    <card qty="2" id="153892f7-c2cd-4bd4-9557-874717fec39f">Blue Arrest</card>
+    <card qty="1" id="09291d3f-1889-4c27-9822-e4fe01076284">Jiece - Ginyu Force</card>
+    <card qty="2" id="09291d3f-1889-4c27-9822-e4fe01076001">Battle Pausing</card>
+    <card qty="2" id="09291d3f-1889-4c27-9822-e4fe01076292">Blue Betrayal</card>
+    <card qty="2" id="09291d3f-1889-4c27-9822-e4fe01076028">Blue Head Knock</card>
+    <card qty="1" id="09291d3f-1889-4c27-9822-e4fe01076219">Blue Positioning Drill</card>
+    <card qty="2" id="72a93500-443c-4109-be14-6ee7f2532f7a">Blue Reckless Charge</card>
+    <card qty="2" id="406c5c6f-9aa7-4f28-aa5b-08b09c6958c2">Blue Vehicle Destruction</card>
+  </section>
+  <notes><![CDATA[]]></notes>
+</deck>

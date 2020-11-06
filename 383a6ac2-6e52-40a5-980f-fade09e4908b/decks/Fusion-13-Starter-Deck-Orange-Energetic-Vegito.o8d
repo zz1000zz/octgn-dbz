@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="383a6ac2-6e52-40a5-980f-fade09e4908b">
+  <section name="Starting" shared="False">
+    <card qty="1" id="476c72d0-9554-4f9c-8620-b170ef0d54c9">Orange Energetic Mastery</card>
+    <card qty="1" id="de118a57-71f9-4e22-90cd-cb45cfd71273">Vegito - Fused</card>
+    <card qty="1" id="874888fa-9f88-4b91-b039-8f9d10db7729">Vegito - Boastful</card>
+    <card qty="1" id="aa1d4045-b895-4d20-880b-6260c5241f3b">Vegito - Super Saiyan</card>
+    <card qty="1" id="61dc963f-a392-414e-b118-33dffea504cc">Vegito - Dominant</card>
+  </section>
+  <section name="Life Deck" shared="False">
+    <card qty="2" id="a512bd68-4f3e-48ab-b1da-76b6bd8f08c8">Vegito's Effortless Defense</card>
+    <card qty="1" id="b73f3942-873a-4fd7-8b83-f81989feac9b">Time is a Warrior's Tool</card>
+    <card qty="1" id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2037">Orange Driving Drill</card>
+    <card qty="1" id="09291d3f-1889-4c27-9822-e4fe01076303">Orange Energy Phasing Drill</card>
+    <card qty="1" id="12f7faa6-85d8-489c-8231-c09249bbf2f0">Orange Affection Drill</card>
+    <card qty="1" id="ba7ecab7-4987-4ec9-af43-dd38766e832d">Orange Energy Dan Drill</card>
+    <card qty="1" id="46f7e29e-982e-4c94-8e1b-834ef2e1681b">Orange Checkup Drill</card>
+    <card qty="1" id="a0fb8a42-f9cf-498d-a693-9723836ad5e8">Orange Burning Aura Drill</card>
+    <card qty="1" id="d7913264-94cb-44b1-aa50-8ddd1633d4d4">Orange Steady Drill</card>
+    <card qty="2" id="cea3ed6f-4241-46e6-98d2-a9025ecb186d">Orange Precise Shot</card>
+    <card qty="2" id="09291d3f-1889-4c27-9822-e4fe01076041">Orange Energy Absorption</card>
+    <card qty="2" id="09291d3f-1889-4c27-9822-e4fe01076238">Orange Power Point</card>
+    <card qty="3" id="09291d3f-1889-4c27-9822-e4fe01076306">Orange Offensive Strike</card>
+    <card qty="2" id="872456d4-77e0-4c74-bfa8-e96d8d37682f">Orange 5-Finger Blast</card>
+    <card qty="2" id="c23a68a3-e5b1-4a7b-9b6b-1945d453c159">Orange Fierce Attack</card>
+    <card qty="2" id="021f7c96-01b2-4013-8ac4-c335df582312">Orange Juke</card>
+    <card qty="2" id="472ef899-f98b-4f14-ae76-026999a7983a">Orange Defense</card>
+    <card qty="2" id="b3a6ed1e-e8f4-45e3-bfce-9b74e56b1ea7">Orange Collision</card>
+    <card qty="2" id="0fcbca78-55bb-4bbc-b460-dd414cee8fb9">Orange Refocus</card>
+    <card qty="2" id="72f72989-2cb8-4f34-85cd-1bfa5413a075">Orange Sidestep</card>
+    <card qty="2" id="d087fe3c-8c43-46d3-815d-3ea3fde34c7a">Orange Stretch</card>
+    <card qty="2" id="ae9edb6e-1941-4816-b32e-881d10016ebe">Orange Elbow Rush</card>
+    <card qty="1" id="09291d3f-1889-4c27-9822-e4fe01076051">Heroic Plan</card>
+    <card qty="2" id="a27e8a9e-d1f9-4006-8504-943404624dea">Suppressive Strike</card>
+    <card qty="2" id="91dcd7f0-4a71-4c15-9a6d-f7b51ee3a18f">Shoulder Slam</card>
+    <card qty="2" id="0660a5a5-df21-4e66-8b40-c46a37915864">Head Smash</card>
+    <card qty="2" id="09291d3f-1889-4c27-9822-e4fe01076170">Orange Excavation</card>
+    <card qty="2" id="b6b8b307-cd2c-4c9f-9300-6a03c62bc822">Orange Counter Ball</card>
+    <card qty="2" id="09291d3f-1889-4c27-9822-e4fe01076592">Orange Electricity</card>
+    <card qty="2" id="09291d3f-1889-4c27-9822-e4fe01076594">Orange Uncontrolled Blast</card>
+    <card qty="2" id="998a03c4-3080-4460-938e-d9be9dd2392e">Orange Energy Deflection</card>
+    <card qty="2" id="997ea265-4a22-4207-aebb-627c2ba4dd72">Orange Upward Strike</card>
+    <card qty="2" id="ca751851-5d5c-4ab0-a761-18932693f0af">Orange Inspection</card>
+    <card qty="2" id="f16db11e-0a3c-40ae-aee9-914a241ddc44">Orange Truck Lift</card>
+  </section>
+  <notes><![CDATA[]]></notes>
+</deck>

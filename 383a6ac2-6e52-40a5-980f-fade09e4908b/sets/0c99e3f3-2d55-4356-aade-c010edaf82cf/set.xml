@@ -522,7 +522,7 @@
 <property name="Limit per Deck" value="1" />
 <property name="Endurance" value="" />
 </card>
-<card id="d5b478e0-4a78-4407-a155-abf0e8c3eb5d" name="Chilled  Masked Figure">
+<card id="d5b478e0-4a78-4407-a155-abf0e8c3eb5d" name="Chilled - Cackling Tyrant">
 <property name="Card Level" value="" />
 <property name="Card Number" value="44" />
 <property name="Style" value="Freestyle" />
@@ -534,7 +534,7 @@
 <property name="Limit per Deck" value="1" />
 <property name="Endurance" value="" />
 </card>
-<card id="2d761224-f279-4ba9-bcb5-c6050123091f" name="King Vegeta  Ruler">
+<card id="2d761224-f279-4ba9-bcb5-c6050123091f" name="King Vegeta - Saiyan King">
 <property name="Card Level" value="" />
 <property name="Card Number" value="45" />
 <property name="Style" value="Freestyle" />
@@ -575,7 +575,7 @@
 <property name="Card Number" value="48" />
 <property name="Style" value="Freestyle" />
 <property name="Rarity" value="Starter" />
-<property name="Type" value="Villain MP" />
+<property name="Type" value="Villain" />
 <property name="PUR" value="2" />
 <property name="Power Rating" value="0; 500; 1000; 1250; 1500; 2500; 4500; 6000; 6500; 7500; 8000" />
 <property name="Text" value="CONTINUOUS POWER: Whenever a player searches your oponent\'s Life Deck, you may raise your anger 1 level. POWER: Destroy the top card of your Life Deck. Your opponent reveals their hand. Search your opponent\'s LIfe Deck for a card and destroy it." />
@@ -587,7 +587,7 @@
 <property name="Card Number" value="49" />
 <property name="Style" value="Freestyle" />
 <property name="Rarity" value="Starter" />
-<property name="Type" value="Villain MP" />
+<property name="Type" value="Villain" />
 <property name="PUR" value="3" />
 <property name="Power Rating" value="0; 1000; 9000; 10000; 15000; 18500; 20000; 25000; 30000; 33000; 35000" />
 <property name="Text" value="CONTINUOUS POWER: Your opponent lays with their hand revealed. Whenever an effect destroys cards from your opponent\'s Life Deck, you may raise your anger 1 level. POWER: Destroy the top card of your Life Deck to banish the bottom card of your oponent\'s discard pile. You may discard a card from your hand. If you do, your opponent discards a card from their hand." />
@@ -599,7 +599,7 @@
 <property name="Card Number" value="50" />
 <property name="Style" value="Freestyle" />
 <property name="Rarity" value="Starter" />
-<property name="Type" value="Villain MP" />
+<property name="Type" value="Villain" />
 <property name="PUR" value="4" />
 <property name="Power Rating" value="0; 5000; 9000; 10000; 15000; 30000; 40000; 70000; 80000; 90000; 100000" />
 <property name="Text" value="CONTINUOUS POWER: Your opponent plays with their hand revealed. POWER: Search your opponent\'s Life Deck for up to 3 Styled cards and destroy them. Reveal the top 4 cards of your Life Deck and place them back in any order. Your opponent skips their next action this combat." />
@@ -611,7 +611,7 @@
 <property name="Card Number" value="51" />
 <property name="Style" value="Freestyle" />
 <property name="Rarity" value="Starter" />
-<property name="Type" value="Villain MP" />
+<property name="Type" value="Villain" />
 <property name="PUR" value="5" />
 <property name="Power Rating" value="0; 10000; 25000; 50000; 100000; 200000; 400000; 600000; 800000; 1000000; 1100000" />
 <property name="Text" value="CONTINUOUS POWER: Your opponent plays with their hand revealed. At the end of each turn, your opponent discards their hand. POWER: Gain 4 stages. Destroy the top 3 cards of a player\'s Life Deck. The first Styled Setup destroyed by this effect is placed into play under your control." />
@@ -623,7 +623,7 @@
 <property name="Card Number" value="52" />
 <property name="Style" value="Freestyle" />
 <property name="Rarity" value="Starter" />
-<property name="Type" value="Villain MP" />
+<property name="Type" value="Villain" />
 <property name="PUR" value="2" />
 <property name="Power Rating" value="0; 5000; 10000; 25000; 35000; 40000; 45000; 50000; 60000; 80000; 100000" />
 <property name="Text" value="CONTINUOUS POWER: Your attacks deal their life card damage as stages of damage instead. INSTANT POWER: Use after your attack deals 5 or more stages of damage. That attack is considered to deal critical damage. Raise your anger 2 levels. POWER: Rejuvenate 1. You may draw a card. If you do, discard a card." />
@@ -635,7 +635,7 @@
 <property name="Card Number" value="53" />
 <property name="Style" value="Freestyle" />
 <property name="Rarity" value="Starter" />
-<property name="Type" value="Villain MP" />
+<property name="Type" value="Villain" />
 <property name="PUR" value="2" />
 <property name="Power Rating" value="0; 10000; 15000; 20000; 50000; 100000; 150000; 160000; 180000; 200000" />
 <property name="Text" value="CONTINUOUS POWER: Your attacks deal their life card damage as stages of damage instead. Your attacks deal +1 stage of damage. POWER: Physical attack. Rejuvenate 1. This attack is considered to deal critical damage. DAMAGE: 5 stages. HIT: Raise your anger 1 level." />
@@ -647,7 +647,7 @@
 <property name="Card Number" value="54" />
 <property name="Style" value="Freestyle" />
 <property name="Rarity" value="Starter" />
-<property name="Type" value="Villain MP" />
+<property name="Type" value="Villain" />
 <property name="PUR" value="4" />
 <property name="Power Rating" value="0; 10000; 25000; 50000; 125000; 150000; 200000; 250000; 460000; 480000; 600000" />
 <property name="Text" value="CONTINUOUS POWER: Your attacks deal their life card damage as stages of damage instead. Your attacks that deal 5 or more stages of damage are considered to deal critical damage. Whenever you deal critical damage, you may raise your anger 1 level. PPOWER: Physical attack. DAMAGE: 6 stages. HIT: Raise your anger 1 level. Rejuvenate 2. Banish an opponent\'s Setup, Drill or Ally." />
@@ -659,7 +659,7 @@
 <property name="Card Number" value="55" />
 <property name="Style" value="Freestyle" />
 <property name="Rarity" value="Starter" />
-<property name="Type" value="Villain MP" />
+<property name="Type" value="Villain" />
 <property name="PUR" value="5" />
 <property name="Power Rating" value="0; 10000; 25000; 50000; 100000; 150000; 200000; 300000; 400000; 500000; 650000" />
 <property name="Text" value="CONTINUOUS POWER: Your attacks deal their life card damage as stages of damage instead. Your attacks that deal 5 or more stages of damage are considered to deal critical damage. Personalities cannot eb more than 5 stages above 0. POWER: Gain 3 stages. Choose a personality in play.  That personality loses 3 stages." />
@@ -671,7 +671,7 @@
 <property name="Card Number" value="56" />
 <property name="Style" value="Freestyle" />
 <property name="Rarity" value="Starter" />
-<property name="Type" value="Hero MP" />
+<property name="Type" value="Hero" />
 <property name="PUR" value="3" />
 <property name="Power Rating" value="0; 100; 150; 175; 200; 225; 250; 275; 300; 325; 350" />
 <property name="Text" value="CONTINUOUS POWER: After an Earth Dragon Ball enters play, destroy the top card of your opponent\'s Life Deck. POWER: Energy attack costing 1 stage. You may shuffle an Earth Dragon Ball in play back into its owner\'s Life Deck to search your LIfe Deck for a Styled Drill and play it. DAMAGE: 3 life cards. HIT: raise your anger 1 level or Rejuvenate 1." />
@@ -683,7 +683,7 @@
 <property name="Card Number" value="57" />
 <property name="Style" value="Freestyle" />
 <property name="Rarity" value="Starter" />
-<property name="Type" value="Hero MP" />
+<property name="Type" value="Hero" />
 <property name="PUR" value="3" />
 <property name="Power Rating" value="0; 150; 200; 250; 300; 350; 400; 450; 500; 550; 600" />
 <property name="Text" value="(Your Drills are not discarded when advancing or lowering from this level.) POWER: Energy attack costing 1 stage. Capture an Earth Dragon Ball or choose a card in your discard pile and Rejuvenate it. DAMAGE: 3 life cards. HIT: If you control 3 or more Earth Dragon Balls, search your LIfe Deck for a Styled Drill and place it into play." />
@@ -695,7 +695,7 @@
 <property name="Card Number" value="58" />
 <property name="Style" value="Freestyle" />
 <property name="Rarity" value="Starter" />
-<property name="Type" value="Hero MP" />
+<property name="Type" value="Hero" />
 <property name="PUR" value="5" />
 <property name="Power Rating" value="0; 200; 300; 400; 500; 600; 700; 800; 900; 1000; 1050" />
 <property name="Text" value="(When you advance to this level, you may shuffle a Dragon Ball in play back into its owner\'s Life Deck. Search your Banished Zone for an Earth Dragon Ball and place it into play.) CONTINUOUS POWER: When you control 3 or more Earth Dragon Balls, your oponent\'s attacks deal -3 stages of damage and your energy attacks deal +3 life cards of damage. POWER: Raise your anger 1 level. You may banish an Earth Dragon ball you control. If you do, search your Banished Zone for a Dragon Ball or Styled Drill and Rejuvenate it." />
@@ -707,7 +707,7 @@
 <property name="Card Number" value="59" />
 <property name="Style" value="Freestyle" />
 <property name="Rarity" value="Starter" />
-<property name="Type" value="Hero MP" />
+<property name="Type" value="Hero" />
 <property name="PUR" value="5" />
 <property name="Power Rating" value="0; 300; 400; 500; 600; 700; 800; 900; 1000; 1050; 1100" />
 <property name="Text" value="(When you reach this level, cature an Earth Dragon Ball or place a Dragon Ball from your Banished Zone into play.) POWER: Energy attack costing 1 stage. If 5 or more Earth Dragon Balls are in play and/or in your Banished Zone, search your discard pile for a Styled Drill and play it and this attack cannot be stopped. DAMAGE: 5 life cards." />
@@ -719,7 +719,7 @@
 <property name="Card Number" value="60" />
 <property name="Style" value="Freestyle" />
 <property name="Rarity" value="Starter" />
-<property name="Type" value="Villain MP" />
+<property name="Type" value="Villain" />
 <property name="PUR" value="3" />
 <property name="Power Rating" value="0; 1000; 3000; 4000; 5000; 6000; 7000; 8000; 9000; 10000; 11000" />
 <property name="Text" value="CONTINUOUS POWER: Your attacks deal +2 stages of damage. POWER: Physical attack. Raise your anger 1 level. DAMAGE: AT +2 stages. HIT: Destroy a Drill." />
@@ -731,10 +731,58 @@
 <property name="Card Number" value="61" />
 <property name="Style" value="Freestyle" />
 <property name="Rarity" value="Starter" />
-<property name="Type" value="Villain MP" />
+<property name="Type" value="Villain" />
 <property name="PUR" value="3" />
 <property name="Power Rating" value="0; 1000; 2000; 4000; 5000; 7000; 8000; 9000; 10000; 10500; 11000" />
 <property name="Text" value="CONTINUOUS POWER: Your attacks without \'anger\' printed in the text-box gain \'Raise your anger 1 level.\' POWER: Physical attack. Raise your anger 1 level. This attack is considered to deal critical damage. DAMAGE: 4 stages." />
+<property name="Limit per Deck" value="" />
+<property name="Endurance" value="" />
+</card>
+<card id="0052994c-e0c7-417c-969a-f0f894a1e25e" name="Bardock  True Saiyan">
+<property name="Card Level" value="1" />
+<property name="Card Number" value="P1" />
+<property name="Style" value="Freestyle" />
+<property name="Rarity" value="Starter" />
+<property name="Type" value="Villain" />
+<property name="PUR" value="2" />
+<property name="Power Rating" value="0; 500; 1000; 1250; 1500; 2500; 4500; 6000; 6500; 7500; 8000" />
+<property name="Text" value="CONTINUOUS POWER: Whenever a player searches your oponent\'s Life Deck, you may raise your anger 1 level. POWER: Destroy the top card of your Life Deck. Your opponent reveals their hand. Search your opponent\'s LIfe Deck for a card and destroy it." />
+<property name="Limit per Deck" value="" />
+<property name="Endurance" value="" />
+</card>
+<card id="57195cf8-e9b6-4028-9c07-b443fc1bde8f" name="Bardock  Vengeful">
+<property name="Card Level" value="2" />
+<property name="Card Number" value="P2" />
+<property name="Style" value="Freestyle" />
+<property name="Rarity" value="Starter" />
+<property name="Type" value="Villain" />
+<property name="PUR" value="3" />
+<property name="Power Rating" value="0; 1000; 9000; 10000; 15000; 18500; 20000; 25000; 30000; 33000; 35000" />
+<property name="Text" value="CONTINUOUS POWER: Your opponent lays with their hand revealed. Whenever an effect destroys cards from your opponent\'s Life Deck, you may raise your anger 1 level. POWER: Destroy the top card of your Life Deck to banish the bottom card of your oponent\'s discard pile. You may discard a card from your hand. If you do, your opponent discards a card from their hand." />
+<property name="Limit per Deck" value="" />
+<property name="Endurance" value="" />
+</card>
+<card id="42de9e0c-f639-4800-b193-1d8630f94f43" name="Bardock  Displaced">
+<property name="Card Level" value="3" />
+<property name="Card Number" value="P3" />
+<property name="Style" value="Freestyle" />
+<property name="Rarity" value="Starter" />
+<property name="Type" value="Villain" />
+<property name="PUR" value="4" />
+<property name="Power Rating" value="0; 5000; 9000; 10000; 15000; 30000; 40000; 70000; 80000; 90000; 100000" />
+<property name="Text" value="CONTINUOUS POWER: Your opponent plays with their hand revealed. POWER: Search your opponent\'s Life Deck for up to 3 Styled cards and destroy them. Reveal the top 4 cards of your Life Deck and place them back in any order. Your opponent skips their next action this combat." />
+<property name="Limit per Deck" value="" />
+<property name="Endurance" value="" />
+</card>
+<card id="48f4fd5e-38e8-4251-bafc-8869ef887250" name="Bardock  Legend">
+<property name="Card Level" value="4" />
+<property name="Card Number" value="P4" />
+<property name="Style" value="Freestyle" />
+<property name="Rarity" value="Starter" />
+<property name="Type" value="Villain" />
+<property name="PUR" value="5" />
+<property name="Power Rating" value="0; 10000; 25000; 50000; 100000; 200000; 400000; 600000; 800000; 1000000; 1100000" />
+<property name="Text" value="CONTINUOUS POWER: Your opponent plays with their hand revealed. At the end of each turn, your opponent discards their hand. POWER: Gain 4 stages. Destroy the top 3 cards of a player\'s Life Deck. The first Styled Setup destroyed by this effect is placed into play under your control." />
 <property name="Limit per Deck" value="" />
 <property name="Endurance" value="" />
 </card>

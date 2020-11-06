@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="383a6ac2-6e52-40a5-980f-fade09e4908b">
+  <section name="Starting" shared="False">
+    <card qty="1" id="f985ceac-cb7e-44c1-9359-a61d817680eb">Namekian Imposing Mastery</card>
+    <card qty="1" id="7033067d-2223-4c6d-8320-74b9e4df278e">Gohan - Enhanced</card>
+    <card qty="1" id="b60afd79-2f5d-42dd-94f8-91c8c207d397">Gohan - Mysitc</card>
+    <card qty="1" id="57af884c-cf30-4625-9203-9c80f7cb62fe">Gohan - Ultimate</card>
+    <card qty="1" id="28119b1d-5964-422d-a824-c4e1de0fa054">Gohan - Earth's Defender</card>
+  </section>
+  <section name="Life Deck" shared="False">
+    <card qty="3" id="09291d3f-1889-4c27-9822-e4fe01076328">Gohan's Power Punch</card>
+    <card qty="2" id="09291d3f-1889-4c27-9822-e4fe01076075">Gohan's Masenko</card>
+    <card qty="3" id="7f595e0a-a42a-49a0-8eff-83b4af85ccb4">Gohan's Backlash</card>
+    <card qty="1" id="b73f3942-873a-4fd7-8b83-f81989feac9b">Time is a Warrior's Tool</card>
+    <card qty="2" id="c7faf9c1-5459-4ebc-b2fa-40f8070602ec">Namekian Maximum Will</card>
+    <card qty="2" id="09291d3f-1889-4c27-9822-e4fe01076249">Namekian Energy Guard</card>
+    <card qty="2" id="e4409b52-b325-4259-8b9a-6e7fe8cd0947">Namekian Resourceful Shot</card>
+    <card qty="2" id="09291d3f-1889-4c27-9822-e4fe01076299">Namekian Hybrid Defense</card>
+    <card qty="2" id="2d1fa38b-225d-4b47-b2ee-e460f48dc43d">Namekian Right Throw</card>
+    <card qty="2" id="ebba5a63-0514-449e-9053-c9a8c67b37b3">Namekian Justice Punch</card>
+    <card qty="2" id="3b64df59-7344-4e5c-87a7-1bee5fa67703">Namekian Grit</card>
+    <card qty="2" id="6dc19318-5995-4644-bd51-8a2f31181e05">Namekian Gut Kick</card>
+    <card qty="2" id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2073">Namekian Clash</card>
+    <card qty="2" id="0f0b3968-7790-4ca3-b823-9029da9034e4"> Namekian Direct Strike</card>
+    <card qty="2" id="09291d3f-1889-4c27-9822-e4fe01076095">Namekian Overtime</card>
+    <card qty="2" id="2004f6cb-4f2a-4891-a6b7-e6d98ebdb9b9">Namekian Clamp</card>
+    <card qty="2" id="dfc55952-4094-4186-ab01-123fde7610f9">Namekian Aerial Knee</card>
+    <card qty="2" id="31786a3d-e73c-49ce-b36e-668478094838">Namekian Wrist Strike</card>
+    <card qty="1" id="09291d3f-1889-4c27-9822-e4fe01076062">Namek Dragon Ball 1</card>
+    <card qty="1" id="09291d3f-1889-4c27-9822-e4fe01076070">Namek Dragon Ball 3</card>
+    <card qty="1" id="09291d3f-1889-4c27-9822-e4fe01076071">Namek Dragon Ball 4</card>
+    <card qty="1" id="09291d3f-1889-4c27-9822-e4fe01076083">Namek Dragon Ball 6</card>
+    <card qty="2" id="a716ba7b-a2ba-426a-bf96-841e17ffc272">Namekian Back Smash</card>
+    <card qty="2" id="40e3f139-bdb4-4942-b305-bca5588f9834">Namekian Rush</card>
+    <card qty="2" id="09291d3f-1889-4c27-9822-e4fe01076199">Namekian Elbow Strike</card>
+    <card qty="2" id="f0cc2db5-5d43-43fb-a219-9fa7ce9e2032">Namekian Chin Grab</card>
+    <card qty="1" id="4e937757-ff46-444b-8ddd-bf6827420f06">Namekian Risk</card>
+    <card qty="2" id="09291d3f-1889-4c27-9822-e4fe01076214">Namekian Fusion</card>
+    <card qty="2" id="0319d2fe-133c-42b6-aded-258a485a439e">Namekian Regeneration</card>
+    <card qty="2" id="6df6761a-8a49-4432-a85a-85540c089d56">Namekian Energized Bash </card>
+    <card qty="2" id="c4e83f23-9f29-4ae8-b2a0-51fe07d3d557">Namekian Counter Blast</card>
+    <card qty="2" id="15a4a331-e935-499a-8008-c63d768b1e10">Namekian Intervention</card>
+  </section>
+  <notes><![CDATA[]]></notes>
+</deck>

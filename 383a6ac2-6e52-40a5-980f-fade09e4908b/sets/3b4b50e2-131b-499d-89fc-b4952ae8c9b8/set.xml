@@ -1,0 +1,1023 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" 
+     name="HT PanZ Personalities" 
+     id="3b4b50e2-131b-499d-89fc-b4952ae8c9b8"
+     gameId="383a6ac2-6e52-40a5-980f-fade09e4908b" 
+     gameVersion="0.0.0.1"
+     version="0.0.0.1"><cards>
+<card id="3bfece14-26f6-4083-ad35-72f66f4d5106" name="Frieza - Tyrant">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P1" />
+<property name="Type" value="Villain" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Alien" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="2" />
+<property name="Power Rating" value="0; 450; 900; 4500; 9000; 19000; 34000; 49000; 64000; 79000; 84000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="1" />
+</card>
+<card id="0d86150f-445e-4a48-ac9f-2b84eef0d9af" name="Frieza - Transformed">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P2" />
+<property name="Type" value="Villain" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Alien" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="3" />
+<property name="Power Rating" value="0; 900; 9000; 19000; 39000; 59000; 79000; 99000; 199000; 399000; 599000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="2" />
+</card>
+<card id="bebd02bc-9d89-49bf-81ac-368d17c5c539" name="Frieza - Galactic Conquerer">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P3" />
+<property name="Type" value="Villain" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Alien" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="4" />
+<property name="Power Rating" value="0; 1000; 5000; 10000; 25000; 50000; 100000; 200000; 400000; 700000; 1000000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="3" />
+</card>
+<card id="f9fa0d86-9c40-41f4-ac15-831f7fe82626" name="Frieza - Revived">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P4" />
+<property name="Type" value="Villain" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Alien" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="5" />
+<property name="Power Rating" value="0; 25000; 50000; 100000; 200000; 400000; 600000; 800000; 1000000; 1200000; 1400000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="4" />
+</card>
+<card id="137d62a1-5c07-44e4-b0ef-c0fdf4697176" name="Frieza - Golden">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P5" />
+<property name="Type" value="Villain" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Alien" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="3" />
+<property name="Power Rating" value="0; 7500; 15000; 30000; 75000; 150000; 300000; 600000; 1250000; 25000000; 150000000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="2" />
+</card>
+<card id="f4e0bf60-7a1a-4b44-971d-d388ea8222c0" name="Gohan - Resilient Child">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P6" />
+<property name="Type" value="Hero" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Namekian, Earthling, Saiyan" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="2" />
+<property name="Power Rating" value="0; 200; 400; 600; 800; 1000; 1500; 2000; 2500; 3000; 3500" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="1" />
+</card>
+<card id="b7606e81-2de9-4100-99b4-e11451af339b" name="Gohan - Young Warrior">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P7" />
+<property name="Type" value="Hero" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Namekian, Earthling, Saiyan" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="3" />
+<property name="Power Rating" value="0; 1000; 2000; 4000; 6000; 8000; 10000; 12000; 14000; 16000; 18000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="2" />
+</card>
+<card id="4f08199c-0142-43eb-a4fa-b8ef9472c83c" name="Gohan - Determined">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P8" />
+<property name="Type" value="Hero" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Namekian, Earthling, Saiyan" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="4" />
+<property name="Power Rating" value="0; 750; 7500; 75000; 100000; 150000; 200000; 250000; 300000; 350000; 400000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="3" />
+</card>
+<card id="e79e3404-f487-4f66-913c-0b65263bfde6" name="Gohan - Armored">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P9" />
+<property name="Type" value="Hero" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Namekian, Earthling, Saiyan" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="5" />
+<property name="Power Rating" value="0; 500; 5000; 50000; 125000; 200000; 225000; 300000; 375000; 450000; 525000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="4" />
+</card>
+<card id="080325fe-5617-4230-b723-059c1c49579a" name="Goku - Protector of Earth">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P10" />
+<property name="Type" value="Hero" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Earthling, Saiyan" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="2" />
+<property name="Power Rating" value="0; 500; 1000; 2000; 3000; 4000; 5000; 6000; 7000; 8000; 9001" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="1" />
+</card>
+<card id="0967e769-7002-4969-87cc-29b42326901d" name="Goku - Kaio-Ken Enhanced">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P11" />
+<property name="Type" value="Hero" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Earthling, Saiyan" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="3" />
+<property name="Power Rating" value="0; 500; 1000; 5000; 9000; 13000; 17000; 21000; 25000; 29000; 33000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="2" />
+</card>
+<card id="83671c03-77e4-43f5-ba80-caf5a4037ed9" name="Goku - Energy Gatherer">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P12" />
+<property name="Type" value="Hero" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Earthling, Saiyan" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="4" />
+<property name="Power Rating" value="0; 50000; 100000; 200000; 300000; 400000; 500000; 600000; 700000; 800000; 900000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="3" />
+</card>
+<card id="86ddce92-eda4-4c82-ad4e-8e101b6d9563" name="Goku - Super Saiyan">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P13" />
+<property name="Type" value="Hero" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Earthling, Saiyan" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="5" />
+<property name="Power Rating" value="0; 100000; 200000; 400000; 600000; 800000; 1000000; 1200000; 1350000; 1500000; 1650000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="4" />
+</card>
+<card id="fa6ea567-d0fa-45e5-8f07-bc08ae6f4a6d" name="Goku - Super Saiyan God">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P14" />
+<property name="Type" value="Hero" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="God, Earthling, Saiyan" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="2" />
+<property name="Power Rating" value="0; 5000; 25000; 50000; 100000; 250000; 500000; 1000000; 10000000; 100000000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="1" />
+</card>
+<card id="a41c1b29-6eae-4290-bf04-1cd418206d21" name="Krillin - Ready">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P15" />
+<property name="Type" value="Hero" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Earthling" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="3" />
+<property name="Power Rating" value="0; 400; 800; 1200; 1600; 2000; 2400; 2800; 3200; 3600; 4000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="2" />
+</card>
+<card id="82c8c4d6-f451-42b8-af11-ea8bb35271e4" name="Krillin - Energetic">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P16" />
+<property name="Type" value="Hero" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Earthling" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="4" />
+<property name="Power Rating" value="0; 3000; 5000; 7000; 9000; 11000; 13000; 15000; 17000; 19000; 21000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="3" />
+</card>
+<card id="2fa5b0a3-5108-4eaa-88ee-ec5d5d572fde" name="Krillin - Ready for Battle">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P17" />
+<property name="Type" value="Hero" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Earthling" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="5" />
+<property name="Power Rating" value="0; 1000; 5000; 10000; 25000; 50000; 75000; 150000; 225000; 300000; 375000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="4" />
+</card>
+<card id="ff62a005-85e2-48e2-8804-0b890b605a60" name="Krillin - Enraged">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P18" />
+<property name="Type" value="Hero" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Earthling" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="6" />
+<property name="Power Rating" value="0; 1000; 10000; 25000; 50000; 75000; 100000; 200000; 300000; 400000; 500000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="1" />
+</card>
+<card id="c9ef33d4-63c4-4589-a7dd-5e4060675efa" name="Krillin - Ready (SDCC)">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P19" />
+<property name="Type" value="Hero" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Earthling" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="3" />
+<property name="Power Rating" value="0; 400; 800; 1200; 1600; 2000; 2400; 2800; 3200; 3600; 4000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="1" />
+</card>
+<card id="02af6971-b7ca-406d-9012-990dd6d484b9" name="Piccolo - Stoic">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P20" />
+<property name="Type" value="Hero" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Namekian" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="3" />
+<property name="Power Rating" value="0; 900; 1100; 1300; 1700; 2200; 3500; 4500; 5500; 7000; 8500" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="1" />
+</card>
+<card id="cefcb946-0390-4966-9796-8e481846d4df" name="Piccolo - Combat Stance">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P21" />
+<property name="Type" value="Hero" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Namekian" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="3" />
+<property name="Power Rating" value="0; 500; 1000; 2000; 5000; 8000; 11000; 14000; 17000; 20000; 23000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="2" />
+</card>
+<card id="06c9d557-d85b-4bf5-a259-6fef339ff4d3" name="Piccolo - Unleashed">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P22" />
+<property name="Type" value="Hero" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Namekian" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="4" />
+<property name="Power Rating" value="0; 1000; 5000; 50000; 100000; 150000; 200000; 300000; 400000; 500000; 600000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="3" />
+</card>
+<card id="54d656e4-f68a-42fd-b1c8-66f6c30096e0" name="Piccolo - Fused">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P23" />
+<property name="Type" value="Hero" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Namekian" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="5" />
+<property name="Power Rating" value="0; 5000; 50000; 100000; 150000; 250000; 350000; 450000; 550000; 650000; 750000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="4" />
+</card>
+<card id="69420b3f-3a6e-404b-bd80-f52dbeeb4cbf" name="Vegeta - Prince of Saiyans">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P24" />
+<property name="Type" value="Villain" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Saiyan" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="2" />
+<property name="Power Rating" value="0; 250; 500; 1000; 2000; 3000; 4000; 5000; 6000; 8000; 10000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="1" />
+</card>
+<card id="bc42f825-a169-448d-9277-5abe360789d8" name="Vegeta - Villainous">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P25" />
+<property name="Type" value="Villain" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Saiyan" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="3" />
+<property name="Power Rating" value="0; 500; 1000; 2000; 3000; 4000; 5000; 10000; 15000; 20000; 25000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="2" />
+</card>
+<card id="cdeaca53-a691-4419-ae55-98c58e5daa53" name="Vegeta - Empowered">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P26" />
+<property name="Type" value="Villain" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Saiyan" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="4" />
+<property name="Power Rating" value="0; 500; 1000; 5000; 10000; 25000; 50000; 75000; 100000; 125000; 150000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="3" />
+</card>
+<card id="c7096ead-5309-44b5-b256-6e290a759e86" name="Vegeta - Renewed">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P27" />
+<property name="Type" value="Villain" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Saiyan" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="5" />
+<property name="Power Rating" value="0; 1000; 10000; 100000; 200000; 300000; 400000; 500000; 600000; 700000; 800000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="4" />
+</card>
+<card id="d79011b9-3ece-41af-aae8-ad7ce002b29a" name="Android 17 - Judgmental">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P28" />
+<property name="Type" value="Villain" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Earthling, Android" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="2" />
+<property name="Power Rating" value="0; 500; 1000; 5000; 10000; 25000; 45000; 65000; 85000; 105000; 125000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="1" />
+</card>
+<card id="47765c74-4884-4cbd-b2a0-9759324efd95" name="Android 17 - Imposing">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P29" />
+<property name="Type" value="Villain" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Earthling, Android" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="3" />
+<property name="Power Rating" value="0; 1000; 5000; 10000; 25000; 50000; 150000; 250000; 450000; 650000; 850000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="2" />
+</card>
+<card id="59c6b737-ee45-4bae-a3d4-e1015f9e4d2a" name="Android 17 - Battle Ready">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P30" />
+<property name="Type" value="Villain" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Earthling, Android" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="4" />
+<property name="Power Rating" value="0; 12500; 25000; 50000; 100000; 150000; 350000; 550000; 750000; 950000; 115000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="3" />
+</card>
+<card id="68444dee-6674-451d-8c26-751c6091d39e" name="Android 17 - in Action">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P31" />
+<property name="Type" value="Villain" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Earthling, Android" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="5" />
+<property name="Power Rating" value="0; 50000; 100000; 200000; 300000; 600000; 900000; 1200000; 1500000; 1700000; 1900000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="4" />
+</card>
+<card id="dd54c89c-7266-490e-8302-b34cf32fa8e1" name="Android 18 - Directing">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P32" />
+<property name="Type" value="Villain" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Earthling, Android" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="2" />
+<property name="Power Rating" value="0; 500; 1000; 5000; 10000; 20000; 35000; 55000; 75000; 95000; 115000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="1" />
+</card>
+<card id="3a7dbf79-7501-434f-a194-b4c2c9d7134e" name="Android 18 - Threatening">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P33" />
+<property name="Type" value="Villain" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Earthling, Android" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="3" />
+<property name="Power Rating" value="0; 1000; 5000; 10000; 25000; 50000; 150000; 25000; 350000; 550000; 750000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="2" />
+</card>
+<card id="748b6673-c7d3-4d87-a903-e324240a6b15" name="Android 18 - Effective">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P34" />
+<property name="Type" value="Villain" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Earthling, Android" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="4" />
+<property name="Power Rating" value="0; 10000; 25000; 50000; 100000; 250000; 500000; 750000; 850000; 950000; 1050000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="3" />
+</card>
+<card id="c3e0f1af-3155-40a8-a3e6-e006af828f15" name="Android 18 - Determined">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P35" />
+<property name="Type" value="Villain" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Earthling, Android" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="5" />
+<property name="Power Rating" value="0; 300000; 500000; 700000; 900000; 1100000; 1300000; 1500000; 1600000; 1700000; 1800000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="4" />
+</card>
+<card id="486dc6f9-1f75-43a5-b514-a470a8c065b1" name="Goku - Relaxed">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P36" />
+<property name="Type" value="Hero" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Earthling, Saiyan" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="2" />
+<property name="Power Rating" value="0; 500; 1000; 5000; 10000; 15000; 20000; 45000; 70000; 95000; 120000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="1" />
+</card>
+<card id="8d147715-dde0-4aa0-a166-5c07c9f4642e" name="Goku - Motivated">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P37" />
+<property name="Type" value="Hero" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Earthling, Saiyan" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="3" />
+<property name="Power Rating" value="0; 1000; 5000; 10000; 25000; 50000; 100000; 200000; 400000; 600000; 800000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="2" />
+</card>
+<card id="a0ca7f60-0fab-4eb3-881b-a87c581dc1b8" name="Goku - Calm">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P38" />
+<property name="Type" value="Hero" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Earthling, Saiyan" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="4" />
+<property name="Power Rating" value="0; 37500; 75000; 150000; 300000; 600000; 700000; 800000; 900000; 1000000; 1100000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="3" />
+</card>
+<card id="cfe6c6d3-c476-466b-82b6-1702cc29ac74" name="Goku - Dashing">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P39" />
+<property name="Type" value="Hero" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Earthling, Saiyan" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="5" />
+<property name="Power Rating" value="0; 75000; 150000; 400000; 650000; 800000; 1150000; 1400000; 1650000; 1750000; 1850000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="4" />
+</card>
+<card id="c8112bcd-cd7d-4cc1-b9ea-2e2a8bf97505" name="Piccolo - Composed">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P40" />
+<property name="Type" value="Hero" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Namekian" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="3" />
+<property name="Power Rating" value="0; 750; 1500; 3000; 6000; 12000; 24000; 48000; 96000; 104000; 112000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="1" />
+</card>
+<card id="5b9f1af4-aa1d-4735-9bc9-fb035894300c" name="Piccolo - Anticipating">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P41" />
+<property name="Type" value="Hero" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Namekian" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="4" />
+<property name="Power Rating" value="0; 1000; 5000; 10000; 25000; 50000; 75000; 175000; 375000; 575000; 775000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="2" />
+</card>
+<card id="4e6ef47a-acaa-40c9-9e36-93d0b36f4bdd" name="Piccolo - Ferocious">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P42" />
+<property name="Type" value="Hero" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Namekian" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="5" />
+<property name="Power Rating" value="0; 25000; 125000; 225000; 325000; 425000; 625000; 725000; 825000; 925000; 1025000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="3" />
+</card>
+<card id="c7dde408-d75d-4c74-8913-e4a4d5b97ab9" name="Piccolo - Revitalized">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P43" />
+<property name="Type" value="Hero" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Namekian" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="6" />
+<property name="Power Rating" value="0; 50000; 150000; 350000; 550000; 750000; 922000; 1150000; 1350000; 1550000; 1750000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="4" />
+</card>
+<card id="ac1287f7-08d1-4575-a7b9-9520f24b1a20" name="Trunks - Returned">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P44" />
+<property name="Type" value="Hero" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Earthling, Saiyan" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="2" />
+<property name="Power Rating" value="0; 2000; 4000; 6000; 8000; 10000; 30000; 50000; 70000; 90000; 110000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="1" />
+</card>
+<card id="07f53427-f673-4c9e-8b0d-fdd6a1b3c8dd" name="Trunks - Swordmaster">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P45" />
+<property name="Type" value="Hero" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Earthling, Saiyan" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="3" />
+<property name="Power Rating" value="0; 2500; 5000; 10000; 50000; 100000; 150000; 300000; 450000; 600000; 750000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="2" />
+</card>
+<card id="c5c9377b-bebd-4164-a6f3-9f2e8347f087" name="Trunks - Defiant">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P46" />
+<property name="Type" value="Hero" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Earthling, Saiyan" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="4" />
+<property name="Power Rating" value="0; 12500; 25000; 50000; 100000; 200000; 400000; 600000; 800000; 900000; 1000000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="3" />
+</card>
+<card id="e7760079-8afa-47cc-bea7-1497e7d3bb85" name="Trunks - Overpowering">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P47" />
+<property name="Type" value="Hero" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Earthling, Saiyan" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="5" />
+<property name="Power Rating" value="0; 250000; 500000; 1000000; 1100000; 1200000; 1300000; 1400000; 1500000; 1600000; 1700000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="4" />
+</card>
+<card id="59451714-7a54-48f5-abbf-c281b472f50c" name="Vegeta - Calculating">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P48" />
+<property name="Type" value="Hero" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Saiyan" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="2" />
+<property name="Power Rating" value="0; 100; 500; 1000; 5000; 10000; 20000; 35000; 61000; 87000; 113000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="1" />
+</card>
+<card id="4a5a2d5d-1cb9-43c0-8f8b-22f13a8106f4" name="Vegeta - On the Move">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P49" />
+<property name="Type" value="Hero" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Saiyan" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="3" />
+<property name="Power Rating" value="0; 500; 1000; 5000; 10000; 25000; 100000; 175000; 250000; 500000; 775000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="2" />
+</card>
+<card id="fcb05e06-f952-45c9-8099-b72522e1f758" name="Vegeta - Super Saiyan">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P50" />
+<property name="Type" value="Hero" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Saiyan" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="4" />
+<property name="Power Rating" value="0; 100000; 200000; 300000; 400000; 500000; 600000; 700000; 800000; 900000; 1000000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="3" />
+</card>
+<card id="aeb29eec-a42b-4c63-80fa-188e814cc999" name="Vegeta - Elite">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P51" />
+<property name="Type" value="Hero" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Saiyan" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="5" />
+<property name="Power Rating" value="0; 150000; 250000; 350000; 550000; 750000; 950000; 1150000; 1350000; 1550000; 1750000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="4" />
+</card>
+<card id="2c4d78e0-c0b4-4d4a-8ad5-f6dccb2be61c" name="Cell - Imperfect">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P52" />
+<property name="Type" value="Villain" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Alien, Android, Earthling, Namekian, Saiyan" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="2" />
+<property name="Power Rating" value="0; 1000; 5000; 9000; 13000; 17000; 21000; 25000; 65000; 105000; 145000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="1" />
+</card>
+<card id="461835d9-6704-4db1-be99-fa195deb3641" name="Cell - Semi-Perfect">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P53" />
+<property name="Type" value="Villain" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Alien, Android, Earthling, Namekian, Saiyan" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="3" />
+<property name="Power Rating" value="0; 1000; 5000; 10000; 25000; 50000; 75000; 100000; 400000; 900000; 1400000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="2" />
+</card>
+<card id="abbde845-f12a-4ec5-8a39-f413996ea0f4" name="Cell - Perfect">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P54" />
+<property name="Type" value="Villain" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Alien, Android, Earthling, Namekian, Saiyan" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="4" />
+<property name="Power Rating" value="0; 10000; 25000; 100000; 200000; 300000; 400000; 500000; 1000000; 1400000; 2000000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="3" />
+</card>
+<card id="2356df27-ee52-439f-a978-fd824ae0746c" name="Cell - Unstoppable">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P55" />
+<property name="Type" value="Villain" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Alien, Android, Earthling, Namekian, Saiyan" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="5" />
+<property name="Power Rating" value="0; 50000; 100000; 200000; 300000; 400000; 500000; 1000000; 1500000; 2000000; 2500000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="4" />
+</card>
+<card id="fa3e8342-cf6a-461d-b8a9-26e0f21d92cb" name="Cell - Prepared">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P56" />
+<property name="Type" value="Villain" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Alien, Android, Earthling, Namekian, Saiyan" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="2" />
+<property name="Power Rating" value="0; 1250; 2500; 5000; 10000; 15000; 20000; 25000; 100000; 500000; 1000000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="1" />
+</card>
+<card id="12c8c8e8-3e10-4a1b-a16f-ec98b971c60d" name="Cell - Combative">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P57" />
+<property name="Type" value="Villain" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Alien, Android, Earthling, Namekian, Saiyan" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="3" />
+<property name="Power Rating" value="0; 1000; 5000; 35000; 65000; 95000; 125000; 250000; 500000; 1000000; 1500000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="2" />
+</card>
+<card id="97cb920b-56df-484c-845d-94da140b9cea" name="Cell - Smooth">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P58" />
+<property name="Type" value="Villain" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Alien, Android, Earthling, Namekian, Saiyan" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="4" />
+<property name="Power Rating" value="0; 10000; 25000; 100000; 200000; 300000; 400000; 500000; 1000000; 1400000; 2000000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="3" />
+</card>
+<card id="88f8f2a6-f39d-4bc0-8c45-62058b296354" name="Gohan - Adept">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P59" />
+<property name="Type" value="Hero" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Namekian, Earthling, Saiyan" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="3" />
+<property name="Power Rating" value="0; 2500; 5000; 10000; 25000; 50000; 75000; 100000; 300000; 500000; 700000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="1" />
+</card>
+<card id="b358a17b-14c9-444e-abe1-eff4122506b7" name="Gohan - Unlocked">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P60" />
+<property name="Type" value="Hero" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Namekian, Earthling, Saiyan" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="4" />
+<property name="Power Rating" value="0; 6250; 12500; 25000; 50000; 100000; 300000; 500000; 700000; 900000; 1100000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="2" />
+</card>
+<card id="77942600-8ec5-43bf-bebb-89e8d35967c6" name="Gohan - Unassuming">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P61" />
+<property name="Type" value="Hero" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Namekian, Earthling, Saiyan" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="5" />
+<property name="Power Rating" value="0; 12500; 25000; 50000; 100000; 200000; 500000; 800000; 1100000; 1400000; 1700000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="3" />
+</card>
+<card id="0c8c465b-e2ca-40b5-8989-93f2f3c7fcc6" name="Gohan - Undeniable">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P62" />
+<property name="Type" value="Hero" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Namekian, Earthling, Saiyan" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="6" />
+<property name="Power Rating" value="0; 25000; 50000; 100000; 200000; 300000; 600000; 900000; 1200000; 2000000; 2800000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="4" />
+</card>
+<card id="63ba6330-0b73-4f68-b0fc-a7313809f0e4" name="Goku - Training">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P63" />
+<property name="Type" value="Hero" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Earthling, Saiyan" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="2" />
+<property name="Power Rating" value="0; 1250; 2500; 5000; 10000; 25000; 50000; 100000; 200000; 400000; 800000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="1" />
+</card>
+<card id="e7fb1ba0-6de6-4c6c-9374-62fcffa1f652" name="Goku - Determined">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P64" />
+<property name="Type" value="Hero" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Earthling, Saiyan" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="3" />
+<property name="Power Rating" value="0; 20000; 40000; 60000; 80000; 100000; 250000; 500000; 750000; 1000000; 1250000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="2" />
+</card>
+<card id="38d475b4-2f89-4e41-aeb8-18931d506d5e" name="Goku - Courageous">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P65" />
+<property name="Type" value="Hero" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Earthling, Saiyan" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="4" />
+<property name="Power Rating" value="0; 25000; 50000; 10000; 250000; 500000; 750000; 1000000; 1250000; 1500000; 1750000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="3" />
+</card>
+<card id="459e0c8e-1182-419a-b253-a270bb770987" name="Goku - Selfless">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P66" />
+<property name="Type" value="Hero" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Earthling, Saiyan" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="5" />
+<property name="Power Rating" value="0; 12500; 25000; 50000; 100000; 400000; 800000; 1200000; 1600000; 2000000; 2400000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="4" />
+</card>
+<card id="21a26806-eee1-466f-8159-c235af9c422e" name="Hercule - Champion">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P67" />
+<property name="Type" value="Hero" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Earthling" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="1" />
+<property name="Power Rating" value="0; 50; 45; 40; 35; 30; 25; 20; 15; 10; 5" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="1" />
+</card>
+<card id="2e47aadd-d326-4936-8603-565cfce61e09" name="Hercule - Posing">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P68" />
+<property name="Type" value="Hero" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Earthling" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="2" />
+<property name="Power Rating" value="0; 50; 45; 40; 35; 30; 25; 20; 15; 10; 5" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="2" />
+</card>
+<card id="655794d3-84b8-4273-9a23-943189b69f9f" name="Hercule - Guarded">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P69" />
+<property name="Type" value="Hero" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Earthling" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="3" />
+<property name="Power Rating" value="0; 50; 45; 40; 35; 30; 25; 20; 15; 10; 5" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="3" />
+</card>
+<card id="11e47855-d10a-4c9a-baf0-f856e363ba1c" name="Hercule - In Action">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P70" />
+<property name="Type" value="Hero" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Earthling" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="4" />
+<property name="Power Rating" value="0; 50; 45; 40; 35; 30; 25; 20; 15; 10; 5" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="4" />
+</card>
+<card id="9699b450-4fe1-40fb-98ea-fff5a74ab2f8" name="Trunks - Dashing">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P71" />
+<property name="Type" value="Hero" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Earthling, Saiyan" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="2" />
+<property name="Power Rating" value="0; 2500; 5000; 10000; 15000; 20000; 25000; 75000; 125000; 175000; 225000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="1" />
+</card>
+<card id="2d746b5d-e78e-46ef-8229-c1718f2daf2b" name="Trunks - Frenzied">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P72" />
+<property name="Type" value="Hero" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Earthling, Saiyan" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="3" />
+<property name="Power Rating" value="0; 6250; 12500; 25000; 50000; 100000; 250000; 400000; 550000; 700000; 850000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="2" />
+</card>
+<card id="1c721f7d-b4e7-4a2d-8960-f70adb42f984" name="Trunks - Bold">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P73" />
+<property name="Type" value="Hero" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Earthling, Saiyan" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="4" />
+<property name="Power Rating" value="0; 25000; 50000; 100000; 150000; 200000; 250000; 500000; 750000; 1000000; 1250000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="3" />
+</card>
+<card id="208a8517-c75d-46b1-949a-def8f19cd0ca" name="Trunks - Overwhelming">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P74" />
+<property name="Type" value="Hero" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Earthling, Saiyan" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="5" />
+<property name="Power Rating" value="0; 25000; 50000; 150000; 250000; 350000; 650000; 950000; 1250000; 1550000; 1850000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="4" />
+</card>
+<card id="516c005d-2d0d-47cf-a773-ea22eb719eee" name="Vegeta - Experienced">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P75" />
+<property name="Type" value="Hero" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Saiyan" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="3" />
+<property name="Power Rating" value="0; 2500; 5000; 10000; 20000; 40000; 60000; 80000; 100000; 175000; 250000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="1" />
+</card>
+<card id="c3c1d4f7-6d46-44c9-a74b-8edd02cdd1df" name="Vegeta - Imposing">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P76" />
+<property name="Type" value="Hero" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Saiyan" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="4" />
+<property name="Power Rating" value="0; 5000; 10000; 20000; 40000; 60000; 80000; 100000; 350000; 650000; 950000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="2" />
+</card>
+<card id="bde65888-46cf-493c-bca0-e23ced9da400" name="Vegeta - Energized">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P77" />
+<property name="Type" value="Hero" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Saiyan" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="5" />
+<property name="Power Rating" value="0; 12500; 25000; 50000; 100000; 150000; 300000; 600000; 900000; 1200000; 1500000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="3" />
+</card>
+<card id="23f5dc50-e041-499a-bf4e-1cb9eb87e8f9" name="Vegeta - Pinnacle of Power">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P78" />
+<property name="Type" value="Hero" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="Saiyan" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="6" />
+<property name="Power Rating" value="0; 25000; 50000; 100000; 200000; 500000; 800000; 1100000; 1400000; 1700000; 2000000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="4" />
+</card>
+</cards>
+</set>
