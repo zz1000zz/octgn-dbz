@@ -811,5 +811,395 @@
 <property name="Rarity" value="Starter" />
 <property name="Card Level" value="4" />
 </card>
+<card id="ed981630-a867-448e-b623-34991d47cc8e" name="Vegeta - Untethered Rage">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="S59" />
+<property name="Type" value="Villain" />
+<property name="Endurance" value="" />
+<property name="Text" value="(When your MP is lowered to this level, you may banish your discard pile to advance your MP 1 level. If you do, discard a card from your hand and you cannot win by MPPV.) POWER: Physical attack. Your next Styled attack gains HIT: Raise your anger 2 levels. Use a critical damage effect. DAMAGE: 4 stages. " />
+<property name="Traits" value="Majin, Saiyan" />
+<property name="Limit per Deck" value="1" />
+<property name="PUR" value="2" />
+<property name="Power Rating" value="0; 4000; 7000; 10000; 20000; 45000; 90000; 250000; 550000; 1100000; 1600000" />
+<property name="Rarity" value="Starter" />
+<property name="Card Level" value="1" />
+</card>
+<card id="062a9187-a998-40d9-8c62-19232665fa0c" name="Vegeta - Malicious">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="S60" />
+<property name="Type" value="Villain" />
+<property name="Endurance" value="" />
+<property name="Text" value="CONSTANT POWER: Your Styled attacks deal +1 stage of damage. While the top and bottom cards of your discard pile are Styled, effects cannot end combat nor cause a player to skip or pass an action. POWER: Energy attack. Banish 2 cards from either player's discard pile. You may raise a player's anger 1 level. DAMAGE: 6 stages. " />
+<property name="Traits" value="Majin, Saiyan" />
+<property name="Limit per Deck" value="1" />
+<property name="PUR" value="3" />
+<property name="Power Rating" value="0; 1000; 10000; 25000; 50000; 90000; 150000; 500000; 900000; 1500000; 2200000" />
+<property name="Rarity" value="Starter" />
+<property name="Card Level" value="2" />
+</card>
+<card id="18ebf839-fcb4-45bb-976d-635b6ee3e473" name="Vegeta - Relentless">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="S61" />
+<property name="Type" value="Villain" />
+<property name="Endurance" value="" />
+<property name="Text" value="CONSTANT POWER: Your Styled attacks deal +2 stages of damage. After you gain anger, you may banish a card from each player's discard pile. POWER: Draw the bottom card of your discard pile. Destroy a Setup, Drill, or Ally. If there are no non-Styled cards in your discard pile, destroy a Setup, Drill, or Ally." />
+<property name="Traits" value="Majin, Saiyan" />
+<property name="Limit per Deck" value="1" />
+<property name="PUR" value="4" />
+<property name="Power Rating" value="0; 10000; 20000; 30000; 90000; 300000; 600000; 1000000; 1500000; 2100000; 2700000" />
+<property name="Rarity" value="Starter" />
+<property name="Card Level" value="3" />
+</card>
+<card id="7113001c-d348-4728-b9f0-2d51eb56da74" name="Vegeta - Redeemed">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="S62" />
+<property name="Type" value="Villain" />
+<property name="Endurance" value="" />
+<property name="Text" value="POWER: Energy attack costing 2 stages. Damage from this attack cannot be modified or prevented. DAMAGE: 11 life cards. HIT: Lower your MP to level 1." />
+<property name="Traits" value="Majin, Saiyan" />
+<property name="Limit per Deck" value="1" />
+<property name="PUR" value="5" />
+<property name="Power Rating" value="0; 1000; 7000; 15000; 30000; 60000; 125000; 375000; 750000; 1500000; 3200000" />
+<property name="Rarity" value="Starter" />
+<property name="Card Level" value="4" />
+</card>
+<card id="205a898b-cc24-4226-8686-28372f12d29a" name="Vegeta - Untethered Rage">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P1" />
+<property name="Type" value="Villain" />
+<property name="Endurance" value="" />
+<property name="Text" value="(When your MP is lowered to this level, you may banish your discard pile to advance your MP 1 level. If you do, discard a card from your hand and you cannot win by MPPV.) POWER: Physical attack. Your next Styled attack gains HIT: Raise your anger 2 levels. Use a critical damage effect. DAMAGE: 4 stages. " />
+<property name="Traits" value="Majin, Saiyan" />
+<property name="Limit per Deck" value="1" />
+<property name="PUR" value="2" />
+<property name="Power Rating" value="0; 4000; 7000; 10000; 20000; 45000; 90000; 250000; 550000; 1100000; 1600000" />
+<property name="Rarity" value="Starter" />
+<property name="Card Level" value="1" />
+</card>
+<card id="bcfab8b2-5c5f-42e3-bfa3-d5e45db7ebbe" name="Vegeta - Malicious">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P2" />
+<property name="Type" value="Villain" />
+<property name="Endurance" value="" />
+<property name="Text" value="CONSTANT POWER: Your Styled attacks deal +1 stage of damage. While the top and bottom cards of your discard pile are Styled, effects cannot end combat nor cause a player to skip or pass an action. POWER: Energy attack. Banish 2 cards from either player's discard pile. You may raise a player's anger 1 level. DAMAGE: 6 stages. " />
+<property name="Traits" value="Majin, Saiyan" />
+<property name="Limit per Deck" value="1" />
+<property name="PUR" value="3" />
+<property name="Power Rating" value="0; 1000; 10000; 25000; 50000; 90000; 150000; 500000; 900000; 1500000; 2200000" />
+<property name="Rarity" value="Starter" />
+<property name="Card Level" value="2" />
+</card>
+<card id="46b58eb4-a892-4288-9f6b-ba76067764ba" name="Vegeta - Relentless">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P3" />
+<property name="Type" value="Villain" />
+<property name="Endurance" value="" />
+<property name="Text" value="CONSTANT POWER: Your Styled attacks deal +2 stages of damage. After you gain anger, you may banish a card from each player's discard pile. POWER: Draw the bottom card of your discard pile. Destroy a Setup, Drill, or Ally. If there are no non-Styled cards in your discard pile, destroy a Setup, Drill, or Ally." />
+<property name="Traits" value="Majin, Saiyan" />
+<property name="Limit per Deck" value="1" />
+<property name="PUR" value="4" />
+<property name="Power Rating" value="0; 10000; 20000; 30000; 90000; 300000; 600000; 1000000; 1500000; 2100000; 2700000" />
+<property name="Rarity" value="Starter" />
+<property name="Card Level" value="3" />
+</card>
+<card id="40e02d81-e9fc-4933-aa5e-34566e8bf542" name="Vegeta - Redeemed">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P4" />
+<property name="Type" value="Villain" />
+<property name="Endurance" value="" />
+<property name="Text" value="POWER: Energy attack costing 2 stages. Damage from this attack cannot be modified or prevented. DAMAGE: 11 life cards. HIT: Lower your MP to level 1." />
+<property name="Traits" value="Majin, Saiyan" />
+<property name="Limit per Deck" value="1" />
+<property name="PUR" value="5" />
+<property name="Power Rating" value="0; 1000; 7000; 15000; 30000; 60000; 125000; 375000; 750000; 1500000; 3200000" />
+<property name="Rarity" value="Starter" />
+<property name="Card Level" value="4" />
+</card>
+<card id="dbf1c113-7352-4131-bffc-57557d7a08f5" name="Buu - Playful">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P5" />
+<property name="Type" value="Villain" />
+<property name="Endurance" value="" />
+<property name="Text" value="(At the start of the game, you may search your Life Deck for all copies of Buu's Candy, Buu's Chocolate, and Buu's Cookie and banish them.) CONSTANT POWER: Your opponent's attacks deal -1 stage of damage. POWER: Physical attack. Raise your anger 1 level. Rejuvenate 1. DAMAGE: 3 stages. HIT: You may discard a card from your hand to draw a card or Rejuvenate 2. " />
+<property name="Traits" value="Majin" />
+<property name="Limit per Deck" value="1" />
+<property name="PUR" value="2" />
+<property name="Power Rating" value="0; 5000; 25000; 50000; 100000; 300000; 500000; 800000; 1000000; 1500000; 2000000" />
+<property name="Rarity" value="Starter" />
+<property name="Card Level" value="1" />
+</card>
+<card id="c83aeb14-372b-4670-8464-bab0674f83b7" name="Buu - Abomination">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P6" />
+<property name="Type" value="Villain" />
+<property name="Endurance" value="" />
+<property name="Text" value="CONSTANT POWER: After taking damage from an attack, Rejuvenate 1. POWER: Physical attack. Choose a card in your discard pile and shuffle it into your Life Deck. DAMAGE: 6 stage. HIT: Raise your anger 2 levels or Rejuvenate 2. " />
+<property name="Traits" value="Majin" />
+<property name="Limit per Deck" value="1" />
+<property name="PUR" value="3" />
+<property name="Power Rating" value="0; 30000; 60000; 200000; 400000; 600000; 800000; 1200000; 1600000; 2300000; 3000000" />
+<property name="Rarity" value="Starter" />
+<property name="Card Level" value="2" />
+</card>
+<card id="64044d64-c1f0-4020-9c19-60921ac32362" name="Buu - Monstrous">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P7" />
+<property name="Type" value="Villain" />
+<property name="Endurance" value="" />
+<property name="Text" value="CONSTANT POWER: Whenever you Rejuvenate, increase that amount by 1. INSTANT POWER: Use when entering combat. Rejuvenate the top or bottom card of your discard pile. POWER: Physical attack. Search your discard pile or Banished Zone for a Named Setup and place it into play or use its Power. DAMAGE: 6 stages." />
+<property name="Traits" value="Majin" />
+<property name="Limit per Deck" value="1" />
+<property name="PUR" value="4" />
+<property name="Power Rating" value="0; 40000; 90000; 300000; 700000; 900000; 1300000; 1700000; 2400000; 3300000; 4000000" />
+<property name="Rarity" value="Starter" />
+<property name="Card Level" value="3" />
+</card>
+<card id="82a44459-e457-4d7e-8a34-28669aabbd3a" name="Buu - Steaming">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P8" />
+<property name="Type" value="Villain" />
+<property name="Endurance" value="" />
+<property name="Text" value="CONSTANT POWER: Prevent all damage from your opponent's first attack this combat. INSTANT POWER: Use after performing a successful attack, It gains HIT: Search your Life Deck, discard pile, or Banished Zone for a Named Setup and place it into play or use its Power. POWER: Physical attack. DAMAGE: 8 stages. HIT: Banish all Named Setups you own in play. Rejuvenate 5 for each card banished this way." />
+<property name="Traits" value="Majin" />
+<property name="Limit per Deck" value="1" />
+<property name="PUR" value="5" />
+<property name="Power Rating" value="0; 50000; 100000; 300000; 500000; 700000; 1000000; 2000000; 3000000; 4000000; 5000000" />
+<property name="Rarity" value="Starter" />
+<property name="Card Level" value="4" />
+</card>
+<card id="3c722401-db6f-4e1f-8db0-e639a13ed570" name="Goten - Son of Goku">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P9" />
+<property name="Type" value="Hero" />
+<property name="Endurance" value="" />
+<property name="Text" value="CONSTANT POWER: Your attacks deal +1 stage of damage. POWER: Physical attack. Raise a player's anger 1 level. DAMAGE: 3 stages. HIT: You may choose a Drill in your discard pile and shuffle it into your Life deck." />
+<property name="Traits" value="Earthling, Saiyan" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="0; 1000; 3000; 5000; 8000; 10000; 15000; 20000; 40000; 60000; 100000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="1" />
+</card>
+<card id="aaa1ae07-5aaf-4573-8377-af84cbb7f369" name="Goten - Floating">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P10" />
+<property name="Type" value="Hero" />
+<property name="Endurance" value="" />
+<property name="Text" value="(After you advance to this level, search your Life Deck for a Styled Drill and place it into play.) CONSTANT POWER: Your attacks deal +1 stage of damage and your opponent's attacks deal -1 stage of damage. POWER: PHsyical attack. DAMAGE: At +2 stages. HIT: Raise or lower a player's anger 2 levels." />
+<property name="Traits" value="Earthling, Saiyan" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="0; 5000; 10000; 15000; 30000; 70000; 80000; 90000; 100000; 150000; 300000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="2" />
+</card>
+<card id="1b613e0f-a750-411b-bac0-d344ac347fac" name="Goten - On the Move">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P11" />
+<property name="Type" value="Hero" />
+<property name="Endurance" value="" />
+<property name="Text" value="(After you advance ot this level, search your Life Deck or discard pile for a Styled Drill and place it into play.) CONSTANT POWER: Your attacks deal +2 stages of damage. POWER: Discard a card from your hand or destroy a Drill you control to draw a card. Your opponent's next attack this combat deals no damage." />
+<property name="Traits" value="Earthling, Saiyan" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="0; 1000; 5000; 10000; 20000; 40000; 60000; 100000; 200000; 400000; 600000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="3" />
+</card>
+<card id="f66c0516-e1f5-4329-b0e3-a5a57716d16c" name="Goten - Super Saiyan">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P12" />
+<property name="Type" value="Hero" />
+<property name="Endurance" value="" />
+<property name="Text" value="(After you advance to this level, search your Life Deck, discard pile and Banished Zone for a total of up to 2 Drills and play them.) CONSTANT POWER: Your attacks deal +2 stages of damage and your opponent's attacks deal -2 stages of damage. POWER: Physical attack. You may destroy a Drill you control. If you do, this attack deals +2 stages of damage for each Drill you control. DAMAGE: 6 stages." />
+<property name="Traits" value="Earthling, Saiyan" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="0; 1000; 10000; 15000; 30000; 70000; 200000; 400000; 700000; 1000000; 1150000" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="4" />
+</card>
+<card id="84a0ef7d-2222-4b48-a9f9-80ae17bc6676" name="Black Absorption Drill">
+<property name="Style" value="Black" />
+<property name="Card Number" value="P13" />
+<property name="Type" value="Drill" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="" />
+</card>
+<card id="cd10a0c2-b9f4-4e7f-b22b-7eb2e4b52110" name="Black Taunt">
+<property name="Style" value="Black" />
+<property name="Card Number" value="P14" />
+<property name="Type" value="Event" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="" />
+</card>
+<card id="f1c5a318-9c53-49fd-9189-c9794f80b4ed" name="Blue Leverage">
+<property name="Style" value="Blue" />
+<property name="Card Number" value="P15" />
+<property name="Type" value="Physical Combat" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="" />
+</card>
+<card id="ff102817-e4c5-4285-8b99-eb24413014c1" name="Blue Shifting Maneuver">
+<property name="Style" value="Blue" />
+<property name="Card Number" value="P16" />
+<property name="Type" value="Event" />
+<property name="Endurance" value="2" />
+<property name="Text" value="" />
+<property name="Traits" value="" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="" />
+</card>
+<card id="8b58199d-98e8-405e-b802-fbeda432c0b3" name="Namekian Heritage Drill">
+<property name="Style" value="Namekian" />
+<property name="Card Number" value="P17" />
+<property name="Type" value="Drill" />
+<property name="Endurance" value="1" />
+<property name="Text" value="" />
+<property name="Traits" value="" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="" />
+</card>
+<card id="cf13c053-3279-4f4b-8192-80bb1deb5981" name="Namekian Resourceful Shot">
+<property name="Style" value="Namekian" />
+<property name="Card Number" value="P18" />
+<property name="Type" value="Energy Combat" />
+<property name="Endurance" value="1" />
+<property name="Text" value="" />
+<property name="Traits" value="" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="" />
+</card>
+<card id="2421740e-a4c2-4100-8c65-bf2f214a0aa4" name="Orange Charged Kick">
+<property name="Style" value="Orange" />
+<property name="Card Number" value="P19" />
+<property name="Type" value="Physical Combat" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="" />
+</card>
+<card id="9bfd0431-cc4d-4ea0-aa35-8c6094ace541" name="Orange Meditation">
+<property name="Style" value="Orange" />
+<property name="Card Number" value="P20" />
+<property name="Type" value="Event" />
+<property name="Endurance" value="2" />
+<property name="Text" value="" />
+<property name="Traits" value="" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="" />
+</card>
+<card id="860847da-b6f1-4d17-af37-0091800d6179" name="Red Forward Stance Drill">
+<property name="Style" value="Red" />
+<property name="Card Number" value="P21" />
+<property name="Type" value="Drill" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="" />
+</card>
+<card id="ad4c819f-640f-4e7b-b30c-f0d380110169" name="Red Stop">
+<property name="Style" value="Red" />
+<property name="Card Number" value="P22" />
+<property name="Type" value="Event" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="" />
+</card>
+<card id="c38f693b-f663-46e5-8c49-9ecc2215414c" name="Saiyan Grab">
+<property name="Style" value="Saiyan" />
+<property name="Card Number" value="P23" />
+<property name="Type" value="Physical Combat" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="" />
+</card>
+<card id="3c17d28b-8a8d-4817-826a-90cbf86bb212" name="Saiyan Legendary Strike">
+<property name="Style" value="Saiyan" />
+<property name="Card Number" value="P24" />
+<property name="Type" value="Phsyical Combat" />
+<property name="Endurance" value="2" />
+<property name="Text" value="" />
+<property name="Traits" value="" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="" />
+</card>
+<card id="901cc3c4-c822-4ffa-a978-62c5432ed189" name="Sinister Choke">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P27" />
+<property name="Type" value="Phsyical Combat" />
+<property name="Endurance" value="" />
+<property name="Text" value="" />
+<property name="Traits" value="" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="" />
+</card>
+<card id="48c5d0d7-7c41-4bd3-a1e6-904495e8cad1" name="Crushing Beam">
+<property name="Style" value="Freestyle" />
+<property name="Card Number" value="P31" />
+<property name="Type" value="Energy Combat" />
+<property name="Endurance" value="2" />
+<property name="Text" value="" />
+<property name="Traits" value="" />
+<property name="Limit per Deck" value="" />
+<property name="PUR" value="" />
+<property name="Power Rating" value="" />
+<property name="Rarity" value="" />
+<property name="Card Level" value="" />
+</card>
 </cards>
 </set>
