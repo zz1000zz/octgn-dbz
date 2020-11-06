@@ -17,9 +17,9 @@ def untapAll(group, x = 0, y = 0):
 def clearAll(group, x = 0, y= 0):
     notify("{} clears all targets and combat.".format(me))
     for card in group:
-		if card.controller == me:
-			card.target(False)
-			card.highlight = None
+        if card.controller == me:
+                card.target(False)
+                card.highlight = None
 
 def roll20(group, x = 0, y = 0):
     mute()
@@ -51,7 +51,7 @@ def tap(card, x = 0, y = 0):
     mute()
     card.orientation ^= Rot90
     if card.orientation & Rot90 == Rot90:
-		notify('{} taps {}'.format(me, card))
+        notify('{} taps {}'.format(me, card))
     else:
         notify('{} untaps {}'.format(me, card))
 		  
